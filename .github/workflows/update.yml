@@ -1,0 +1,29 @@
+name: Update
+on:
+  schedule:
+    - cron: "9 0 * * *"  # run at 09:00 UTC
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.13"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --force-reinstall -r requirements.txt
+      - name: Create update
+        run: python bin/update.py cacheless
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff-index --quiet HEAD --; then
+            echo "No changes"
+          else
+            git commit -m "$( tail -n 1 data/CHANGELOG.txt )"
+            git push
+          fi
