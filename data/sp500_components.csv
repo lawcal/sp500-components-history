@@ -1,0 +1,504 @@
+symbol,cik,name,sector
+A,0001090872,Agilent Technologies,health_care
+AAPL,0000320193,Apple Inc.,information_technology
+ABBV,0001551152,AbbVie,health_care
+ABNB,0001559720,Airbnb,consumer_discretionary
+ABT,0000001800,Abbott Laboratories,health_care
+ACGL,0000947484,Arch Capital Group,financials
+ACN,0001467373,Accenture,information_technology
+ADBE,0000796343,Adobe Inc.,information_technology
+ADI,0000006281,Analog Devices,information_technology
+ADM,0000007084,Archer Daniels Midland,consumer_staples
+ADP,0000008670,Automatic Data Processing,industrials
+ADSK,0000769397,Autodesk,information_technology
+AEE,0001002910,Ameren,utilities
+AEP,0000004904,American Electric Power,utilities
+AES,0000874761,AES Corporation,utilities
+AFL,0000004977,Aflac,financials
+AIG,0000005272,American International Group,financials
+AIZ,0001267238,Assurant,financials
+AJG,0000354190,Arthur J. Gallagher & Co.,financials
+AKAM,0001086222,Akamai Technologies,information_technology
+ALB,0000915913,Albemarle Corporation,materials
+ALGN,0001097149,Align Technology,health_care
+ALL,0000899051,Allstate,financials
+ALLE,0001579241,Allegion,industrials
+AMAT,0000006951,Applied Materials,information_technology
+AMCR,0001748790,Amcor,materials
+AMD,0000002488,Advanced Micro Devices,information_technology
+AME,0001037868,Ametek,industrials
+AMGN,0000318154,Amgen,health_care
+AMP,0000820027,Ameriprise Financial,financials
+AMT,0001053507,American Tower,real_estate
+AMZN,0001018724,Amazon,consumer_discretionary
+ANET,0001596532,Arista Networks,information_technology
+ANSS,0001013462,Ansys,information_technology
+AON,0000315293,Aon plc,financials
+AOS,0000091142,A. O. Smith,industrials
+APA,0001841666,APA Corporation,energy
+APD,0000002969,Air Products,materials
+APH,0000820313,Amphenol,information_technology
+APO,0001858681,Apollo Global Management,financials
+APTV,0001521332,Aptiv,consumer_discretionary
+ARE,0001035443,Alexandria Real Estate Equities,real_estate
+ATO,0000731802,Atmos Energy,utilities
+AVB,0000915912,AvalonBay Communities,real_estate
+AVGO,0001730168,Broadcom,information_technology
+AVY,0000008818,Avery Dennison,materials
+AWK,0001410636,American Water Works,utilities
+AXON,0001069183,Axon Enterprise,industrials
+AXP,0000004962,American Express,financials
+AZO,0000866787,AutoZone,consumer_discretionary
+BA,0000012927,Boeing,industrials
+BAC,0000070858,Bank of America,financials
+BALL,0000009389,Ball Corporation,materials
+BAX,0000010456,Baxter International,health_care
+BBY,0000764478,Best Buy,consumer_discretionary
+BDX,0000010795,Becton Dickinson,health_care
+BEN,0000038777,Franklin Resources,financials
+BF.B,0000014693,Brown–Forman,consumer_staples
+BG,0001996862,Bunge Global,consumer_staples
+BIIB,0000875045,Biogen,health_care
+BK,0001390777,BNY Mellon,financials
+BKNG,0001075531,Booking Holdings,consumer_discretionary
+BKR,0001701605,Baker Hughes,energy
+BLDR,0001316835,Builders FirstSource,industrials
+BLK,0002012383,BlackRock,financials
+BMY,0000014272,Bristol Myers Squibb,health_care
+BR,0001383312,Broadridge Financial Solutions,industrials
+BRK.B,0001067983,Berkshire Hathaway,financials
+BRO,0000079282,Brown & Brown,financials
+BSX,0000885725,Boston Scientific,health_care
+BX,0001393818,Blackstone Inc.,financials
+BXP,0001037540,"BXP, Inc.",real_estate
+C,0000831001,Citigroup,financials
+CAG,0000023217,Conagra Brands,consumer_staples
+CAH,0000721371,Cardinal Health,health_care
+CARR,0001783180,Carrier Global,industrials
+CAT,0000018230,Caterpillar Inc.,industrials
+CB,0000896159,Chubb Limited,financials
+CBOE,0001374310,Cboe Global Markets,financials
+CBRE,0001138118,CBRE Group,real_estate
+CCI,0001051470,Crown Castle,real_estate
+CCL,0000815097,Carnival,consumer_discretionary
+CDNS,0000813672,Cadence Design Systems,information_technology
+CDW,0001402057,CDW Corporation,information_technology
+CEG,0001868275,Constellation Energy,utilities
+CF,0001324404,CF Industries,materials
+CFG,0000759944,Citizens Financial Group,financials
+CHD,0000313927,Church & Dwight,consumer_staples
+CHRW,0001043277,C.H. Robinson,industrials
+CHTR,0001091667,Charter Communications,communication_services
+CI,0001739940,Cigna,health_care
+CINF,0000020286,Cincinnati Financial,financials
+CL,0000021665,Colgate-Palmolive,consumer_staples
+CLX,0000021076,Clorox,consumer_staples
+CMCSA,0001166691,Comcast,communication_services
+CME,0001156375,CME Group,financials
+CMG,0001058090,Chipotle Mexican Grill,consumer_discretionary
+CMI,0000026172,Cummins,industrials
+CMS,0000811156,CMS Energy,utilities
+CNC,0001071739,Centene Corporation,health_care
+CNP,0001130310,CenterPoint Energy,utilities
+COF,0000927628,Capital One,financials
+COO,0000711404,Cooper Companies (The),health_care
+COP,0001163165,ConocoPhillips,energy
+COR,0001140859,Cencora,health_care
+COST,0000909832,Costco,consumer_staples
+CPAY,0001175454,Corpay,financials
+CPB,0000016732,Campbell's Company (The),consumer_staples
+CPRT,0000900075,Copart,industrials
+CPT,0000906345,Camden Property Trust,real_estate
+CRL,0001100682,Charles River Laboratories,health_care
+CRM,0001108524,Salesforce,information_technology
+CRWD,0001535527,CrowdStrike,information_technology
+CSCO,0000858877,Cisco,information_technology
+CSGP,0001057352,CoStar Group,real_estate
+CSX,0000277948,CSX Corporation,industrials
+CTAS,0000723254,Cintas,industrials
+CTRA,0000858470,Coterra,energy
+CTSH,0001058290,Cognizant,information_technology
+CTVA,0001755672,Corteva,materials
+CVS,0000064803,CVS Health,health_care
+CVX,0000093410,Chevron Corporation,energy
+CZR,0001590895,Caesars Entertainment,consumer_discretionary
+D,0000715957,Dominion Energy,utilities
+DAL,0000027904,Delta Air Lines,industrials
+DASH,0001792789,DoorDash,consumer_discretionary
+DAY,0001725057,Dayforce,industrials
+DD,0001666700,DuPont,materials
+DE,0000315189,Deere & Company,industrials
+DECK,0000910521,Deckers Brands,consumer_discretionary
+DELL,0001571996,Dell Technologies,information_technology
+DFS,0001393612,Discover Financial,financials
+DG,0000029534,Dollar General,consumer_staples
+DGX,0001022079,Quest Diagnostics,health_care
+DHI,0000882184,D. R. Horton,consumer_discretionary
+DHR,0000313616,Danaher Corporation,health_care
+DIS,0001744489,Walt Disney Company (The),communication_services
+DLR,0001297996,Digital Realty,real_estate
+DLTR,0000935703,Dollar Tree,consumer_staples
+DOC,0000765880,Healthpeak Properties,real_estate
+DOV,0000029905,Dover Corporation,industrials
+DOW,0001751788,Dow Inc.,materials
+DPZ,0001286681,Domino's,consumer_discretionary
+DRI,0000940944,Darden Restaurants,consumer_discretionary
+DTE,0000936340,DTE Energy,utilities
+DUK,0001326160,Duke Energy,utilities
+DVA,0000927066,DaVita,health_care
+DVN,0001090012,Devon Energy,energy
+DXCM,0001093557,Dexcom,health_care
+EA,0000712515,Electronic Arts,communication_services
+EBAY,0001065088,eBay Inc.,consumer_discretionary
+ECL,0000031462,Ecolab,materials
+ED,0001047862,Consolidated Edison,utilities
+EFX,0000033185,Equifax,industrials
+EG,0001095073,Everest Group,financials
+EIX,0000827052,Edison International,utilities
+EL,0001001250,Estée Lauder Companies (The),consumer_staples
+ELV,0001156039,Elevance Health,health_care
+EMN,0000915389,Eastman Chemical Company,materials
+EMR,0000032604,Emerson Electric,industrials
+ENPH,0001463101,Enphase Energy,information_technology
+EOG,0000821189,EOG Resources,energy
+EPAM,0001352010,EPAM Systems,information_technology
+EQIX,0001101239,Equinix,real_estate
+EQR,0000906107,Equity Residential,real_estate
+EQT,0000033213,EQT Corporation,energy
+ERIE,0000922621,Erie Indemnity,financials
+ES,0000072741,Eversource Energy,utilities
+ESS,0000920522,Essex Property Trust,real_estate
+ETN,0001551182,Eaton Corporation,industrials
+ETR,0000065984,Entergy,utilities
+EVRG,0001711269,Evergy,utilities
+EW,0001099800,Edwards Lifesciences,health_care
+EXC,0001109357,Exelon,utilities
+EXE,0000895126,Expand Energy,energy
+EXPD,0000746515,Expeditors International,industrials
+EXPE,0001324424,Expedia Group,consumer_discretionary
+EXR,0001289490,Extra Space Storage,real_estate
+F,0000037996,Ford Motor Company,consumer_discretionary
+FANG,0001539838,Diamondback Energy,energy
+FAST,0000815556,Fastenal,industrials
+FCX,0000831259,Freeport-McMoRan,materials
+FDS,0001013237,FactSet,financials
+FDX,0001048911,FedEx,industrials
+FE,0001031296,FirstEnergy,utilities
+FFIV,0001048695,"F5, Inc.",information_technology
+FI,0000798354,Fiserv,financials
+FICO,0000814547,Fair Isaac,information_technology
+FIS,0001136893,Fidelity National Information Services,financials
+FITB,0000035527,Fifth Third Bancorp,financials
+FOX,0001754301,Fox Corporation (Class B),communication_services
+FOXA,0001754301,Fox Corporation (Class A),communication_services
+FRT,0000034903,Federal Realty Investment Trust,real_estate
+FSLR,0001274494,First Solar,information_technology
+FTNT,0001262039,Fortinet,information_technology
+FTV,0001659166,Fortive,industrials
+GD,0000040533,General Dynamics,industrials
+GDDY,0001609711,GoDaddy,information_technology
+GE,0000040545,GE Aerospace,industrials
+GEHC,0001932393,GE HealthCare,health_care
+GEN,0000849399,Gen Digital,information_technology
+GEV,0001996810,GE Vernova,industrials
+GILD,0000882095,Gilead Sciences,health_care
+GIS,0000040704,General Mills,consumer_staples
+GL,0000320335,Globe Life,financials
+GLW,0000024741,Corning Inc.,information_technology
+GM,0001467858,General Motors,consumer_discretionary
+GNRC,0001474735,Generac,industrials
+GOOG,0001652044,Alphabet Inc. (Class C),communication_services
+GOOGL,0001652044,Alphabet Inc. (Class A),communication_services
+GPC,0000040987,Genuine Parts Company,consumer_discretionary
+GPN,0001123360,Global Payments,financials
+GRMN,0001121788,Garmin,consumer_discretionary
+GS,0000886982,Goldman Sachs,financials
+GWW,0000277135,W. W. Grainger,industrials
+HAL,0000045012,Halliburton,energy
+HAS,0000046080,Hasbro,consumer_discretionary
+HBAN,0000049196,Huntington Bancshares,financials
+HCA,0000860730,HCA Healthcare,health_care
+HD,0000354950,Home Depot (The),consumer_discretionary
+HES,0000004447,Hess Corporation,energy
+HIG,0000874766,Hartford (The),financials
+HII,0001501585,Huntington Ingalls Industries,industrials
+HLT,0001585689,Hilton Worldwide,consumer_discretionary
+HOLX,0000859737,Hologic,health_care
+HON,0000773840,Honeywell,industrials
+HPE,0001645590,Hewlett Packard Enterprise,information_technology
+HPQ,0000047217,HP Inc.,information_technology
+HRL,0000048465,Hormel Foods,consumer_staples
+HSIC,0001000228,Henry Schein,health_care
+HST,0001070750,Host Hotels & Resorts,real_estate
+HSY,0000047111,Hershey Company (The),consumer_staples
+HUBB,0000048898,Hubbell Incorporated,industrials
+HUM,0000049071,Humana,health_care
+HWM,0000004281,Howmet Aerospace,industrials
+IBM,0000051143,IBM,information_technology
+ICE,0001571949,Intercontinental Exchange,financials
+IDXX,0000874716,Idexx Laboratories,health_care
+IEX,0000832101,IDEX Corporation,industrials
+IFF,0000051253,International Flavors & Fragrances,materials
+INCY,0000879169,Incyte,health_care
+INTC,0000050863,Intel,information_technology
+INTU,0000896878,Intuit,information_technology
+INVH,0001687229,Invitation Homes,real_estate
+IP,0000051434,International Paper,materials
+IPG,0000051644,Interpublic Group of Companies (The),communication_services
+IQV,0001478242,IQVIA,health_care
+IR,0001699150,Ingersoll Rand,industrials
+IRM,0001020569,Iron Mountain,real_estate
+ISRG,0001035267,Intuitive Surgical,health_care
+IT,0000749251,Gartner,information_technology
+ITW,0000049826,Illinois Tool Works,industrials
+IVZ,0000914208,Invesco,financials
+J,0000052988,Jacobs Solutions,industrials
+JBHT,0000728535,J.B. Hunt,industrials
+JBL,0000898293,Jabil,information_technology
+JCI,0000833444,Johnson Controls,industrials
+JKHY,0000779152,Jack Henry & Associates,financials
+JNJ,0000200406,Johnson & Johnson,health_care
+JNPR,0001043604,Juniper Networks,information_technology
+JPM,0000019617,JPMorgan Chase,financials
+K,0000055067,Kellanova,consumer_staples
+KDP,0001418135,Keurig Dr Pepper,consumer_staples
+KEY,0000091576,KeyCorp,financials
+KEYS,0001601046,Keysight Technologies,information_technology
+KHC,0001637459,Kraft Heinz,consumer_staples
+KIM,0000879101,Kimco Realty,real_estate
+KKR,0001404912,KKR & Co.,financials
+KLAC,0000319201,KLA Corporation,information_technology
+KMB,0000055785,Kimberly-Clark,consumer_staples
+KMI,0001506307,Kinder Morgan,energy
+KMX,0001170010,CarMax,consumer_discretionary
+KO,0000021344,Coca-Cola Company (The),consumer_staples
+KR,0000056873,Kroger,consumer_staples
+KVUE,0001944048,Kenvue,consumer_staples
+L,0000060086,Loews Corporation,financials
+LDOS,0001336920,Leidos,industrials
+LEN,0000920760,Lennar,consumer_discretionary
+LH,0000920148,Labcorp,health_care
+LHX,0000202058,L3Harris,industrials
+LII,0001069202,Lennox International,industrials
+LIN,0001707925,Linde plc,materials
+LKQ,0001065696,LKQ Corporation,consumer_discretionary
+LLY,0000059478,Lilly (Eli),health_care
+LMT,0000936468,Lockheed Martin,industrials
+LNT,0000352541,Alliant Energy,utilities
+LOW,0000060667,Lowe's,consumer_discretionary
+LRCX,0000707549,Lam Research,information_technology
+LULU,0001397187,Lululemon Athletica,consumer_discretionary
+LUV,0000092380,Southwest Airlines,industrials
+LVS,0001300514,Las Vegas Sands,consumer_discretionary
+LW,0001679273,Lamb Weston,consumer_staples
+LYB,0001489393,LyondellBasell,materials
+LYV,0001335258,Live Nation Entertainment,communication_services
+MA,0001141391,Mastercard,financials
+MAA,0000912595,Mid-America Apartment Communities,real_estate
+MAR,0001048286,Marriott International,consumer_discretionary
+MAS,0000062996,Masco,industrials
+MCD,0000063908,McDonald's,consumer_discretionary
+MCHP,0000827054,Microchip Technology,information_technology
+MCK,0000927653,McKesson Corporation,health_care
+MCO,0001059556,Moody's Corporation,financials
+MDLZ,0001103982,Mondelez International,consumer_staples
+MDT,0001613103,Medtronic,health_care
+MET,0001099219,MetLife,financials
+META,0001326801,Meta Platforms,communication_services
+MGM,0000789570,MGM Resorts,consumer_discretionary
+MHK,0000851968,Mohawk Industries,consumer_discretionary
+MKC,0000063754,McCormick & Company,consumer_staples
+MKTX,0001278021,MarketAxess,financials
+MLM,0000916076,Martin Marietta Materials,materials
+MMC,0000062709,Marsh McLennan,financials
+MMM,0000066740,3M,industrials
+MNST,0000865752,Monster Beverage,consumer_staples
+MO,0000764180,Altria,consumer_staples
+MOH,0001179929,Molina Healthcare,health_care
+MOS,0001285785,Mosaic Company (The),materials
+MPC,0001510295,Marathon Petroleum,energy
+MPWR,0001280452,Monolithic Power Systems,information_technology
+MRK,0000310158,Merck & Co.,health_care
+MRNA,0001682852,Moderna,health_care
+MS,0000895421,Morgan Stanley,financials
+MSCI,0001408198,MSCI Inc.,financials
+MSFT,0000789019,Microsoft,information_technology
+MSI,0000068505,Motorola Solutions,information_technology
+MTB,0000036270,M&T Bank,financials
+MTCH,0000891103,Match Group,communication_services
+MTD,0001037646,Mettler Toledo,health_care
+MU,0000723125,Micron Technology,information_technology
+NCLH,0001513761,Norwegian Cruise Line Holdings,consumer_discretionary
+NDAQ,0001120193,"Nasdaq, Inc.",financials
+NDSN,0000072331,Nordson Corporation,industrials
+NEE,0000753308,NextEra Energy,utilities
+NEM,0001164727,Newmont,materials
+NFLX,0001065280,Netflix,communication_services
+NI,0001111711,NiSource,utilities
+NKE,0000320187,"Nike, Inc.",consumer_discretionary
+NOC,0001133421,Northrop Grumman,industrials
+NOW,0001373715,ServiceNow,information_technology
+NRG,0001013871,NRG Energy,utilities
+NSC,0000702165,Norfolk Southern,industrials
+NTAP,0001002047,NetApp,information_technology
+NTRS,0000073124,Northern Trust,financials
+NUE,0000073309,Nucor,materials
+NVDA,0001045810,Nvidia,information_technology
+NVR,0000906163,"NVR, Inc.",consumer_discretionary
+NWS,0001564708,News Corp (Class B),communication_services
+NWSA,0001564708,News Corp (Class A),communication_services
+NXPI,0001413447,NXP Semiconductors,information_technology
+O,0000726728,Realty Income,real_estate
+ODFL,0000878927,Old Dominion,industrials
+OKE,0001039684,Oneok,energy
+OMC,0000029989,Omnicom Group,communication_services
+ON,0001097864,ON Semiconductor,information_technology
+ORCL,0001341439,Oracle Corporation,information_technology
+ORLY,0000898173,O’Reilly Automotive,consumer_discretionary
+OTIS,0001781335,Otis Worldwide,industrials
+OXY,0000797468,Occidental Petroleum,energy
+PANW,0001327567,Palo Alto Networks,information_technology
+PARA,0000813828,Paramount Global,communication_services
+PAYC,0001590955,Paycom,industrials
+PAYX,0000723531,Paychex,industrials
+PCAR,0000075362,Paccar,industrials
+PCG,0001004980,PG&E Corporation,utilities
+PEG,0000788784,Public Service Enterprise Group,utilities
+PEP,0000077476,PepsiCo,consumer_staples
+PFE,0000078003,Pfizer,health_care
+PFG,0001126328,Principal Financial Group,financials
+PG,0000080424,Procter & Gamble,consumer_staples
+PGR,0000080661,Progressive Corporation,financials
+PH,0000076334,Parker Hannifin,industrials
+PHM,0000822416,PulteGroup,consumer_discretionary
+PKG,0000075677,Packaging Corporation of America,materials
+PLD,0001045609,Prologis,real_estate
+PLTR,0001321655,Palantir Technologies,information_technology
+PM,0001413329,Philip Morris International,consumer_staples
+PNC,0000713676,PNC Financial Services,financials
+PNR,0000077360,Pentair,industrials
+PNW,0000764622,Pinnacle West Capital,utilities
+PODD,0001145197,Insulet Corporation,health_care
+POOL,0000945841,Pool Corporation,consumer_discretionary
+PPG,0000079879,PPG Industries,materials
+PPL,0000922224,PPL Corporation,utilities
+PRU,0001137774,Prudential Financial,financials
+PSA,0001393311,Public Storage,real_estate
+PSX,0001534701,Phillips 66,energy
+PTC,0000857005,PTC Inc.,information_technology
+PWR,0001050915,Quanta Services,industrials
+PYPL,0001633917,PayPal,financials
+QCOM,0000804328,Qualcomm,information_technology
+RCL,0000884887,Royal Caribbean Group,consumer_discretionary
+REG,0000910606,Regency Centers,real_estate
+REGN,0000872589,Regeneron Pharmaceuticals,health_care
+RF,0001281761,Regions Financial Corporation,financials
+RJF,0000720005,Raymond James Financial,financials
+RL,0001037038,Ralph Lauren Corporation,consumer_discretionary
+RMD,0000943819,ResMed,health_care
+ROK,0001024478,Rockwell Automation,industrials
+ROL,0000084839,"Rollins, Inc.",industrials
+ROP,0000882835,Roper Technologies,information_technology
+ROST,0000745732,Ross Stores,consumer_discretionary
+RSG,0001060391,Republic Services,industrials
+RTX,0000101829,RTX Corporation,industrials
+RVTY,0000031791,Revvity,health_care
+SBAC,0001034054,SBA Communications,real_estate
+SBUX,0000829224,Starbucks,consumer_discretionary
+SCHW,0000316709,Charles Schwab Corporation,financials
+SHW,0000089800,Sherwin-Williams,materials
+SJM,0000091419,J.M. Smucker Company (The),consumer_staples
+SLB,0000087347,Schlumberger,energy
+SMCI,0001375365,Supermicro,information_technology
+SNA,0000091440,Snap-on,industrials
+SNPS,0000883241,Synopsys,information_technology
+SO,0000092122,Southern Company,utilities
+SOLV,0001964738,Solventum,health_care
+SPG,0001063761,Simon Property Group,real_estate
+SPGI,0000064040,S&P Global,financials
+SRE,0001032208,Sempra,utilities
+STE,0001757898,Steris,health_care
+STLD,0001022671,Steel Dynamics,materials
+STT,0000093751,State Street Corporation,financials
+STX,0001137789,Seagate Technology,information_technology
+STZ,0000016918,Constellation Brands,consumer_staples
+SW,0002005951,Smurfit Westrock,materials
+SWK,0000093556,Stanley Black & Decker,industrials
+SWKS,0000004127,Skyworks Solutions,information_technology
+SYF,0001601712,Synchrony Financial,financials
+SYK,0000310764,Stryker Corporation,health_care
+SYY,0000096021,Sysco,consumer_staples
+T,0000732717,AT&T,communication_services
+TAP,0000024545,Molson Coors Beverage Company,consumer_staples
+TDG,0001260221,TransDigm Group,industrials
+TDY,0001094285,Teledyne Technologies,information_technology
+TECH,0000842023,Bio-Techne,health_care
+TEL,0001385157,TE Connectivity,information_technology
+TER,0000097210,Teradyne,information_technology
+TFC,0000092230,Truist Financial,financials
+TGT,0000027419,Target Corporation,consumer_staples
+TJX,0000109198,TJX Companies,consumer_discretionary
+TKO,0001973266,TKO Group Holdings,communication_services
+TMO,0000097745,Thermo Fisher Scientific,health_care
+TMUS,0001283699,T-Mobile US,communication_services
+TPL,0001811074,Texas Pacific Land Corporation,energy
+TPR,0001116132,"Tapestry, Inc.",consumer_discretionary
+TRGP,0001389170,Targa Resources,energy
+TRMB,0000864749,Trimble Inc.,information_technology
+TROW,0001113169,T. Rowe Price,financials
+TRV,0000086312,Travelers Companies (The),financials
+TSCO,0000916365,Tractor Supply,consumer_discretionary
+TSLA,0001318605,"Tesla, Inc.",consumer_discretionary
+TSN,0000100493,Tyson Foods,consumer_staples
+TT,0001466258,Trane Technologies,industrials
+TTWO,0000946581,Take-Two Interactive,communication_services
+TXN,0000097476,Texas Instruments,information_technology
+TXT,0000217346,Textron,industrials
+TYL,0000860731,Tyler Technologies,information_technology
+UAL,0000100517,United Airlines Holdings,industrials
+UBER,0001543151,Uber,industrials
+UDR,0000074208,"UDR, Inc.",real_estate
+UHS,0000352915,Universal Health Services,health_care
+ULTA,0001403568,Ulta Beauty,consumer_discretionary
+UNH,0000731766,UnitedHealth Group,health_care
+UNP,0000100885,Union Pacific Corporation,industrials
+UPS,0001090727,United Parcel Service,industrials
+URI,0001067701,United Rentals,industrials
+USB,0000036104,U.S. Bancorp,financials
+V,0001403161,Visa Inc.,financials
+VICI,0001705696,Vici Properties,real_estate
+VLO,0001035002,Valero Energy,energy
+VLTO,0001967680,Veralto,industrials
+VMC,0001396009,Vulcan Materials Company,materials
+VRSK,0001442145,Verisk Analytics,industrials
+VRSN,0001014473,Verisign,information_technology
+VRTX,0000875320,Vertex Pharmaceuticals,health_care
+VST,0001692819,Vistra Corp.,utilities
+VTR,0000740260,Ventas,real_estate
+VTRS,0001792044,Viatris,health_care
+VZ,0000732712,Verizon,communication_services
+WAB,0000943452,Wabtec,industrials
+WAT,0001000697,Waters Corporation,health_care
+WBA,0001618921,Walgreens Boots Alliance,consumer_staples
+WBD,0001437107,Warner Bros. Discovery,communication_services
+WDAY,0001327811,"Workday, Inc.",information_technology
+WDC,0000106040,Western Digital,information_technology
+WEC,0000783325,WEC Energy Group,utilities
+WELL,0000766704,Welltower,real_estate
+WFC,0000072971,Wells Fargo,financials
+WM,0000823768,Waste Management,industrials
+WMB,0000107263,Williams Companies,energy
+WMT,0000104169,Walmart,consumer_staples
+WRB,0000011544,W. R. Berkley Corporation,financials
+WSM,0000719955,"Williams-Sonoma, Inc.",consumer_discretionary
+WST,0000105770,West Pharmaceutical Services,health_care
+WTW,0001140536,Willis Towers Watson,financials
+WY,0000106535,Weyerhaeuser,real_estate
+WYNN,0001174922,Wynn Resorts,consumer_discretionary
+XEL,0000072903,Xcel Energy,utilities
+XOM,0000034088,ExxonMobil,energy
+XYL,0001524472,Xylem Inc.,industrials
+YUM,0001041061,Yum! Brands,consumer_discretionary
+ZBH,0001136869,Zimmer Biomet,health_care
+ZBRA,0000877212,Zebra Technologies,information_technology
+ZTS,0001555280,Zoetis,health_care
