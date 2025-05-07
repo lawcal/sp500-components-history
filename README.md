@@ -1,6 +1,8 @@
 # S&P 500 Components History
 
-Current and historical S&P 500 companies list since May 5, 2007. Data is checked daily from Wikipedia's [list of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
+[![Update](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml)
+
+Current and historical S&P 500 companies list since March 5, 2007. Data is checked daily from Wikipedia's [list of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 
 The following fields are available for each company that is or was part of the S&P 500:
 
@@ -15,9 +17,9 @@ Note: CIK numbers may be missing for certain companies before May 1, 2014. This 
 
 ## Usage
 
-The current and two-day-delayed components list can be found in `/data` and `/data_delayed`, respectively. They are available in JSON or CSV.
+The current and two-day-delayed components lists are found in `/data` and `/data_delayed`, respectively. They are available as JSON and CSV.
 
-The delayed components list is more stable. See the [Data Source Caveats section](#data-source-caveats) for more information.
+Both lists are derived from the same `components_history.csv`. The delayed list is constructed with a past date to insulate against potential errors in bleeding edge revisions. See [Data Source Caveats](#data-source-caveats) for more information.
 
 ### JSON
 `GET https://github.com/lawcal/sp500-components-history/raw/main/data/sp500_components.json`
@@ -49,9 +51,9 @@ A,0001090872,Agilent Technologies,health_care
 
 Historical components can be retrieved by processing `components_history.csv` using the `date_added`, `date_removed` and `created_at` columns for filtering. Alternatively, use the `list_components()` helper function.
 
-First, clone this repository and install the only external dependency:
+First, clone the repository and install dependencies:
 ```
-pip install html-table-takeout
+pip install -r requirements.txt
 ```
 
 Then run the following snippet:
@@ -76,37 +78,43 @@ write_replace_csv(output_csv, historical_components)
 
 ## Data Source Caveats
 
-Data quality is only as reliable as the source. Because we rely on Wikipedia, it is common for unintentional or intentional inaccuracies to occur.
+The key `components_history.csv` file is constructed by parsing through every revision of the Wikipedia page while tracking additions, removals and field changes. While there are built-in validations and filtering strategies to keep the data nice and clean, the quality is only as reliable as the source.
 
-Below are the challenges faced while parsing page revisions with mitigations.
+Below are challenges faced processing this data source and mitigation strategies:
 
-1. Components tracking with symbols [started on May 5, 2007](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=112958830).
+1. Components tracking with symbols [started on March 5, 2007](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=112958830).
     - Do not query for historical components before this date.
-2. Company and symbol values mistakenly swapped or invalid. Example: [swapped headers](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=185113306), [invalid symbols](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=233849613)
+2. Addition date tracking [started on August 18, 2012](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=507960752).
+    - If a symbol's addition or removal date cannot be found, the revision timestamp converted to local New York time is used as an approximation.
+3. Company and symbol values are swapped or invalid. Example: [swapped headers](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=185113306), [invalid symbols](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=233849613)
     - Revision is skipped if there are any rows with symbols that cannot be parsed.
-3. Duplicate entry is found in table. Example: [duplicate AIZ symbol](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=230711443)
+4. Duplicate entry is found in table. Example: [duplicate AIZ symbol](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=230711443)
     - Revision is skipped if duplicate symbols are found.
-4. Table is malformed or missing. Example: [missing table tag](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=389847709), [vandalism](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=427992852)
+5. Table is malformed or missing. Example: [missing table tag](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=389847709), [vandalism](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=427992852)
     - Revision is skipped if table does not contain certain required headings.
-5. Table formatting is broken. Example: [wide row due to unclosed tag](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=421482407)
+6. Table formatting is broken. Example: [wide row due to unclosed tag](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=421482407)
     - Revision is skipped if the table is ragged.
-6. Multiple symbol aliases due to various conventions. Example. [BRK-B](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=985987275)
+7. Multiple symbol aliases due to various conventions. Example: [BRK-B](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=985987275)
     - Include a mapping of various aliases for the symbol and settle on one convention. Using the above example, it resolves to BRK.B.
-7. Stock is added early before the actual effective date. Example: [TSLA added early](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=989167414)
-    - If the duration of the addition is too short, it will be removed from the components history at a later revision.
-8. Incorrect symbol is assigned to company. Example: [QQQ for 3M](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=555200632)
-    - If the duration of the addition is too short, it will be removed from the components history at a later revision.
-    - Furthermore, if a symbol is reinstated after a short time compared to the latest removal date, the old entry is restored with the removal date deleted.
-9. Company changes ticker symbol. Example: [FB to META](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1092243288)
-    - The revision date is saved when a symbol is first added under "created_at", allowing historical components lookups to filter out symbol changes that have not occurred yet.
-    - This is a best effort mitigation as components inclusion and exclusion dates can be edited in later revisions and backdated.
-    - The system does not track symbol changes.
+8. Incorrect symbol is added. Example: [SPOT mistakenly added](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=964768725)
+    - Typically the error would be spotted and removed in a later revision.
+    - If the symbol is removed shortly after, it will be omitted from the components history.
+9. Symbol is added before the actual effective date. Example: [TSLA added early](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=989167414)
+    - Typically the error would be spotted and removed in a later revision, then added on the correct date.
+    - If the early symbol is removed shortly after, it will be omitted from the components history.
+10. Incorrect symbol is assigned to company. Example: [QQQ for 3M](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=555200632)
+    - If the symbol is removed shortly after, it will be omitted from the components history.
+    - Furthermore, if a symbol is reinstated after a short time compared to the latest removal date, the old entry is restored with the removal date cleared.
+11. Company changes ticker symbol. Example: [FB to META](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1092243288)
+    - The revision date is saved when a symbol is first added under "created_at". This facilitates filtering out the new symbol when the change hasn't yet occurred on a particular date.
+    - This is a best effort approach as it's possible for the old and new symbol's date ranges to overlap.
+    - Except for symbol aliases, the system treats each unique symbol as an independent entry. It does not have the concept of symbol changes.
 
 ## Developing
 
 Install development dependencies:
 ```
-pip install html-table-takeout mypy
+pip install -r requirements.txt mypy
 ```
 
 To update your local data to the latest revision, run:

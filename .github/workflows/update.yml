@@ -1,7 +1,7 @@
 name: Update
 on:
   schedule:
-    - cron: "9 0 * * *"  # run at 09:00 UTC
+    - cron: "20 8 * * *" # run at 08:20 UTC
 jobs:
   update:
     runs-on: ubuntu-latest
