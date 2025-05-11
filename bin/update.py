@@ -1,4 +1,4 @@
-# v0.1.0
+# v1.0.0
 
 # pylint: disable=too-many-lines
 import csv
@@ -815,6 +815,31 @@ def _get_date_removed(
     return date_stand_in
 
 
+def _create_backfill_lookup(stocks: list[Stock]) -> dict[str, list[Stock]]:
+    lookup: dict[str, list[Stock]] = {}
+    for s in stocks:
+        entries = lookup.get(s.symbol, [])
+        entries.append(s)
+        lookup[s.symbol] = entries
+    return lookup
+
+
+_BACKFILLS = _create_backfill_lookup(read_components_history(Path(__file__).parent / 'backfill.csv'))
+
+
+def _backfill(stock: Stock, omit_removal: bool = False) -> Stock:
+    for b in _BACKFILLS.get(stock.symbol, []):
+        if (b
+            and b.date_added
+            and b.date_removed
+            and stock.date_added
+            and b.date_added <= stock.date_added < b.date_removed
+        ):
+            merged = _merge_stocks(stock, b)
+            return replace(merged, date_removed=None) if omit_removal else merged
+    return stock
+
+
 def _diff_lists(
     components_history: list[Stock],
     latest: list[Stock],
@@ -856,12 +881,14 @@ def _diff_lists(
 
         if stock_old.symbol < stock_latest.symbol:
             # Removals
-            removed.append(replace(stock_old, date_removed=_get_date_removed(stock_old, removals, date_stand_in)))
+            stock_removed = replace(stock_old, date_removed=_get_date_removed(stock_old, removals, date_stand_in))
+            removed.append(_backfill(stock_removed))
             idx_old += 1
             continue
         if stock_latest.symbol < stock_old.symbol:
             # Additions
-            added.append(replace(stock_latest, date_added=stock_latest.date_added or date_stand_in, created_at=date))
+            stock_added = replace(stock_latest, date_added=stock_latest.date_added or date_stand_in, created_at=date)
+            added.append(_backfill(stock_added, True))
             idx_latest += 1
             continue
 
@@ -877,13 +904,15 @@ def _diff_lists(
     while idx_old < len(old):
         # Removals
         stock_old = old[idx_old]
-        removed.append(replace(stock_old, date_removed=_get_date_removed(stock_old, removals, date_stand_in)))
+        stock_removed = replace(stock_old, date_removed=_get_date_removed(stock_old, removals, date_stand_in))
+        removed.append(_backfill(stock_removed))
         idx_old += 1
 
     while idx_latest < len(latest):
         # Additions
         stock_latest = latest[idx_latest]
-        added.append(replace(stock_latest, date_added=stock_latest.date_added or date_stand_in, created_at=date))
+        stock_added = replace(stock_latest, date_added=stock_latest.date_added or date_stand_in, created_at=date)
+        added.append(_backfill(stock_added, True))
         idx_latest += 1
 
     return Changeset(revision, added=added, removed=removed, updated=updated, unchanged=unchanged, inactive=inactive)

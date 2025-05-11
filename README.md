@@ -13,7 +13,9 @@ The following fields are available for each company that is or was part of the S
 | name   | Company name      | Freeform string           |
 | sector | GICS Sector       | `energy`<br/>`materials`<br/>`industrials`<br/>`consumer_discretionary`<br/>`consumer_staples`<br/>`health_care`<br/>`financials`<br/>`information_technology`<br/>`communication_services`<br/>`utilities`<br/>`real_estate` |
 
-Note: CIK numbers may be missing for certain companies before May 1, 2014. This is because the data source [started tracking them in 2014](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies?oldid=607709431).
+Because the data source only [started tracking CIK in 2014](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies?oldid=607709431), missing CIKs were manually backfilled by referencing the following resources:
+- [EDGAR Company Database](https://www.edgarcompany.sec.gov/)
+- [QuantumOnline Quick Search](https://www.quantumonline.com/search.cfm)
 
 ## Usage
 
