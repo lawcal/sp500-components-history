@@ -1,6 +1,6 @@
 # S&P 500 Components History
 
-[![Update](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml)
+[![Update](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml/badge.svg?branch=main)](https://github.com/lawcal/sp500-components-history/actions/workflows/update.yml) | [View Latest Update](https://github.com/lawcal/sp500-components-history/compare/main~1...main)
 
 Current and historical S&P 500 companies list since March 5, 2007. Data is checked daily from Wikipedia's [list of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 
@@ -21,10 +21,10 @@ Because the data source only [started tracking CIK in 2014](https://en.wikipedia
 
 The current and two-day-delayed components lists are found in `/data` and `/data_delayed`, respectively. They are available as JSON and CSV.
 
-Both lists are derived from the same `components_history.csv`. The delayed list is constructed with a past date to insulate against potential errors in bleeding edge revisions. See [Data Source Caveats](#data-source-caveats) for more information.
+Both lists are derived from the latest `components_history.csv`, which is an effective date table. The delayed list is generated with a past date to insulate against errors in the latest revision. See [Data Source Caveats](#data-source-caveats) for more information.
 
 ### JSON
-`GET https://github.com/lawcal/sp500-components-history/raw/main/data/sp500_components.json`
+GET `https://github.com/lawcal/sp500-components-history/raw/main/data/sp500_components.json`
 
 ```
 {
@@ -41,7 +41,7 @@ Both lists are derived from the same `components_history.csv`. The delayed list 
 ```
 
 ### CSV
-`GET https://github.com/lawcal/sp500-components-history/raw/main/data/sp500_components.csv`
+GET `https://github.com/lawcal/sp500-components-history/raw/main/data/sp500_components.csv`
 
 ```
 symbol,cik,name,sector
@@ -80,9 +80,9 @@ write_replace_csv(output_csv, historical_components)
 
 ## Data Source Caveats
 
-The key `components_history.csv` file is constructed by parsing through every revision of the Wikipedia page while tracking additions, removals and field changes. While there are built-in validations and filtering strategies to keep the data nice and clean, the quality is only as reliable as the source.
+The `components_history.csv` file is constructed by parsing through every revision of the Wikipedia page while tracking additions, removals and field changes. While there are built-in validations and filtering strategies to keep the data clean, the quality is only as good as the source.
 
-Below are challenges faced processing this data source and mitigation strategies:
+Below are challenges posed by the data source and mitigations:
 
 1. Components tracking with symbols [started on March 5, 2007](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=112958830).
     - Do not query for historical components before this date.
@@ -108,7 +108,7 @@ Below are challenges faced processing this data source and mitigation strategies
     - If the symbol is removed shortly after, it will be omitted from the components history.
     - Furthermore, if a symbol is reinstated after a short time compared to the latest removal date, the old entry is restored with the removal date cleared.
 11. Company changes ticker symbol. Example: [FB to META](https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1092243288)
-    - The revision date is saved when a symbol is first added under "created_at". This facilitates filtering out the new symbol when the change hasn't yet occurred on a particular date.
+    - All new symbols when first recorded are assigned a creation date set to the revision date. This facilitates filtering out the new symbol if the change hasn't occurred on a historical date.
     - This is a best effort approach as it's possible for the old and new symbol's date ranges to overlap.
     - Except for symbol aliases, the system treats each unique symbol as an independent entry. It does not have the concept of symbol changes.
 
