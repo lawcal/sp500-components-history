@@ -4,6 +4,8 @@ on:
     - cron: "20 8 * * *" # run at 08:20 UTC
 jobs:
   update:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
