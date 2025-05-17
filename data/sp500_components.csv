@@ -101,6 +101,7 @@ CMS,0000811156,CMS Energy,utilities
 CNC,0001071739,Centene Corporation,health_care
 CNP,0001130310,CenterPoint Energy,utilities
 COF,0000927628,Capital One,financials
+COIN,0001679788,Coinbase,financials
 COO,0000711404,Cooper Companies (The),health_care
 COP,0001163165,ConocoPhillips,energy
 COR,0001140859,Cencora,health_care
@@ -130,7 +131,6 @@ DD,0001666700,DuPont,materials
 DE,0000315189,Deere & Company,industrials
 DECK,0000910521,Deckers Brands,consumer_discretionary
 DELL,0001571996,Dell Technologies,information_technology
-DFS,0001393612,Discover Financial,financials
 DG,0000029534,Dollar General,consumer_staples
 DGX,0001022079,Quest Diagnostics,health_care
 DHI,0000882184,D. R. Horton,consumer_discretionary
