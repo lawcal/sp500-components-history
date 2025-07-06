@@ -971,7 +971,7 @@ def _create_components_history(changeset: Changeset) -> list[Stock]:
     merged_components_prev: list[Stock] = []
 
     # Iterate in reverse so latest entry considered first
-    for existing in sorted(reversed(changeset.inactive + changeset.inactive_updated)):
+    for existing in reversed(sorted(changeset.inactive + changeset.inactive_updated)):
         added = added_map.get(existing.symbol)
         if (
             added
