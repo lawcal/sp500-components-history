@@ -1,4 +1,4 @@
-# v1.0.0
+# v1.1.0
 
 # pylint: disable=too-many-lines
 import csv
@@ -118,17 +118,17 @@ class Stock:
         return (
             self.symbol,
             self.cik,
-            self.name,
-            self.sector,
             self.date_removed,
-            self.date_added
+            self.date_added,
+            self.sector,
+            self.name
         ) == (
             other.symbol,
             other.cik,
-            other.name,
-            other.sector,
             other.date_removed,
-            other.date_added
+            other.date_added,
+            other.sector,
+            other.name
         )
 
     def __ne__(self, other):
@@ -138,17 +138,17 @@ class Stock:
         return (
             self.symbol,
             self.cik,
-            self.name,
-            self.sector,
             self.date_removed if self.date_removed else _DATE_MAX,
-            self.date_added if self.date_added else _DATE_MIN
+            self.date_added if self.date_added else _DATE_MIN,
+            self.sector,
+            self.name
         ) < (
             other.symbol,
             other.cik,
-            other.name,
-            other.sector,
             other.date_removed if other.date_removed else _DATE_MAX,
-            other.date_added if other.date_added else _DATE_MIN
+            other.date_added if other.date_added else _DATE_MIN,
+            other.sector,
+            other.name
         )
 
     def complete(self) -> bool:
@@ -179,15 +179,16 @@ class Changeset:
     updated: list[Stock] = field(default_factory=list)
     unchanged: list[Stock] = field(default_factory=list)
     inactive: list[Stock] = field(default_factory=list)
+    inactive_updated: list[Stock] = field(default_factory=list)
 
     def summary(self) -> str:
         added = [s.symbol for s in self.added]
         removed = [s.symbol for s in self.removed]
-        updated = [s.symbol for s in self.updated]
+        updated = [s.symbol for s in self.updated + self.inactive_updated]
         if added or removed or updated:
             added_msg = f" +{','.join(added)}" if added else ''
             removed_msg = f" -{','.join(removed)}" if removed else ''
-            updated_msg = f" *{','.join(updated)}" if updated else ''
+            updated_msg = f" *{','.join(sorted(updated))}" if updated else ''
             return f"{self.revision}{added_msg}{removed_msg}{updated_msg}"
         return ''
 
@@ -797,19 +798,33 @@ def _find_duplicates(items: list[T]) -> set[T]:
     return dupes
 
 
+def _find_closest_removal_date(removals: list[_RemovalHistory], date_ref: EffectiveDate) -> EffectiveDate | None:
+    # linear search does not assume sorted removals
+    closest_date = None
+    diff_min = float('inf')
+    for history in removals:
+        if not history.date_removed:
+            continue
+        diff = abs((history.date_removed - date_ref).total_seconds())
+        if diff < diff_min:
+            closest_date = history.date_removed
+            diff_min = diff
+    return closest_date
+
+
 def _get_date_removed(
     stock: Stock,
     removals: dict[str, list[_RemovalHistory]],
     date_stand_in: EffectiveDate
 ) -> EffectiveDate | None:
     history = removals.get(stock.symbol)
+    closest_date_removed = _find_closest_removal_date(history, date_stand_in) if history else None
     if (
-        history
-        and history[0].date_removed
+        closest_date_removed
         and stock.date_added
-        and history[0].date_removed >= stock.date_added
+        and closest_date_removed >= stock.date_added
     ):
-        return history[0].date_removed
+        return closest_date_removed
     if stock.date_added and stock.date_added > date_stand_in:
         return EffectiveDate.from_date(stock.date_added, circa=True)
     return date_stand_in
@@ -851,11 +866,29 @@ def _diff_lists(
     # Filter out inactive stocks as we only want to diff active stocks
     old: list[Stock] = []
     inactive: list[Stock] = []
-    for history in components_history:
-        if history.date_added and not history.date_removed: # stocks in index
-            old.append(history)
+    inactive_updated: list[Stock] = []
+
+    # Iterate in reverse so latest entry considered first
+    seen = set()
+    for existing in reversed(components_history):
+        if not existing.date_removed:
+            # stocks in index
+            old.append(existing)
         else:
-            inactive.append(history)
+            # stocks removed from index - check if removal date updated
+            updated_date_removed = _get_date_removed(existing, removals, existing.date_removed)
+            if (
+                existing.symbol not in seen # only try to update latest symbol if multiple entries
+                and updated_date_removed
+                and existing.date_removed != updated_date_removed
+            ):
+                inactive_updated.append(replace(existing, date_removed=updated_date_removed))
+            else:
+                inactive.append(existing)
+        seen.add(existing.symbol)
+    old.reverse()
+    inactive.reverse()
+    inactive_updated.reverse()
 
     old_dupes = _find_duplicates([s.symbol for s in old])
     latest_dupes = _find_duplicates([s.symbol for s in latest])
@@ -915,7 +948,15 @@ def _diff_lists(
         added.append(_backfill(stock_added, True))
         idx_latest += 1
 
-    return Changeset(revision, added=added, removed=removed, updated=updated, unchanged=unchanged, inactive=inactive)
+    return Changeset(
+        revision,
+        added=added,
+        removed=removed,
+        updated=updated,
+        unchanged=unchanged,
+        inactive=inactive,
+        inactive_updated=inactive_updated
+    )
 
 
 def _create_components_history(changeset: Changeset) -> list[Stock]:
@@ -928,7 +969,9 @@ def _create_components_history(changeset: Changeset) -> list[Stock]:
     # Cancel existing removal instead of adding a new entry
     added_exclusion = set()
     merged_components_prev: list[Stock] = []
-    for existing in reversed(changeset.inactive): # reverse so latest entry considered first
+
+    # Iterate in reverse so latest entry considered first
+    for existing in reversed(sorted(changeset.inactive + changeset.inactive_updated)):
         added = added_map.get(existing.symbol)
         if (
             added
@@ -1073,14 +1116,15 @@ def update(
         # Export latest data
         csv_file = data_folder / CSV_FILE_NAME
         json_file = data_folder / JSON_FILE_NAME
-        components_new = list_components(components_history_new)
+        now = dt.datetime.now(tz=_TIMEZONE_NEW_YORK).date()
+        components_new = list_components(components_history_new, now)
         write_replace_csv(csv_file, components_new)
         write_replace_json(json_file, components_new)
 
         # Export delayed data
         csv_file_delayed = data_delayed_folder / CSV_FILE_NAME
         json_file_delayed = data_delayed_folder / JSON_FILE_NAME
-        two_days_ago = dt.datetime.now(tz=_TIMEZONE_NEW_YORK).date() - dt.timedelta(days=2)
+        two_days_ago = now - dt.timedelta(days=2)
         components_delayed = list_components(components_history_new, two_days_ago)
         write_replace_csv(csv_file_delayed, components_delayed)
         write_replace_json(json_file_delayed, components_delayed)

@@ -1,25 +1,25 @@
 symbol,cik,name,sector,date_added,date_removed,created_at
 A,0001090872,Agilent Technologies,health_care,2000-06-05,,2007-03-05
-AA,0000004281,Alcoa Inc,materials,1964-03-31,2016-11-01*,2007-03-05
+AA,0000004281,Alcoa Inc,materials,1964-03-31,2016-11-01,2007-03-05
 AAL,0000006201,American Airlines Group,industrials,2015-03-23,2024-09-23,2015-03-20
 AAP,0001158449,Advance Auto Parts,consumer_discretionary,2015-07-09,2023-08-25,2015-07-09
 AAPL,0000320193,Apple Inc.,information_technology,1982-11-30,,2007-03-05
 ABBV,0001551152,AbbVie,health_care,2012-12-31,,2013-01-03
 ABC,0001140859,AmerisourceBergen,health_care,2001-08-30,2023-09-01*,2007-03-05
 ABI,0000077551,Applera Corp-Applied Biosystems Group,health_care,2007-03-05*,2009-03-07*,2007-03-05
-ABK,0000874501,Ambac Financial Group,financials,2007-03-05*,2008-08-21*,2007-03-05
+ABK,0000874501,Ambac Financial Group,financials,2007-03-05*,2008-06-10,2007-03-05
 ABMD,0000815094,Abiomed,health_care,2018-05-31,2022-12-22,2018-05-31
 ABNB,0001559720,Airbnb,consumer_discretionary,2023-09-18,,2023-09-17
 ABT,0000001800,Abbott Laboratories,health_care,1957-03-04,,2007-03-05
-ACAS,0000817473,American Capital Strategies Ltd,financials,2008-01-22*,2009-03-07*,2008-01-22
+ACAS,0000817473,American Capital Strategies Ltd,financials,2008-01-22*,2009-03-03,2008-01-22
 ACE,0000896159,ACE Limited,financials,2007-03-05*,2008-08-21*,2007-03-05
-ACE,0000896159,ACE Limited,financials,2010-07-15,2016-01-17*,2010-07-21
+ACE,0000896159,ACE Limited,financials,2010-07-15,2016-01-19,2010-07-21
 ACGL,0000947484,Arch Capital Group,financials,2022-11-01,,2022-10-31
 ACN,0001467373,Accenture,information_technology,2011-07-06,,2011-11-21
-ACS,0000002135,Affiliated Computer Services,information_technology,2007-03-05*,2010-04-03*,2007-03-05
+ACS,0000002135,Affiliated Computer Services,information_technology,2007-03-05*,2020-06-22,2007-03-05
 ACT,0000884629,Actavis plc,health_care,2013-01-24,2015-06-15*,2013-01-24
 ADBE,0000796343,Adobe Inc.,information_technology,1997-05-05,,2007-03-05
-ADCT,0000061478,ADC Telecommunications,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+ADCT,0000061478,ADC Telecommunications,information_technology,2007-03-05*,2007-07-02,2007-03-05
 ADI,0000006281,Analog Devices,information_technology,1999-10-12,,2007-03-05
 ADM,0000007084,Archer Daniels Midland,consumer_staples,1957-03-04,,2007-03-05
 ADP,0000008670,Automatic Data Processing,industrials,1981-03-31,,2007-03-05
@@ -34,7 +34,7 @@ AFL,0000004977,Aflac,financials,1999-05-28,,2007-03-05
 AGN,0000850693,Allergan Inc,health_care,1992-02-07,2015-03-23,2007-03-05
 AGN,0001578845,"Allergan, plc",health_care,1999-04-12,2020-05-12,2015-06-20
 AIG,0000005272,American International Group,financials,1980-03-31,,2007-03-05
-AIV,0000922864,Apartment Investment & Management,real_estate,2003-03-14,2020-12-22*,2007-03-05
+AIV,0000922864,Apartment Investment & Management,real_estate,2003-03-14,2020-12-21,2007-03-05
 AIZ,0001267238,Assurant,financials,2007-04-10,,2007-04-04
 AJG,0000354190,Arthur J. Gallagher & Co.,financials,2016-05-31,,2016-05-27
 AKAM,0001086222,Akamai Technologies,information_technology,2007-07-12,,2008-01-22
@@ -58,10 +58,10 @@ AMT,0001053507,American Tower,real_estate,2007-11-19,,2007-11-27
 AMTM,0002011286,Amentum,industrials,2024-09-30,2024-12-23,2024-09-30
 AMZN,0001018724,Amazon,consumer_discretionary,2005-11-18,,2007-03-05
 AN,0000350698,AutoNation Inc,consumer_discretionary,2007-03-05*,2017-08-08,2007-03-05
-ANDV,0000050104,Andeavor,energy,2007-09-27,2018-10-01*,2017-08-02
+ANDV,0000050104,Andeavor,energy,2007-09-27,2018-10-01,2017-08-02
 ANET,0001596532,Arista Networks,information_technology,2018-08-28,,2018-08-29
-ANF,0001018840,Abercrombie & Fitch Company A,consumer_discretionary,2008-01-22*,2013-12-21,2008-01-22
-ANR,0001301063,Alpha Natural Resources,energy,2011-06-09*,2012-09-26,2011-06-09
+ANF,0001018840,Abercrombie & Fitch Company A,consumer_discretionary,2008-01-22*,2013-12-23,2008-01-22
+ANR,0001301063,Alpha Natural Resources,energy,2011-06-09*,2012-10-02,2011-06-09
 ANSS,0001013462,Ansys,information_technology,2017-06-19,,2017-06-17
 ANTM,0001156039,Anthem,health_care,2002-07-25,2022-06-28*,2014-12-06
 AOC,0000315293,Aon Corporation,financials,2007-03-05*,2009-12-31*,2007-03-05
@@ -72,19 +72,19 @@ APC,0000773910,Anadarko Petroleum,energy,1997-07-28,2019-08-09,2007-03-05
 APD,0000002969,Air Products,materials,1985-04-30,,2007-03-05
 APH,0000820313,Amphenol,information_technology,2008-09-30,,2010-07-12
 APO,0001858681,Apollo Global Management,financials,2024-12-23,,2024-12-25
-APOL,0000929887,Apollo Group Inc,consumer_discretionary,2007-03-05*,2013-06-28,2007-03-05
+APOL,0000929887,Apollo Group Inc,consumer_discretionary,2007-03-05*,2013-07-01,2007-03-05
 APTV,0001521332,Aptiv,consumer_discretionary,2012-12-24,,2017-12-07
 ARE,0001035443,Alexandria Real Estate Equities,real_estate,2017-03-20,,2017-03-18
 ARG,0000804212,Airgas Inc,materials,2009-09-09,2016-05-23,2010-07-12
-ARNC,0000004281,Arconic Inc.,industrials,1964-03-31,2020-04-11*,2016-11-01
+ARNC,0000004281,Arconic Inc.,industrials,1964-03-31,2020-04-01,2016-11-01
 ASD,0000836102,American Standard,industrials,2007-03-05*,2007-11-28*,2007-03-05
 ASH,0001305014,Ashland Inc.,materials,2007-03-05*,2010-07-12*,2007-03-05
 ASN,0001156826,Archstone-Smith Trust,real_estate,2007-03-05*,2008-01-22*,2007-03-05
 AT,0000065873,ALLTEL Corp.,communication_services,2007-03-05*,2007-11-27*,2007-03-05
 ATI,0001018963,Allegheny Technologies Inc,materials,1978-12-31,2015-07-02,2007-03-05
 ATO,0000731802,Atmos Energy,utilities,2019-02-15,,2019-02-15
-ATVI,0000718877,Activision Blizzard,communication_services,2015-08-31,2023-10-13*,2015-09-03
-AV,0001116521,Avaya Inc.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+ATVI,0000718877,Activision Blizzard,communication_services,2015-08-31,2023-10-18,2015-09-03
+AV,0001116521,Avaya Inc.,information_technology,2007-03-05*,2007-10-26,2007-03-05
 AVB,0000915912,AvalonBay Communities,real_estate,2007-01-10,,2007-03-05
 AVGO,0001730168,Broadcom,information_technology,2014-05-08,,2014-05-09
 AVP,0000008868,Avon Products,consumer_staples,1967-06-30,2015-03-23,2007-03-05
@@ -93,32 +93,32 @@ AW,0000848865,Allied Waste Industries,industrials,2007-03-05*,2009-03-07*,2007-0
 AWK,0001410636,American Water Works,utilities,2016-03-04,,2016-03-03
 AXON,0001069183,Axon Enterprise,industrials,2023-05-04,,2023-05-03
 AXP,0000004962,American Express,financials,1976-06-30,,2007-03-05
-AYE,0000003673,Allegheny Energy Inc,utilities,2007-03-05*,2011-03-07*,2007-03-05
+AYE,0000003673,Allegheny Energy Inc,utilities,2007-03-05*,2011-02-25,2007-03-05
 AYI,0001144215,Acuity Brands Inc,industrials,2016-05-03,2018-06-18,2016-05-02
 AZO,0000866787,AutoZone,consumer_discretionary,1997-01-02,,2007-03-05
 BA,0000012927,Boeing,industrials,1957-03-04,,2007-03-05
 BAC,0000070858,Bank of America,financials,1976-06-30,,2007-03-05
 BALL,0000009389,Ball Corporation,materials,1984-10-31,,2022-05-10
 BAX,0000010456,Baxter International,health_care,1972-09-30,,2007-03-05
-BBBY,0000886158,Bed Bath & Beyond,consumer_discretionary,2007-03-05*,2017-06-26,2007-03-05
+BBBY,0000886158,Bed Bath & Beyond,consumer_discretionary,2007-03-05*,2017-07-26,2007-03-05
 BBT,0000092230,BB&T Corporation,financials,1997-12-04,2019-12-08*,2007-03-05
 BBWI,0000701985,"Bath & Body Works, Inc.",consumer_discretionary,1983-09-30,2024-10-01,2021-08-03
 BBY,0000764478,Best Buy,consumer_discretionary,1999-06-29,,2007-03-05
-BC,0000014930,Brunswick Corp.,consumer_discretionary,2007-03-05*,2008-08-21*,2007-03-05
+BC,0000014930,Brunswick Corp.,consumer_discretionary,2007-03-05*,2008-06-23,2007-03-05
 BCR,0000009892,Bard (C.R.) Inc.,health_care,1975-06-30,2018-01-03,2007-03-05
 BDK,0000093556,Black & Decker Corp.,consumer_discretionary,2007-03-05*,2010-04-03*,2007-03-05
 BDX,0000010795,Becton Dickinson,health_care,1972-09-30,,2007-03-05
-BEAM,0000789073,Beam Inc.,consumer_staples,2011-11-21*,2014-04-30*,2011-11-21
+BEAM,0000789073,Beam Inc.,consumer_staples,2011-11-21*,2014-05-01,2011-11-21
 BEN,0000038777,Franklin Resources,financials,1998-04-30,,2007-03-05
 BF.B,0000014693,Brown–Forman,consumer_staples,1982-10-31,,2007-03-05
 BG,0001996862,Bunge Global,consumer_staples,2023-03-15,,2023-03-14
-BHF,0001685040,Brighthouse Financial Inc,financials,2017-08-08,2019-04-03*,2017-08-08
+BHF,0001685040,Brighthouse Financial Inc,financials,2017-08-08,2019-04-02,2017-08-08
 BHGE,0001701605,"Baker Hughes, a GE Company",energy,2017-07-27*,2019-10-24*,2017-07-10
-BHI,0001701605,"Baker Hughes, a GE Company",energy,2007-03-05*,2017-07-27*,2007-03-05
-BIG,0000768835,Big Lots Inc.,consumer_discretionary,2007-03-05*,2013-02-17*,2007-03-05
+BHI,0001701605,"Baker Hughes, a GE Company",energy,2007-03-05*,2017-07-07,2007-03-05
+BIG,0000768835,Big Lots Inc.,consumer_discretionary,2007-03-05*,2013-02-15,2007-03-05
 BIIB,0000875045,Biogen,health_care,2003-11-13,,2007-03-05
 BIO,0000012208,Bio-Rad Laboratories,health_care,2020-06-22,2024-09-23,2020-07-15
-BJS,0000864328,BJ Services Company,energy,2007-03-05*,2010-05-05*,2007-03-05
+BJS,0000864328,BJ Services Company,energy,2007-03-05*,2010-04-29,2007-03-05
 BK,0001390777,BNY Mellon,financials,1995-03-31,,2007-03-05
 BKNG,0001075531,Booking Holdings,consumer_discretionary,2009-11-06,,2018-02-28
 BKR,0001701605,Baker Hughes,energy,2017-07-07,,2019-10-24
@@ -127,12 +127,12 @@ BLK,0002012383,BlackRock,financials,2011-04-04,,2011-04-07
 BLL,0000009389,Ball,materials,1984-10-31,2022-05-10*,2007-03-05
 BMC,0000835729,BMC Software,information_technology,2007-03-05*,2013-09-10,2007-03-05
 BMET,0000351346,"Biomet, Inc.",health_care,2007-03-05*,2008-01-22*,2007-03-05
-BMS,0000011199,Bemis Company,materials,1978-09-30,2014-12-04*,2007-03-05
+BMS,0000011199,Bemis Company,materials,1978-09-30,2014-12-05,2007-03-05
 BMY,0000014272,Bristol Myers Squibb,health_care,1957-03-04,,2007-03-05
 BNI,0000934612,Burlington Northern Santa Fe Corp.,industrials,2007-03-05*,2010-01-27*,2007-03-05
 BOL,0000010427,Bausch & Lomb,health_care,2007-03-05*,2008-01-22*,2007-03-05
 BR,0001383312,Broadridge Financial Solutions,industrials,2018-06-18,,2018-06-18
-BRCM,0001054374,Broadcom Corporation,information_technology,2007-03-05*,2016-01-29*,2007-03-05
+BRCM,0001054374,Broadcom Corporation,information_technology,2007-03-05*,2016-02-01,2007-03-05
 BRK.B,0001067983,Berkshire Hathaway,financials,2010-02-16,,2010-01-27
 BRL,0000010081,Barr Pharmaceuticals Inc.,health_care,2007-03-05*,2008-12-30*,2007-03-05
 BRO,0000079282,Brown & Brown,financials,2021-09-20,,2021-09-21
@@ -148,12 +148,12 @@ C,0000831001,Citigroup,financials,1988-05-31,,2007-03-05
 CA,0000356028,"CA, Inc.",information_technology,1987-07-31,2018-11-06,2007-03-05
 CAG,0000023217,Conagra Brands,consumer_staples,1983-08-31,,2007-03-05
 CAH,0000721371,Cardinal Health,health_care,1997-05-27,,2007-03-05
-CAM,0000941548,Cameron International Corp.,energy,2008-01-29,2016-04-01*,2008-08-21
+CAM,0000941548,Cameron International Corp.,energy,2008-01-29,2016-04-04,2008-08-21
 CARR,0001783180,Carrier Global,industrials,2020-04-03,,2020-04-12
 CAT,0000018230,Caterpillar Inc.,industrials,1957-03-04,,2007-03-05
 CB,0000896159,Chubb Limited,financials,2010-07-15,,2007-03-05
+CBE,0001141982,Cooper Industries Ltd.,industrials,2007-03-05*,2009-09-28,2007-03-05
 CBE,0001141982,Cooper Industries,industrials,2011-11-30*,2012-12-03,2011-11-30
-CBE,0001141982,Cooper Industries Ltd.,industrials,2007-03-05*,2010-07-21*,2007-03-05
 CBG,0001138118,CBRE Group,real_estate,2006-11-10,2018-03-26*,2007-03-05
 CBH,0000715096,Commerce Bancorp,financials,2007-03-05*,2008-08-21*,2007-03-05
 CBOE,0001374310,Cboe Global Markets,financials,2017-03-01,,2017-02-28
@@ -171,27 +171,27 @@ CDW,0001402057,CDW Corporation,information_technology,2019-09-23,,2019-09-25
 CE,0001306830,Celanese,materials,2018-12-24,2025-03-24,2019-01-01
 CEG,0001004440,Constellation Energy Group,utilities,2007-03-05*,2012-03-13,2007-03-05
 CEG,0001868275,Constellation Energy,utilities,2022-02-02,,2022-02-07
-CELG,0000816284,Celgene Corp.,health_care,2006-11-06,2019-11-19*,2007-03-05
+CELG,0000816284,Celgene Corp.,health_care,2006-11-06,2019-11-21,2007-03-05
 CEPH,0000873364,Cephalon Inc,health_care,2009-06-01*,2011-10-14,2009-06-01
 CERN,0000804753,Cerner,health_care,2010-04-30,2022-06-08,2010-05-05
 CF,0001324404,CF Industries,materials,2008-08-27,,2008-09-03
-CFC,0000025191,Countrywide Financial Corp.,financials,2007-03-05*,2008-08-21*,2007-03-05
+CFC,0000025191,Countrywide Financial Corp.,financials,2007-03-05*,2008-07-01,2007-03-05
 CFG,0000759944,Citizens Financial Group,financials,2016-01-29,,2016-01-29
-CFN,0001457543,Carefusion,health_care,2009-10-01*,2015-03-17,2009-10-01
+CFN,0001457543,Carefusion,health_care,2009-10-01*,2015-03-18,2009-10-01
 CHD,0000313927,Church & Dwight,consumer_staples,2015-12-29,,2015-12-28
 CHK,0000895126,Chesapeake Energy,energy,2007-03-05*,2018-03-19,2007-03-05
 CHRW,0001043277,C.H. Robinson,industrials,2007-03-02,,2007-03-05
 CHTR,0001091667,Charter Communications,communication_services,2016-09-08,,2016-09-10
 CI,0001739940,Cigna,health_care,1976-06-30,,2007-03-05
-CIEN,0000936395,Ciena Corp.,information_technology,2007-03-05*,2010-01-22*,2007-03-05
+CIEN,0000936395,Ciena Corp.,information_technology,2007-03-05*,2009-12-18,2007-03-05
 CINF,0000020286,Cincinnati Financial,financials,1997-12-18,,2007-03-05
 CIT,0001171825,CIT Group,financials,2007-03-05*,2009-07-18*,2007-03-05
 CL,0000021665,Colgate-Palmolive,consumer_staples,1957-03-04,,2007-03-05
-CLF,0000076406,Cliffs Natural Resources,materials,2010-01-22*,2014-04-01*,2010-01-22
+CLF,0000076406,Cliffs Natural Resources,materials,2010-01-22*,2014-04-02,2010-01-22
 CLX,0000021076,Clorox,consumer_staples,1969-03-31,,2007-03-05
 CMA,0000028412,Comerica,financials,1995-12-01,2024-06-24,2007-03-05
 CMCSA,0001166691,Comcast,communication_services,2002-11-19,,2007-03-05
-CMCSK,0001166691,Comcast Special Corp Class A,consumer_discretionary,2015-09-25*,2015-12-15*,2015-09-25
+CMCSK,0001166691,Comcast Special Corp Class A,consumer_discretionary,2015-09-25*,2015-12-15,2015-09-25
 CME,0001156375,CME Group,financials,2006-08-11,,2007-03-05
 CMG,0001058090,Chipotle Mexican Grill,consumer_discretionary,2011-04-28,,2011-05-24
 CMI,0000026172,Cummins,industrials,1965-03-31,,2007-03-05
@@ -199,7 +199,7 @@ CMS,0000811156,CMS Energy,utilities,1957-03-04,,2007-03-05
 CMX,0001000736,Caremark Rx,health_care,2007-03-05*,2007-05-15*,2007-03-05
 CNC,0001071739,Centene Corporation,health_care,2016-03-30,,2016-03-30
 CNP,0001130310,CenterPoint Energy,utilities,1985-07-31,,2007-03-05
-CNX,0001070412,CONSOL Energy Inc.,energy,2007-03-05*,2016-03-03*,2007-03-05
+CNX,0001070412,CONSOL Energy Inc.,energy,2007-03-05*,2016-03-04,2007-03-05
 COF,0000927628,Capital One,financials,1998-07-01,,2007-03-05
 COG,0000858470,Cabot Oil & Gas,energy,2008-06-23,2021-10-03*,2008-08-21
 COH,0001116132,Coach Inc.,consumer_discretionary,2007-03-05*,2017-10-31,2007-03-05
@@ -229,15 +229,15 @@ CSRA,0001646383,CSRA Inc.,information_technology,2015-12-01,2018-04-04,2015-11-3
 CSX,0000277948,CSX Corporation,industrials,1957-03-04,,2007-03-05
 CTAS,0000723254,Cintas,industrials,2001-03-01,,2007-03-05
 CTL,0000018926,CenturyLink Inc,communication_services,1999-03-25,2020-09-22*,2007-03-05
-CTLT,0001596783,Catalent,health_care,2020-09-21,2024-12-18*,2020-10-01
+CTLT,0001596783,Catalent,health_care,2020-09-21,2024-12-23,2020-10-01
 CTRA,0000858470,Coterra,energy,2008-06-23,,2021-10-03
 CTSH,0001058290,Cognizant,information_technology,2006-11-17,,2007-03-05
 CTVA,0001755672,Corteva,materials,2019-06-03,,2019-06-04
-CTX,0000018532,Centex Corp.,consumer_discretionary,2007-03-05*,2009-10-01*,2007-03-05
-CTXS,0000877890,Citrix,information_technology,1999-12-01,2022-09-30*,2007-03-05
+CTX,0000018532,Centex Corp.,consumer_discretionary,2007-03-05*,2009-08-19,2007-03-05
+CTXS,0000877890,Citrix,information_technology,1999-12-01,2022-10-03,2007-03-05
 CVC,0001053112,Cablevision Systems Corp.,consumer_discretionary,2010-12-20,2016-06-22,2011-03-08
-CVG,0001062047,Convergys Corp.,information_technology,2007-03-05*,2010-01-22*,2007-03-05
-CVH,0001054833,Coventry Health Care Inc.,health_care,2007-03-05*,2013-05-09,2007-03-05
+CVG,0001062047,Convergys Corp.,information_technology,2007-03-05*,2009-12-18,2007-03-05
+CVH,0001054833,Coventry Health Care Inc.,health_care,2007-03-05*,2013-05-08,2007-03-05
 CVS,0000064803,CVS Health,health_care,1957-03-04,,2007-03-05
 CVX,0000093410,Chevron Corporation,energy,1957-03-04,,2007-03-05
 CXO,0001358071,Concho Resources,energy,2016-02-22,2021-01-21,2016-02-19
@@ -253,7 +253,7 @@ DDR,0000894315,Developers Diversified Rlty,financials,2008-01-22*,2009-04-06*,20
 DDS,0000028917,Dillard Inc.,consumer_discretionary,2007-03-05*,2008-10-28*,2007-03-05
 DE,0000315189,Deere & Company,industrials,1957-03-04,,2007-03-05
 DECK,0000910521,Deckers Brands,consumer_discretionary,2024-03-18,,2024-03-17
-DELL,0000826083,Dell Inc.,information_technology,2007-03-05*,2013-10-21,2007-03-05
+DELL,0000826083,Dell Inc.,information_technology,2007-03-05*,2013-10-29,2007-03-05
 DELL,0001571996,Dell Technologies,information_technology,2024-09-23,,2024-09-21
 DF,0000931336,Dean Foods,consumer_staples,2007-03-05*,2013-05-23,2007-03-05
 DFS,0001393612,Discover Financial,financials,2007-07-02,2025-05-19,2008-01-22
@@ -263,16 +263,16 @@ DGX,0001022079,Quest Diagnostics,health_care,2002-12-12,,2007-03-05
 DHI,0000882184,D. R. Horton,consumer_discretionary,2005-06-22,,2007-03-05
 DHR,0000313616,Danaher Corporation,health_care,1998-11-18,,2007-03-05
 DIS,0001744489,Walt Disney Company (The),communication_services,1976-06-30,,2007-03-05
-DISCA,0001437107,Discovery (Series A),communication_services,2010-03-01,2022-04-11*,2010-04-03
-DISCK,0001437107,Discovery (Series C),communication_services,2014-08-07,2022-04-11*,2014-08-08
+DISCA,0001437107,Discovery (Series A),communication_services,2010-03-01,2022-04-11,2010-04-03
+DISCK,0001437107,Discovery (Series C),communication_services,2014-08-07,2022-04-11,2014-08-08
 DISH,0001001082,Dish Network,communication_services,2017-03-13,2023-06-20,2017-03-11
-DJ,0000029924,Dow Jones & Co.,communication_services,2007-03-05*,2008-01-22*,2007-03-05
-DLPH,0001521332,Delphi Automotive PLC,consumer_discretionary,2012-12-24,2017-12-07*,2012-12-26
+DJ,0000029924,Dow Jones & Co.,communication_services,2007-03-05*,2007-12-13,2007-03-05
+DLPH,0001521332,Delphi Automotive PLC,consumer_discretionary,2012-12-24,2017-12-05,2012-12-26
 DLR,0001297996,Digital Realty,real_estate,2016-05-18,,2016-05-17
 DLTR,0000935703,Dollar Tree,consumer_staples,2011-12-19,,2011-12-29
 DNB,0001115222,Dun & Bradstreet,industrials,2008-12-02,2017-04-05,2008-12-24
 DNR,0000945764,Denbury Resources Inc.,energy,2009-04-06*,2015-03-23,2009-04-06
-DO,0000949039,Diamond Offshore Drilling,energy,2009-02-26,2016-10-03,2009-03-07
+DO,0000949039,Diamond Offshore Drilling,energy,2009-02-26,2016-09-30,2009-03-07
 DOC,0000765880,Healthpeak Properties,real_estate,2008-03-31,,2024-03-03
 DOV,0000029905,Dover Corporation,industrials,1985-10-31,,2007-03-05
 DOW,0000029915,Dow Chemical,materials,2007-03-05*,2017-09-01*,2007-03-05
@@ -282,15 +282,15 @@ DPZ,0001286681,Domino's,consumer_discretionary,2020-05-12,,2020-05-13
 DRE,0000783280,Duke Realty,real_estate,2017-07-26,2022-10-03,2017-07-26
 DRI,0000940944,Darden Restaurants,consumer_discretionary,1995-05-31,,2007-03-05
 DTE,0000936340,DTE Energy,utilities,1957-03-04,,2007-03-05
-DTV,0001465112,DirecTV,consumer_discretionary,2007-03-05*,2015-07-30*,2007-03-05
+DTV,0001465112,DirecTV,consumer_discretionary,2007-03-05*,2015-07-29,2007-03-05
 DUK,0001326160,Duke Energy,utilities,1976-06-30,,2007-03-05
 DV,0000730464,"DeVry, Inc.",consumer_discretionary,2009-06-10*,2012-10-01,2009-06-10
 DVA,0000927066,DaVita,health_care,2008-07-31,,2008-08-21
 DVN,0001090012,Devon Energy,energy,2000-08-30,,2007-03-05
-DWDP,0001666700,DowDuPont,materials,2017-09-01*,2019-06-04*,2017-09-01
+DWDP,0001666700,DowDuPont,materials,2017-09-01*,2019-06-03,2017-09-01
 DXC,0001688568,DXC Technology,information_technology,2017-04-04,2023-10-03,2017-04-03
 DXCM,0001093557,Dexcom,health_care,2020-05-12,,2020-05-13
-DYN,0001379895,Dynegy Inc.,utilities,2007-03-05*,2010-01-22*,2007-03-05
+DYN,0001379895,Dynegy Inc.,utilities,2007-03-05*,2009-12-18,2007-03-05
 EA,0000712515,Electronic Arts,communication_services,2002-07-22,,2011-12-20
 EBAY,0001065088,eBay Inc.,consumer_discretionary,2002-07-22,,2007-03-05
 ECL,0000031462,Ecolab,materials,1989-01-31,,2007-03-05
@@ -299,7 +299,7 @@ EDS,0001007456,Electronic Data Systems,information_technology,2007-03-05*,2008-0
 EFX,0000033185,Equifax,industrials,1997-06-19,,2007-03-05
 EG,0001095073,Everest Group,financials,2017-06-19,,2023-07-10
 EIX,0000827052,Edison International,utilities,1957-03-04,,2007-03-05
-EK,0000031235,Eastman Kodak,consumer_discretionary,2007-03-05*,2011-03-09*,2007-03-05
+EK,0000031235,Eastman Kodak,consumer_discretionary,2007-03-05*,2010-12-17,2007-03-05
 EL,0001001250,Estée Lauder Companies (The),consumer_staples,2006-01-05,,2007-03-05
 ELV,0001156039,Elevance Health,health_care,2002-07-25,,2022-06-28
 EMC,0000790070,EMC Corp.,information_technology,2007-03-05*,2016-09-08,2007-03-05
@@ -316,17 +316,17 @@ EQR,0000906107,Equity Residential,real_estate,2001-12-03,,2007-03-05
 EQT,0000033213,EQT Corporation,energy,2008-12-19,2018-11-13,2009-03-07
 EQT,0000033213,EQT Corporation,energy,2022-10-03,,2022-10-03
 ERIE,0000922621,Erie Indemnity,financials,2024-09-23,,2024-09-21
-ERTS,0000712515,Electronic Arts,information_technology,2007-03-05*,2011-12-20*,2007-03-05
+ERTS,0000712515,Electronic Arts,information_technology,2007-03-05*,2011-12-20,2007-03-05
 ES,0000072741,Eversource Energy,utilities,2009-07-24,,2015-02-20
 ESRX,0001532063,Express Scripts,health_care,2003-09-25,2018-12-24,2007-03-05
 ESS,0000920522,Essex Property Trust,real_estate,2014-04-02,,2014-04-01
 ESV,0000314808,ENSCO Int'l,energy,2007-03-05*,2009-12-20*,2007-03-05
-ESV,0000314808,Ensco plc,energy,2012-07-31,2016-03-30*,2012-08-01
-ETFC,0001015780,E*Trade,financials,2004-03-31,2020-10-09*,2007-03-05
+ESV,0000314808,Ensco plc,energy,2012-07-31,2016-03-30,2012-08-01
+ETFC,0001015780,E*Trade,financials,2004-03-31,2020-10-07,2007-03-05
 ETN,0001551182,Eaton Corporation,industrials,1957-03-04,,2007-03-05
 ETR,0000065984,Entergy,utilities,1957-03-04,,2007-03-05
 ETSY,0001370637,Etsy,consumer_discretionary,2020-09-21,2024-09-23,2020-10-01
-EVHC,0000895930,Envision Healthcare,health_care,2016-12-02,2018-10-10*,2016-12-05
+EVHC,0000895930,Envision Healthcare,health_care,2016-12-02,2018-10-11,2016-12-05
 EVRG,0001711269,Evergy,utilities,2018-06-05,,2018-06-05
 EW,0001099800,Edwards Lifesciences,health_care,2011-04-01,,2011-04-07
 EXC,0001109357,Exelon,utilities,1957-03-04,,2007-03-05
@@ -341,40 +341,40 @@ FB,0001326801,Meta,communication_services,2013-12-23,2022-06-08*,2013-12-20
 FBHS,0001519751,Fortune Brands Home & Security,industrials,2016-06-22,2022-12-19,2016-06-22
 FCX,0000831259,Freeport-McMoRan,materials,2011-07-01,,2007-03-05
 FD,0000794367,Federated Dept. Stores,consumer_discretionary,2007-03-05*,2007-07-24*,2007-03-05
-FDC,0000883980,First Data,industrials,2007-03-05*,2008-01-22*,2007-03-05
-FDO,0000034408,Family Dollar Stores,consumer_discretionary,2007-03-05*,2015-07-09,2007-03-05
+FDC,0000883980,First Data,industrials,2007-03-05*,2007-09-26,2007-03-05
+FDO,0000034408,Family Dollar Stores,consumer_discretionary,2007-03-05*,2015-07-08,2007-03-05
 FDS,0001013237,FactSet,financials,2021-12-20,,2021-12-26
 FDX,0001048911,FedEx,industrials,1980-12-31,,2007-03-05
 FE,0001031296,FirstEnergy,utilities,1997-11-28,,2007-03-05
 FFIV,0001048695,"F5, Inc.",information_technology,2010-12-20,,2011-03-09
-FHN,0000036966,First Horizon National,financials,2007-03-05*,2013-08-23*,2007-03-05
+FHN,0000036966,First Horizon National,financials,2007-03-05*,2013-06-21,2007-03-05
 FI,0000798354,Fiserv,financials,2001-04-02,,2023-06-08
 FICO,0000814547,Fair Isaac,information_technology,2023-03-20,,2023-03-19
-FII,0001056288,Federated Investors Inc.,financials,2007-03-05*,2012-12-31,2007-03-05
+FII,0001056288,Federated Investors Inc.,financials,2007-03-05*,2013-01-02,2007-03-05
 FIS,0001136893,Fidelity National Information Services,financials,2006-11-10,,2007-03-05
 FISV,0000798354,Fiserv,financials,2001-04-02,2023-06-08*,2007-03-05
 FITB,0000035527,Fifth Third Bancorp,financials,1996-03-29,,2007-03-05
 FL,0000850209,Foot Locker Inc,consumer_discretionary,2016-04-04,2019-08-09,2016-04-01
 FLIR,0000354908,FLIR Systems,information_technology,2009-01-02,2021-05-14,2009-03-07
 FLR,0001124198,Fluor Corp.,industrials,1980-03-31,2019-06-03,2007-03-05
-FLS,0000030625,Flowserve Corporation,industrials,2008-10-02,2021-03-22*,2008-09-30
+FLS,0000030625,Flowserve Corporation,industrials,2008-10-02,2021-03-22,2008-09-30
 FLT,0001175454,Fleetcor,financials,2018-06-20,2024-03-26*,2018-06-19
 FMC,0000037785,FMC Corporation,materials,2009-08-19,2025-03-24,2009-10-01
-FNM,0000310522,Fannie Mae,financials,2007-03-05*,2008-09-11*,2007-03-05
-FO,0000789073,Fortune Brands Inc.,consumer_discretionary,2007-03-05*,2011-11-21*,2007-03-05
-FOSL,0000883569,"Fossil, Inc.",consumer_discretionary,2012-04-04,2016-01-04*,2012-04-07
+FNM,0000310522,Fannie Mae,financials,2007-03-05*,2008-09-12,2007-03-05
+FO,0000789073,Fortune Brands Inc.,consumer_discretionary,2007-03-05*,2011-10-04,2007-03-05
+FOSL,0000883569,"Fossil, Inc.",consumer_discretionary,2012-04-04,2016-01-05,2012-04-07
 FOX,0001754301,Fox Corporation (Class B),communication_services,2019-03-19,,2015-09-25
 FOXA,0001754301,Fox Corporation (Class A),communication_services,2019-03-19,,2013-07-08
 FPL,0000753308,FPL Group,utilities,2007-03-05*,2010-07-11*,2007-03-05
-FRC,0001132979,First Republic Bank,financials,2019-01-02,2023-05-03*,2019-01-03
-FRE,0001026214,Federal Home Loan Mtg.,financials,2007-03-05*,2008-09-11*,2007-03-05
+FRC,0001132979,First Republic Bank,financials,2019-01-02,2023-05-04,2019-01-03
+FRE,0001026214,Federal Home Loan Mtg.,financials,2007-03-05*,2008-09-12,2007-03-05
 FRT,0000034903,Federal Realty Investment Trust,real_estate,2016-02-01,,2016-01-29
-FRX,0000038074,Forest Laboratories,health_care,2007-03-05*,2014-06-30*,2007-03-05
+FRX,0000038074,Forest Laboratories,health_care,2007-03-05*,2014-07-01,2007-03-05
+FSLR,0001274494,First Solar Inc,information_technology,2009-10-16,2017-03-20,2009-10-18
 FSLR,0001274494,First Solar,information_technology,2022-12-19,,2022-12-17
-FSLR,0001274494,First Solar Inc,information_technology,2009-10-16,2017-03-18*,2009-10-18
 FTI,0001681459,TechnipFMC,energy,2009-06-05,2021-02-12,2009-06-10
 FTNT,0001262039,Fortinet,information_technology,2018-10-11,,2018-10-10
-FTR,0000020520,Frontier Communications,communication_services,2008-08-21*,2017-03-18*,2008-08-21
+FTR,0000020520,Frontier Communications,communication_services,2008-08-21*,2017-03-20,2008-08-21
 FTV,0001659166,Fortive,industrials,2016-07-01,,2016-07-05
 GAS,0001004155,AGL Resources Inc.,utilities,2011-12-13,2016-07-01,2007-03-05
 GCI,0000039899,Gannett Co.,consumer_discretionary,1975-12-31,2015-06-29*,2007-03-05
@@ -383,7 +383,7 @@ GDDY,0001609711,GoDaddy,information_technology,2024-06-24,,2024-06-22
 GE,0000040545,GE Aerospace,industrials,1957-03-04,,2007-03-05
 GEHC,0001932393,GE HealthCare,health_care,2023-01-04,,2023-01-03
 GEN,0000849399,Gen Digital,information_technology,2003-03-25,,2022-11-09
-GENZ,0000732485,Genzyme Corp.,health_care,2007-03-05*,2011-04-07*,2007-03-05
+GENZ,0000732485,Genzyme Corp.,health_care,2007-03-05*,2011-04-01,2007-03-05
 GEV,0001996810,GE Vernova,industrials,2024-04-02,,2024-04-02
 GGP,0000895648,Genl Growth Properties,financials,2008-01-22*,2009-03-18*,2008-01-22
 GGP,0001496048,General Growth Properties Inc.,real_estate,2013-12-10,2018-08-28,2013-12-10
@@ -394,7 +394,7 @@ GL,0000320335,Globe Life,financials,1989-04-30,,2019-08-16
 GLW,0000024741,Corning Inc.,information_technology,1995-02-27,,2007-03-05
 GM,0001467858,General Motors,consumer_discretionary,2007-03-05*,2009-06-02*,2007-03-05
 GM,0001467858,General Motors,consumer_discretionary,2013-06-06,,2013-06-08
-GMCR,0000909954,Keurig Green Mountain,consumer_staples,2014-03-24,2016-03-04*,2014-03-23
+GMCR,0000909954,Keurig Green Mountain,consumer_staples,2014-03-24,2016-03-07,2014-03-23
 GME,0001326380,GameStop Corp.,consumer_discretionary,2007-12-14,2016-04-25,2008-01-22
 GNRC,0001474735,Generac,industrials,2021-03-22,,2021-03-22
 GNW,0001276520,Genworth Financial Inc.,financials,2007-03-05*,2015-11-18,2007-03-05
@@ -410,10 +410,10 @@ GT,0000042582,Goodyear Tire & Rubber,consumer_discretionary,2007-03-05*,2019-02-
 GWW,0000277135,W. W. Grainger,industrials,1981-06-30,,2007-03-05
 H,0001355001,Realogy Corporation,real_estate,2007-03-05*,2007-04-04*,2007-03-05
 HAL,0000045012,Halliburton,energy,1957-03-04,,2007-03-05
-HAR,0000800459,Harman Int'l Industries,consumer_discretionary,2007-03-05*,2017-03-15*,2007-03-05
+HAR,0000800459,Harman Int'l Industries,consumer_discretionary,2007-03-05*,2017-03-16,2007-03-05
 HAS,0000046080,Hasbro,consumer_discretionary,1984-09-30,,2007-03-05
 HBAN,0000049196,Huntington Bancshares,financials,1997-08-28,,2007-03-05
-HBI,0001359841,Hanesbrands,consumer_discretionary,2015-03-20,2021-12-26*,2015-03-20
+HBI,0001359841,Hanesbrands,consumer_discretionary,2015-03-20,2021-12-20,2015-03-20
 HCA,0000860730,HCA Healthcare,health_care,2015-01-27,,2015-01-27
 HCBK,0000921847,Hudson City Bancorp,financials,2007-02-15,2015-11-02,2007-03-05
 HCN,0000766704,Welltower Inc.,real_estate,2009-01-30,2018-02-28*,2009-03-07
@@ -427,20 +427,20 @@ HIG,0000874766,Hartford (The),financials,1957-03-04,,2007-03-05
 HII,0001501585,Huntington Ingalls Industries,industrials,2018-01-03,,2018-01-04
 HLT,0000047580,Hilton Hotels,consumer_discretionary,2007-03-05*,2008-01-22*,2007-03-05
 HLT,0001585689,Hilton Worldwide,consumer_discretionary,2017-06-19,,2017-06-17
-HNZ,0000046640,Heinz (H.J.),consumer_staples,2007-03-05*,2013-06-07,2007-03-05
+HNZ,0000046640,Heinz (H.J.),consumer_staples,2007-03-05*,2013-06-06,2007-03-05
 HOG,0000793952,Harley-Davidson,consumer_discretionary,2007-03-05*,2020-06-22,2007-03-05
 HOLX,0000859737,Hologic,health_care,2016-03-30,,2016-03-30
 HON,0000773840,Honeywell,industrials,1957-03-04,,2007-03-05
-HOT,0000316206,Starwood Hotels & Resorts,consumer_discretionary,2007-03-05*,2016-09-23,2007-03-05
+HOT,0000316206,Starwood Hotels & Resorts,consumer_discretionary,2007-03-05*,2016-09-22,2007-03-05
 HP,0000046765,Helmerich & Payne,energy,2010-03-01,2020-05-22,2010-04-03
 HPC,0000046989,Hercules Inc.,materials,2007-03-05*,2009-06-01*,2007-03-05
 HPE,0001645590,Hewlett Packard Enterprise,information_technology,2015-11-02,,2015-11-03
 HPQ,0000047217,HP Inc.,information_technology,1974-12-31,,2007-03-05
 HRB,0000012659,H&R Block,consumer_discretionary,1986-11-30,2020-09-21,2007-03-05
 HRL,0000048465,Hormel Foods,consumer_staples,2009-03-04,,2009-04-06
-HRS,0000202058,Harris Corporation,industrials,2008-09-22,2019-07-01*,2008-09-16
+HRS,0000202058,Harris Corporation,industrials,2008-09-22,2019-07-01,2008-09-16
 HSIC,0001000228,Henry Schein,health_care,2015-03-17,,2015-03-17
-HSP,0001274057,Hospira Inc.,health_care,2007-03-05*,2015-09-03,2007-03-05
+HSP,0001274057,Hospira Inc.,health_care,2007-03-05*,2015-09-02,2007-03-05
 HST,0001070750,Host Hotels & Resorts,real_estate,2007-03-20,,2008-01-22
 HSY,0000047111,Hershey Company (The),consumer_staples,1957-03-04,,2007-03-05
 HUBB,0000048898,Hubbell Incorporated,industrials,2023-10-18,,2023-10-17
@@ -452,10 +452,10 @@ ICE,0001571949,Intercontinental Exchange,financials,2007-09-26,,2008-01-22
 IDXX,0000874716,Idexx Laboratories,health_care,2017-01-05,,2017-01-05
 IEX,0000832101,IDEX Corporation,industrials,2019-08-09,,2019-08-12
 IFF,0000051253,International Flavors & Fragrances,materials,1976-03-31,,2007-03-05
-IGT,0000353944,International Game Technology,consumer_discretionary,2007-03-05*,2014-06-22*,2007-03-05
+IGT,0000353944,International Game Technology,consumer_discretionary,2007-03-05*,2014-06-20,2007-03-05
 ILMN,0001110803,Illumina,health_care,2015-11-19,2024-06-24,2015-11-18
 INCY,0000879169,Incyte,health_care,2017-02-28,,2017-02-28
-INFO,0001598014,IHS Markit,industrials,2017-06-02,2022-03-01*,2017-06-01
+INFO,0001598014,IHS Markit,industrials,2017-06-02,2022-03-02,2017-06-01
 INTC,0000050863,Intel,information_technology,1976-12-31,,2007-03-05
 INTU,0000896878,Intuit,information_technology,2000-12-05,,2007-03-05
 INVH,0001687229,Invitation Homes,real_estate,2022-09-19,,2022-09-18
@@ -474,29 +474,29 @@ IVZ,0000914208,Invesco,financials,2008-08-21,,2008-08-21
 J,0000052988,Jacobs Solutions,industrials,2007-10-26,,2019-12-18
 JAVA,0000709519,Sun Microsystems,information_technology,2007-09-11*,2010-02-05*,2007-09-11
 JBHT,0000728535,J.B. Hunt,industrials,2015-07-01,,2015-07-01
+JBL,0000898293,Jabil Circuit,information_technology,2007-03-05*,2014-11-05,2007-03-05
 JBL,0000898293,Jabil,information_technology,2023-12-18,,2023-12-16
-JBL,0000898293,Jabil Circuit,information_technology,2007-03-05*,2014-11-05*,2007-03-05
 JCI,0000833444,Johnson Controls,industrials,2010-08-27,,2007-03-05
 JCP,0001166126,Penney (J.C.),consumer_discretionary,2007-03-05*,2013-12-02,2007-03-05
-JDSU,0000912093,JDS Uniphase Corp.,information_technology,2007-03-05*,2013-12-21,2007-03-05
-JEC,0000052988,Jacobs Engineering Group,industrials,2007-10-26,2019-12-18*,2008-01-22
+JDSU,0000912093,JDS Uniphase Corp.,information_technology,2007-03-05*,2013-12-23,2007-03-05
+JEC,0000052988,Jacobs Engineering Group,industrials,2007-10-26,2019-12-10,2008-01-22
 JEF,0000096223,Jefferies Financial Group,financials,2007-08-27,2019-09-26,2018-05-28
 JKHY,0000779152,Jack Henry & Associates,financials,2018-11-13,,2018-11-16
 JNJ,0000200406,Johnson & Johnson,health_care,1973-06-30,,2007-03-05
-JNPR,0001043604,Juniper Networks,information_technology,2006-06-02,2025-07-03*,2007-03-05
+JNPR,0001043604,Juniper Networks,information_technology,2006-06-02,2025-07-09,2007-03-05
 JNS,0001065865,Janus Capital Group,financials,2007-03-05*,2011-11-18,2007-03-05
-JNY,0000874016,Jones Apparel Group,consumer_discretionary,2007-03-05*,2009-04-06*,2007-03-05
-JOY,0000801898,Joy Global Inc.,industrials,2011-02-28,2015-10-08,2011-12-14
-JOYG,0000801898,Joy Global Inc.,industrials,2011-03-09*,2011-12-14*,2011-03-09
+JNY,0000874016,Jones Apparel Group,consumer_discretionary,2007-03-05*,2009-03-03,2007-03-05
+JOY,0000801898,Joy Global Inc.,industrials,2011-02-28,2015-10-07,2011-12-14
+JOYG,0000801898,Joy Global Inc.,industrials,2011-03-09*,2011-12-06,2011-03-09
 JPM,0000019617,JPMorgan Chase,financials,1975-06-30,,2007-03-05
 JWN,0000072333,Nordstrom,consumer_discretionary,1986-08-31,2020-06-22,2007-03-05
 K,0000055067,Kellanova,consumer_staples,1989-09-11,,2007-03-05
-KBH,0000795266,KB Home,consumer_discretionary,2007-03-05*,2010-01-22*,2007-03-05
+KBH,0000795266,KB Home,consumer_discretionary,2007-03-05*,2009-12-18,2007-03-05
 KDP,0001418135,Keurig Dr Pepper,consumer_staples,2022-06-21,,2022-06-20
 KEY,0000091576,KeyCorp,financials,1994-03-01,,2007-03-05
 KEYS,0001601046,Keysight Technologies,information_technology,2018-11-06,,2018-11-06
 KFT,0001103982,Kraft Foods Inc-A,consumer_staples,2008-01-22*,2012-10-02,2008-01-22
-KG,0001047699,King Pharmaceuticals,health_care,2007-03-05*,2011-03-08*,2007-03-05
+KG,0001047699,King Pharmaceuticals,health_care,2007-03-05*,2010-12-17,2007-03-05
 KHC,0001637459,Kraft Heinz,consumer_staples,2015-07-06,,2015-07-21
 KIM,0000879101,Kimco Realty,real_estate,2006-04-04,,2007-03-05
 KKR,0001404912,KKR & Co.,financials,2024-06-24,,2024-06-22
@@ -506,18 +506,18 @@ KMI,0001506307,Kinder Morgan,energy,2007-03-05*,2008-01-22*,2007-03-05
 KMI,0001506307,Kinder Morgan,energy,2012-05-25,,2012-05-29
 KMX,0001170010,CarMax,consumer_discretionary,2010-06-28,,2010-07-21
 KO,0000021344,Coca-Cola Company (The),consumer_staples,1957-03-04,,2007-03-05
-KORS,0001530721,Michael Kors Holdings,consumer_discretionary,2013-11-13,2019-01-03*,2013-11-15
+KORS,0001530721,Michael Kors Holdings,consumer_discretionary,2013-11-13,2018-01-02,2013-11-15
 KR,0000056873,Kroger,consumer_staples,1957-03-04,,2007-03-05
-KRFT,0001545158,Kraft Foods Group,consumer_staples,2012-10-02,2015-07-21*,2012-10-03
-KSE,0001062379,Keyspan Energy,utilities,2007-03-05*,2008-01-22*,2007-03-05
+KRFT,0001545158,Kraft Foods Group,consumer_staples,2012-10-02,2015-07-06,2012-10-03
+KSE,0001062379,Keyspan Energy,utilities,2007-03-05*,2007-08-24,2007-03-05
 KSS,0000885639,Kohl's Corp.,consumer_discretionary,2007-03-05*,2020-09-21,2007-03-05
 KSU,0000054480,Kansas City Southern,industrials,2013-05-24,2021-12-14,2013-05-24
 KVUE,0001944048,Kenvue,consumer_staples,2023-08-25,,2023-08-28
 L,0000060086,Loews Corporation,financials,1995-05-31,,2008-08-21
 LB,0000701985,L Brands,consumer_discretionary,1983-09-30,2021-08-03*,2013-12-09
 LDOS,0001336920,Leidos,industrials,2019-08-09,,2019-08-12
-LEG,0000058492,Leggett & Platt,consumer_discretionary,1999-10-14,2021-12-26*,2007-03-05
-LEH,0000806085,Lehman Bros.,financials,2007-03-05*,2008-09-16*,2007-03-05
+LEG,0000058492,Leggett & Platt,consumer_discretionary,1999-10-14,2021-12-20,2007-03-05
+LEH,0000806085,Lehman Bros.,financials,2007-03-05*,2008-09-16,2007-03-05
 LEN,0000920760,Lennar,consumer_discretionary,2005-10-04,,2007-03-05
 LH,0000920148,Labcorp,health_care,2004-11-01,,2007-03-05
 LHX,0000202058,L3Harris,industrials,2008-09-22,,2019-07-01
@@ -527,19 +527,19 @@ LIN,0001707925,Linde plc,materials,1992-07-01,,2018-11-01
 LIZ,0000352363,Liz Claiborne Inc.,consumer_discretionary,2007-03-05*,2008-12-24*,2007-03-05
 LKQ,0001065696,LKQ Corporation,consumer_discretionary,2016-05-23,,2016-05-20
 LLL,0001039101,L-3 Communications Holdings,industrials,2007-03-05*,2019-07-01,2007-03-05
-LLTC,0000791907,Linear Technology Corp.,information_technology,2007-03-05*,2017-03-11*,2007-03-05
+LLTC,0000791907,Linear Technology Corp.,information_technology,2007-03-05*,2017-03-13,2007-03-05
 LLY,0000059478,Lilly (Eli),health_care,1970-12-31,,2007-03-05
-LM,0000704051,Legg Mason,financials,2007-03-05*,2016-12-01,2007-03-05
+LM,0000704051,Legg Mason,financials,2007-03-05*,2016-12-02,2007-03-05
 LMT,0000936468,Lockheed Martin,industrials,1957-03-04,,2007-03-05
 LNC,0000059558,Lincoln Financial,financials,1976-06-30,2023-09-18,2007-03-05
 LNT,0000352541,Alliant Energy,utilities,2016-07-01,,2016-07-01
-LO,0001424847,Lorillard Inc.,consumer_staples,2008-06-11,2015-06-13,2008-08-21
+LO,0001424847,Lorillard Inc.,consumer_staples,2008-06-11,2015-06-11,2008-08-21
 LOW,0000060667,Lowe's,consumer_discretionary,1984-02-29,,2007-03-05
 LRCX,0000707549,Lam Research,information_technology,2012-06-29,,2012-06-06
-LSI,0000703360,LSI Corporation,information_technology,2007-03-05*,2014-05-09*,2007-03-05
+LSI,0000703360,LSI Corporation,information_technology,2007-03-05*,2014-05-08,2007-03-05
 LTD,0000701985,L Brands Inc.,consumer_discretionary,2007-03-05*,2013-12-09*,2007-03-05
 LTR,0000060086,Loews Corp.,financials,2007-03-05*,2008-08-21*,2007-03-05
-LUK,0000096223,Leucadia National Corp.,financials,2007-08-27,2018-05-28*,2008-01-22
+LUK,0000096223,Leucadia National Corp.,financials,2007-08-27,2018-05-24,2008-01-22
 LULU,0001397187,Lululemon Athletica,consumer_discretionary,2023-10-18,,2023-10-17
 LUMN,0000018926,Lumen Technologies,communication_services,1999-03-25,2023-03-20,2020-09-22
 LUV,0000092380,Southwest Airlines,industrials,1994-07-01,,2007-03-05
@@ -556,13 +556,13 @@ MAC,0000912242,Macerich,real_estate,2013-05-09,2019-12-23,2013-05-09
 MAR,0001048286,Marriott International,consumer_discretionary,1998-05-29,,2007-03-05
 MAS,0000062996,Masco,industrials,1981-06-30,,2007-03-05
 MAT,0000063276,Mattel Inc.,consumer_discretionary,1982-03-31,2019-06-07,2007-03-05
-MBI,0000814585,MBIA Inc.,financials,2007-03-05*,2010-01-22*,2007-03-05
+MBI,0000814585,MBIA Inc.,financials,2007-03-05*,2009-12-18,2007-03-05
 MCD,0000063908,McDonald's,consumer_discretionary,1970-06-30,,2007-03-05
 MCHP,0000827054,Microchip Technology,information_technology,2007-09-07,,2007-08-30
 MCK,0000927653,McKesson Corporation,health_care,1999-01-13,,2007-03-05
 MCO,0001059556,Moody's Corporation,financials,1998-07-01,,2007-03-05
 MDLZ,0001103982,Mondelez International,consumer_staples,2012-10-02,,2012-10-03
-MDP,0000065011,Meredith Corp.,consumer_discretionary,2007-03-05*,2011-03-09*,2007-03-05
+MDP,0000065011,Meredith Corp.,consumer_discretionary,2007-03-05*,2011-01-03,2007-03-05
 MDT,0001613103,Medtronic,health_care,1986-10-31,,2007-03-05
 MEDI,0000873591,MedImmune Inc.,health_care,2007-03-05*,2007-05-31*,2007-03-05
 MEE,0000037748,Massey Energy Company,energy,2008-08-21*,2011-06-01,2008-08-21
@@ -570,14 +570,14 @@ MEL,0000064782,Mellon Bank Corp.,financials,2007-03-05*,2008-01-22*,2007-03-05
 MER,0000065100,Merrill Lynch,financials,2007-03-05*,2009-03-07*,2007-03-05
 MET,0001099219,MetLife,financials,2000-12-11,,2007-03-05
 META,0001326801,Meta Platforms,communication_services,2013-12-23,,2022-06-08
-MFE,0000890801,McAfee,information_technology,2008-12-30*,2011-03-08*,2008-12-30
+MFE,0000890801,McAfee,information_technology,2008-12-30*,2011-02-28,2008-12-30
 MGM,0000789570,MGM Resorts,consumer_discretionary,2017-07-26,,2017-07-26
-MHFI,0000064040,McGraw Hill Financial,financials,2013-05-15*,2016-05-03*,2013-05-15
+MHFI,0000064040,McGraw Hill Financial,financials,2013-05-15*,2016-04-27,2013-05-15
 MHK,0000851968,Mohawk Industries,consumer_discretionary,2013-12-23,,2013-12-21
 MHP,0000064040,McGraw-Hill,financials,2007-03-05*,2013-05-15*,2007-03-05
 MHS,0001170650,Medco Health Solutions Inc.,health_care,2007-03-05*,2012-04-03,2007-03-05
 MI,0001399315,Marshall & Ilsley Corp.,financials,2007-03-05*,2011-07-05,2007-03-05
-MIL,0000066479,Millipore Corp.,health_care,2007-03-05*,2010-07-21*,2007-03-05
+MIL,0000066479,Millipore Corp.,health_care,2007-03-05*,2010-07-14,2007-03-05
 MJN,0001452575,Mead Johnson,consumer_staples,2009-12-21,2017-06-19,2010-01-22
 MKC,0000063754,McCormick & Company,consumer_staples,2003-03-20,,2007-03-05
 MKTX,0001278021,MarketAxess,financials,2019-07-01,,2019-07-01
@@ -585,12 +585,12 @@ MLM,0000916076,Martin Marietta Materials,materials,2014-07-02,,2014-07-01
 MMC,0000062709,Marsh McLennan,financials,1987-08-31,,2007-03-05
 MMI,0001495569,Motorola Mobility Holdings Inc.,information_technology,2011-03-09*,2012-05-21,2011-03-09
 MMM,0000066740,3M,industrials,1957-03-04,,2007-03-05
-MNK,0001567892,Mallinckrodt Plc,health_care,2014-08-19,2017-06-26,2014-09-27
+MNK,0001567892,Mallinckrodt Plc,health_care,2014-08-19,2017-07-26,2014-09-27
 MNST,0000865752,Monster Beverage,consumer_staples,2012-06-28,,2012-06-30
 MNST,0001020416,Monster Worldwide,industrials,2007-03-05*,2009-01-02*,2007-03-05
 MO,0000764180,Altria,consumer_staples,1957-03-04,,2007-03-05
 MOH,0001179929,Molina Healthcare,health_care,2022-03-02,,2022-03-01
-MOLX,0000067472,Molex Inc.,information_technology,2007-03-05*,2013-12-10*,2007-03-05
+MOLX,0000067472,Molex Inc.,information_technology,2007-03-05*,2013-12-10,2007-03-05
 MON,0001110783,Monsanto Co.,materials,2002-08-07,2018-06-07,2007-03-05
 MOS,0001285785,Mosaic Company (The),materials,2011-09-26,,2011-10-18
 MOT,0000068505,Motorola Inc.,information_technology,2007-03-05*,2011-03-09*,2007-03-05
@@ -598,7 +598,7 @@ MPC,0001510295,Marathon Petroleum,energy,2011-07-01,,2011-12-30
 MPWR,0001280452,Monolithic Power Systems,information_technology,2021-02-12,,2021-02-17
 MRK,0000310158,Merck & Co.,health_care,1957-03-04,,2007-03-05
 MRNA,0001682852,Moderna,health_care,2021-07-21,,2021-07-21
-MRO,0000101778,Marathon Oil,energy,1957-03-04,2024-11-23*,2007-03-05
+MRO,0000101778,Marathon Oil,energy,1957-03-04,2024-11-26,2007-03-05
 MS,0000895421,Morgan Stanley,financials,1993-07-29,,2007-03-05
 MSCI,0001408198,MSCI Inc.,financials,2018-04-04,,2018-04-03
 MSFT,0000789019,Microsoft,information_technology,1994-06-01,,2007-03-05
@@ -609,23 +609,23 @@ MTD,0001037646,Mettler Toledo,health_care,2016-09-06,,2016-09-10
 MTG,0000876437,MGIC Investment,financials,2007-03-05*,2008-11-03*,2007-03-05
 MTW,0000061986,Manitowoc Co.,industrials,2008-01-22*,2009-10-01*,2008-01-22
 MU,0000723125,Micron Technology,information_technology,1994-09-27,,2007-03-05
-MUR,0000717423,Murphy Oil,energy,2007-03-05*,2017-06-26,2007-03-05
+MUR,0000717423,Murphy Oil,energy,2007-03-05*,2017-07-26,2007-03-05
 MWV,0001159297,MeadWestvaco Corporation,materials,2007-03-05*,2015-07-21*,2007-03-05
 MWW,0001020416,Monster Worldwide,industrials,2009-01-02*,2011-12-16,2009-01-02
 MXB,0001408198,MSCI,financials,2010-01-22*,2010-07-12*,2010-01-22
-MXIM,0000743316,Maxim Integrated,information_technology,2018-12-03,2021-08-30,2018-11-30
 MXIM,0000743316,Maxim Integrated Prod,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+MXIM,0000743316,Maxim Integrated,information_technology,2018-12-03,2021-08-30,2018-11-30
 MYL,0001623613,Mylan N.V.,health_care,2004-04-23,2020-11-18*,2007-03-05
-NAVI,0001593538,Navient,financials,2014-05-01,2018-06-04,2014-05-01
-NBL,0000072207,Noble Energy,energy,2007-10-08,2020-10-09*,2008-01-22
+NAVI,0001593538,Navient,financials,2014-05-01,2018-06-05,2014-05-01
+NBL,0000072207,Noble Energy,energy,2007-10-08,2020-10-12,2008-01-22
 NBR,0001163739,Nabors Industries Ltd.,energy,2007-03-05*,2015-03-23,2007-03-05
 NCC,0000069970,National City Corp.,financials,2007-03-05*,2009-03-07*,2007-03-05
 NCLH,0001513761,Norwegian Cruise Line Holdings,consumer_discretionary,2017-10-13,,2017-10-17
-NCR,0000070866,NCR Corp.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+NCR,0000070866,NCR Corp.,information_technology,2007-03-05*,2007-10-01,2007-03-05
 NDAQ,0001120193,"Nasdaq, Inc.",financials,2008-10-22,,2008-10-28
 NDSN,0000072331,Nordson Corporation,industrials,2022-02-15,,2022-02-14
 NE,0001169055,Noble Corporation,energy,2007-03-05*,2009-04-06*,2007-03-05
-NE,0001458891,Noble Corp,energy,2011-01-18,2015-07-17*,2011-03-09
+NE,0001458891,Noble Corp,energy,2011-01-18,2015-07-20,2011-03-09
 NEE,0000753308,NextEra Energy,utilities,1976-06-30,,2010-07-11
 NEM,0001164727,Newmont,materials,1969-06-30,,2007-03-05
 NFLX,0001065280,Netflix,communication_services,2010-12-20,,2011-03-09
@@ -637,7 +637,7 @@ NLOK,0000849399,NortonLifeLock,information_technology,2003-03-25,2022-11-09*,201
 NLSN,0001492633,Nielsen Holdings,industrials,2013-07-09,2022-10-12,2013-07-08
 NOC,0001133421,Northrop Grumman,industrials,1957-03-04,,2007-03-05
 NOV,0001021860,Nov,energy,2005-03-14,2021-09-20,2007-03-05
-NOVL,0000758004,Novell Inc.,information_technology,2007-03-05*,2011-05-24*,2007-03-05
+NOVL,0000758004,Novell Inc.,information_technology,2007-03-05*,2011-04-27,2007-03-05
 NOW,0001373715,ServiceNow,information_technology,2019-11-21,,2019-11-19
 NRG,0001013871,NRG Energy,utilities,2010-01-29,,2010-04-03
 NSC,0000702165,Norfolk Southern,industrials,1957-03-04,,2007-03-05
@@ -653,16 +653,16 @@ NWL,0000814453,Newell Brands,consumer_discretionary,1989-04-30,2023-09-18,2007-0
 NWS,0001564708,News Corp (Class B),communication_services,2015-09-18,,2015-09-25
 NWSA,0001564708,News Corp (Class A),communication_services,2013-08-01,,2007-03-05
 NXPI,0001413447,NXP Semiconductors,information_technology,2021-03-22,,2021-03-22
-NYT,0000071691,New York Times Cl. A,consumer_discretionary,2007-03-05*,2011-03-09*,2007-03-05
+NYT,0000071691,New York Times Cl. A,consumer_discretionary,2007-03-05*,2010-12-17,2007-03-05
 NYX,0001368007,NYSE Euronext,financials,2008-01-22*,2013-11-13,2008-01-22
 O,0000726728,Realty Income,real_estate,2015-04-07,,2015-04-06
 ODFL,0000878927,Old Dominion,industrials,2019-12-09,,2019-12-08
-ODP,0000800240,Office Depot,consumer_discretionary,2007-03-05*,2011-03-09*,2007-03-05
+ODP,0000800240,Office Depot,consumer_discretionary,2007-03-05*,2010-12-17,2007-03-05
 OGN,0001821825,Organon & Co.,health_care,2021-06-03,2023-10-18,2021-06-04
-OI,0000812074,Owens-Illinois Inc,materials,2009-01-02,2016-12-01,2009-03-07
+OI,0000812074,Owens-Illinois Inc,materials,2009-01-02,2016-12-02,2009-03-07
 OKE,0001039684,Oneok,energy,2010-03-15,,2010-04-03
 OMC,0000029989,Omnicom Group,communication_services,1997-12-31,,2007-03-05
-OMX,0000012978,OfficeMax Inc.,consumer_discretionary,2007-03-05*,2008-08-21*,2007-03-05
+OMX,0000012978,OfficeMax Inc.,consumer_discretionary,2007-03-05*,2008-06-23,2007-03-05
 ON,0001097864,ON Semiconductor,information_technology,2022-06-21,,2022-06-20
 ORCL,0001341439,Oracle Corporation,information_technology,1989-08-31,,2007-03-05
 ORLY,0000898173,O’Reilly Automotive,consumer_discretionary,2009-03-27,,2009-04-06
@@ -679,16 +679,16 @@ PCAR,0000075362,Paccar,industrials,1980-12-31,,2007-03-05
 PCG,0001004980,PG&E Corp.,utilities,2007-03-05*,2019-01-18,2007-03-05
 PCG,0001004980,PG&E Corporation,utilities,2022-10-03,,2022-10-03
 PCL,0000849213,Plum Creek Timber Co.,financials,2007-03-05*,2016-02-22,2007-03-05
-PCLN,0001075531,Priceline.com,consumer_discretionary,2009-11-06,2018-03-27*,2010-07-21
-PCP,0000079958,Precision Castparts,industrials,2007-06-01,2016-01-29*,2007-05-31
-PCS,0001283699,MetroPCS Communications Inc.,communication_services,2009-07-04*,2013-05-01,2009-07-04
+PCLN,0001075531,Priceline.com,consumer_discretionary,2009-11-06,2018-02-27,2010-07-21
+PCP,0000079958,Precision Castparts,industrials,2007-06-01,2016-02-01,2007-05-31
+PCS,0001283699,MetroPCS Communications Inc.,communication_services,2009-07-04*,2013-04-30,2009-07-04
 PD,0000078066,Phelps Dodge,materials,2007-03-05*,2008-01-22*,2007-03-05
 PDCO,0000891024,Patterson Companies,health_care,2005-10-11,2018-03-19,2007-03-05
 PEAK,0000765880,Healthpeak,real_estate,2008-03-31,2024-03-03*,2019-11-06
 PEG,0000788784,Public Service Enterprise Group,utilities,1957-03-04,,2007-03-05
 PENN,0000921738,Penn Entertainment,consumer_discretionary,2021-03-22,2022-09-19,2021-03-22
 PEP,0000077476,PepsiCo,consumer_staples,1957-03-04,,2007-03-05
-PETM,0000863157,"PetSmart, Inc.",consumer_discretionary,2012-10-10,2015-03-11,2012-10-11
+PETM,0000863157,"PetSmart, Inc.",consumer_discretionary,2012-10-10,2015-03-12,2012-10-11
 PFE,0000078003,Pfizer,health_care,1957-03-04,,2007-03-05
 PFG,0001126328,Principal Financial Group,financials,2002-07-22,,2007-03-05
 PG,0000080424,Procter & Gamble,consumer_staples,1957-03-04,,2007-03-05
@@ -699,7 +699,7 @@ PHM,0000822416,PulteGroup,consumer_discretionary,1984-04-30,,2007-03-05
 PKG,0000075677,Packaging Corporation of America,materials,2017-07-26,,2017-07-26
 PKI,0000031791,PerkinElmer,health_care,1985-05-31,2023-05-17*,2007-03-05
 PLD,0001045609,Prologis,real_estate,2003-07-17,,2007-03-05
-PLL,0000075829,Pall Corp.,industrials,1987-12-31,2015-08-31,2007-03-05
+PLL,0000075829,Pall Corp.,industrials,1987-12-31,2015-08-28,2007-03-05
 PLTR,0001321655,Palantir Technologies,information_technology,2024-09-23,,2024-09-21
 PM,0001413329,Philip Morris International,consumer_staples,2008-03-31,,2008-08-21
 PMCS,0000767920,PMC-Sierra Inc.,information_technology,2007-03-05*,2007-11-07*,2007-03-05
@@ -707,7 +707,7 @@ PNC,0000713676,PNC Financial Services,financials,1988-04-30,,2007-03-05
 PNR,0000077360,Pentair,industrials,2012-10-01,,2012-10-03
 PNW,0000764622,Pinnacle West Capital,utilities,1999-10-04,,2007-03-05
 PODD,0001145197,Insulet Corporation,health_care,2023-03-15,,2023-03-14
-POM,0001135971,Pepco Holdings Inc.,utilities,2007-11-09,2016-03-30*,2008-01-22
+POM,0001135971,Pepco Holdings Inc.,utilities,2007-11-09,2016-03-30,2008-01-22
 POOL,0000945841,Pool Corporation,consumer_discretionary,2020-10-07,,2020-10-09
 PPG,0000079879,PPG Industries,materials,1957-03-04,,2007-03-05
 PPL,0000922224,PPL Corporation,utilities,2001-10-01,,2007-03-05
@@ -716,20 +716,20 @@ PRU,0001137774,Prudential Financial,financials,2002-07-22,,2007-03-05
 PSA,0001393311,Public Storage,real_estate,2005-08-19,,2007-03-05
 PSX,0001534701,Phillips 66,energy,2012-05-01,,2012-05-04
 PTC,0000857005,PTC Inc.,information_technology,2021-04-20,,2021-04-22
-PTV,0001089976,Pactiv Corp.,materials,2007-03-05*,2010-12-07*,2007-03-05
+PTV,0001089976,Pactiv Corp.,materials,2007-03-05*,2010-11-17,2007-03-05
 PVH,0000078239,PVH,consumer_discretionary,2013-02-15,2022-09-19,2013-02-17
 PWR,0001050915,Quanta Services,industrials,2009-07-01,,2009-07-04
 PX,0000884905,Praxair Inc.,materials,1992-07-01,2018-11-01*,2007-03-05
-PXD,0001038357,Pioneer Natural Resources,energy,2008-09-24,2024-05-03*,2008-09-30
+PXD,0001038357,Pioneer Natural Resources,energy,2008-09-24,2024-05-08,2008-09-30
 PYPL,0001633917,PayPal,financials,2015-07-20,,2015-07-17
-Q,0001037949,Qwest Communications Int,communication_services,2007-03-05*,2011-04-07*,2007-03-05
-Q,0001478242,IQVIA Holdings Inc.,health_care,2017-08-29,2017-11-18*,2017-08-29
+Q,0001037949,Qwest Communications Int,communication_services,2007-03-05*,2011-03-31,2007-03-05
+Q,0001478242,IQVIA Holdings Inc.,health_care,2017-08-29,2017-11-15,2017-08-29
 QCOM,0000804328,Qualcomm,information_technology,1999-07-22,,2007-03-05
 QEP,0001108827,QEP Resources,energy,2010-07-01,2015-07-01,2010-07-20
 QLGC,0000918386,QLogic Corp.,information_technology,2007-03-05*,2011-03-09*,2007-03-05
 QRVO,0001604778,Qorvo,information_technology,2015-06-11,2024-12-23,2015-06-11
 R,0000085961,Ryder System,industrials,1982-12-31,2017-06-19,2007-03-05
-RAI,0001275283,Reynolds American Inc.,consumer_staples,2007-03-05*,2017-06-26,2007-03-05
+RAI,0001275283,Reynolds American Inc.,consumer_staples,2007-03-05*,2017-07-26,2007-03-05
 RCL,0000884887,Royal Caribbean Group,consumer_discretionary,2014-12-05,,2014-12-04
 RDC,0000085408,Rowan Cos.,energy,1985-01-31,2014-08-18,2007-03-05
 RE,0001095073,Everest Re,financials,2017-06-19,2023-07-10*,2017-06-17
@@ -738,8 +738,8 @@ REGN,0000872589,Regeneron Pharmaceuticals,health_care,2013-05-01,,2013-05-01
 RF,0001281761,Regions Financial Corporation,financials,1998-08-28,,2007-03-05
 RHI,0000315213,Robert Half,industrials,2000-12-05,2024-06-24,2007-03-05
 RHT,0001087423,Red Hat Inc.,information_technology,2009-07-27,2019-07-15,2009-07-18
-RIG,0001451505,Transocean,energy,2013-10-29,2017-06-26,2013-12-03
 RIG,0001451505,Transocean Inc.,energy,2007-03-05*,2009-03-07*,2007-03-05
+RIG,0001451505,Transocean,energy,2013-10-29,2017-07-26,2013-12-03
 RJF,0000720005,Raymond James Financial,financials,2017-03-20,,2017-03-18
 RL,0001037038,Ralph Lauren Corporation,consumer_discretionary,2007-02-02,,2007-03-05
 RMD,0000943819,ResMed,health_care,2017-07-26,,2017-07-26
@@ -752,41 +752,41 @@ RRC,0000315852,Range Resources Corp.,energy,2007-12-21,2018-06-18,2008-01-22
 RRD,0000029669,Donnelley (R.R.) & Sons,industrials,2007-03-05*,2012-12-11,2007-03-05
 RSG,0001060391,Republic Services,industrials,2008-12-05,,2009-03-07
 RSH,0000096289,RadioShack Corp,consumer_discretionary,2007-03-05*,2011-06-30,2007-03-05
-RTN,0001047122,Raytheon Co.,industrials,2007-03-05*,2020-04-03*,2007-03-05
+RTN,0001047122,Raytheon Co.,industrials,2007-03-05*,2020-04-06,2007-03-05
 RTX,0000101829,RTX Corporation,industrials,1957-03-04,,2020-04-03
 RVTY,0000031791,Revvity,health_care,1985-05-31,,2023-05-17
-RX,0001058083,IMS Health Inc.,health_care,2007-03-05*,2010-04-03*,2007-03-05
+RX,0001058083,IMS Health Inc.,health_care,2007-03-05*,2010-02-26,2007-03-05
 S,0000101830,Sprint Nextel Corp.,communication_services,2007-03-05*,2013-07-08,2007-03-05
 SAF,0000086104,SAFECO Corp.,financials,2007-03-05*,2008-09-30*,2007-03-05
 SAI,0001336920,SAIC,industrials,2010-01-22*,2013-09-20,2010-01-22
 SAIC,0001336920,SAIC,industrials,2013-10-08*,2013-11-03*,2013-10-08
 SANM,0000897723,Sanmina-SCI Corp.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
 SBAC,0001034054,SBA Communications,real_estate,2017-09-01,,2017-09-01
-SBNY,0001288784,Signature Bank,financials,2021-12-20,2023-03-14*,2021-12-26
+SBNY,0001288784,Signature Bank,financials,2021-12-20,2023-03-15,2021-12-26
 SBUX,0000829224,Starbucks,consumer_discretionary,2000-06-07,,2007-03-05
-SCG,0000754737,SCANA Corp,utilities,2009-01-02,2019-01-03*,2009-03-07
+SCG,0000754737,SCANA Corp,utilities,2009-01-02,2019-01-02,2009-03-07
 SCHW,0000316709,Charles Schwab Corporation,financials,1997-06-02,,2007-03-05
 SE,0001373835,Spectra Energy Corp.,energy,2007-03-05*,2017-02-28,2007-03-05
 SEDG,0001419612,SolarEdge,information_technology,2021-12-20,2023-12-18,2021-12-26
 SEE,0001012100,Sealed Air,materials,1957-03-04,2023-12-18,2007-03-05
-SGP,0000310158,Schering-Plough,health_care,2007-03-05*,2009-12-31*,2007-03-05
+SGP,0000310158,Schering-Plough,health_care,2007-03-05*,2009-11-03,2007-03-05
 SGPPRB,0000310158,Schering-Plough,health_care,2009-12-31*,2010-01-22*,2009-12-31
 SHLD,0001310067,Sears Holdings Corporation,consumer_discretionary,2007-03-05*,2012-09-05,2007-03-05
 SHW,0000089800,Sherwin-Williams,materials,1964-06-30,,2007-03-05
 SIAL,0000090185,Sigma-Aldrich,materials,1994-09-01,2015-11-19,2007-03-05
 SIG,0000832988,Signet Jewelers,consumer_discretionary,2015-07-29,2018-03-19,2015-07-30
-SII,0000721083,Smith International,energy,2007-03-05*,2010-08-31*,2007-03-05
-SIVB,0000719739,SVB Financial Group,financials,2018-03-19,2023-03-14*,2018-03-18
+SII,0000721083,Smith International,energy,2007-03-05*,2010-08-26,2007-03-05
+SIVB,0000719739,SVB Financial Group,financials,2018-03-19,2023-03-15,2018-03-18
 SJM,0000091419,J.M. Smucker Company (The),consumer_staples,2008-11-06,,2008-11-05
 SLB,0000087347,Schlumberger,energy,1957-03-04,,2007-03-05
 SLE,0000023666,Sara Lee Corp.,consumer_staples,2007-03-05*,2012-06-29,2007-03-05
-SLG,0001040971,SL Green Realty,real_estate,2015-03-20,2021-03-22*,2015-03-20
-SLM,0001032033,SLM Corporation,financials,2007-03-05*,2014-04-30*,2007-03-05
-SLR,0000835541,Solectron,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+SLG,0001040971,SL Green Realty,real_estate,2015-03-20,2021-03-22,2015-03-20
+SLM,0001032033,SLM Corporation,financials,2007-03-05*,2014-05-01,2007-03-05
+SLR,0000835541,Solectron,information_technology,2007-03-05*,2007-10-02,2007-03-05
 SMCI,0001375365,Supermicro,information_technology,2024-03-18,,2024-03-17
 SNA,0000091440,Snap-on,industrials,1982-09-30,,2007-03-05
 SNDK,0001000180,SanDisk Corporation,information_technology,2007-03-05*,2016-05-13,2007-03-05
-SNI,0001430602,Scripps Networks Interactive Inc.,consumer_discretionary,2008-07-01,2018-03-08*,2008-08-21
+SNI,0001430602,Scripps Networks Interactive Inc.,consumer_discretionary,2008-07-01,2018-03-07,2008-08-21
 SNPS,0000883241,Synopsys,information_technology,2017-03-16,,2017-03-15
 SNV,0000018349,Synovus Financial,financials,2007-03-05*,2008-01-22*,2007-03-05
 SO,0000092122,Southern Company,utilities,1957-03-04,,2007-03-05
@@ -799,10 +799,10 @@ SRCL,0000861878,Stericycle Inc,industrials,2008-11-19,2018-12-03,2009-06-01
 SRE,0001032208,Sempra,utilities,2017-03-17,,2007-03-05
 SSP,0000832428,Scripps (E. W.) 'A',consumer_discretionary,2007-03-05*,2008-08-21*,2007-03-05
 STE,0001757898,Steris,health_care,2019-12-23,,2019-12-31
-STI,0000750556,SunTrust Banks,financials,1988-05-31,2019-12-08*,2007-03-05
+STI,0000750556,SunTrust Banks,financials,1988-05-31,2019-12-09,2007-03-05
 STJ,0000203077,St Jude Medical,health_care,1989-11-30,2017-01-05,2007-03-05
 STLD,0001022671,Steel Dynamics,materials,2022-12-22,,2022-12-22
-STR,0000751652,Questar Corp.,utilities,2007-03-05*,2010-07-20*,2007-03-05
+STR,0000751652,Questar Corp.,utilities,2007-03-05*,2010-06-30,2007-03-05
 STT,0000093751,State Street Corporation,financials,2003-03-14,,2007-03-05
 STX,0001137789,Seagate Technology,information_technology,2012-07-02,,2012-07-04
 STZ,0000016918,Constellation Brands,consumer_staples,2005-07-01,,2007-03-05
@@ -812,7 +812,7 @@ SVU,0000095521,Supervalu Inc.,consumer_staples,2007-03-05*,2012-04-23,2007-03-05
 SW,0002005951,Smurfit Westrock,materials,2024-07-08,,2024-07-11
 SWK,0000093556,Stanley Black & Decker,industrials,1982-09-30,,2007-03-05
 SWKS,0000004127,Skyworks Solutions,information_technology,2015-03-12,,2015-03-11
-SWN,0000007332,Southwestern Energy,energy,2008-06-06,2017-04-03*,2008-08-21
+SWN,0000007332,Southwestern Energy,energy,2008-06-06,2017-04-04,2008-08-21
 SWY,0000086144,Safeway Inc.,consumer_staples,2007-03-05*,2015-01-27,2007-03-05
 SYF,0001601712,Synchrony Financial,financials,2015-11-18,,2015-11-17
 SYK,0000310764,Stryker Corporation,health_care,2000-12-12,,2007-03-05
@@ -827,10 +827,10 @@ TE,0000350563,TECO Energy,utilities,2007-03-05*,2016-07-01,2007-03-05
 TECH,0000842023,Bio-Techne,health_care,2021-08-30,,2021-08-28
 TEG,0000916863,Integrys Energy Group Inc.,utilities,2007-02-22,2015-07-01,2007-03-05
 TEK,0000096879,"Tektronix, Inc.",information_technology,2007-03-05*,2008-01-22*,2007-03-05
-TEL,0001385157,TE Connectivity,information_technology,2011-10-17,,2011-10-18
 TEL,0001385157,Tyco Electronics Ltd.,information_technology,2008-01-22*,2009-04-06*,2008-01-22
+TEL,0001385157,TE Connectivity,information_technology,2011-10-17,,2011-10-18
+TER,0000097210,Teradyne Inc.,information_technology,2007-03-05*,2013-12-23,2007-03-05
 TER,0000097210,Teradyne,information_technology,2020-09-21,,2020-10-01
-TER,0000097210,Teradyne Inc.,information_technology,2007-03-05*,2013-12-20*,2007-03-05
 TEX,0000097216,Terex Corp.,industrials,2007-03-05*,2008-11-05*,2007-03-05
 TFC,0000092230,Truist Financial,financials,1997-12-04,,2019-12-08
 TFX,0000096943,Teleflex,health_care,2019-01-18,2025-03-24,2019-01-22
@@ -842,39 +842,39 @@ TIF,0000098246,Tiffany & Co.,consumer_discretionary,2000-06-21,2021-01-07,2007-0
 TIN,0000731939,Temple-Inland,materials,2007-03-05*,2008-01-22*,2007-03-05
 TJX,0000109198,TJX Companies,consumer_discretionary,1985-09-30,,2007-03-05
 TKO,0001973266,TKO Group Holdings,communication_services,2025-03-24,,2025-03-25
-TLAB,0000317771,Tellabs Inc.,information_technology,2007-03-05*,2011-12-29*,2007-03-05
+TLAB,0000317771,Tellabs Inc.,information_technology,2007-03-05*,2011-12-20,2007-03-05
 TMK,0000320335,Torchmark Corp.,financials,1989-04-30,2019-08-16*,2007-03-05
 TMO,0000097745,Thermo Fisher Scientific,health_care,2004-08-03,,2007-03-05
 TMUS,0001283699,T-Mobile US,communication_services,2019-07-15,,2019-07-14
 TPL,0001811074,Texas Pacific Land Corporation,energy,2024-11-26,,2024-11-25
 TPR,0001116132,"Tapestry, Inc.",consumer_discretionary,2004-09-01,,2017-10-31
-TRB,0000726513,Tribune Co.,communication_services,2007-03-05*,2008-01-22*,2007-03-05
+TRB,0000726513,Tribune Co.,communication_services,2007-03-05*,2007-12-20,2007-03-05
 TRGP,0001389170,Targa Resources,energy,2022-10-12,,2022-10-13
 TRIP,0001526520,TripAdvisor,communication_services,2011-12-21,2019-12-23,2011-12-29
 TRMB,0000864749,Trimble Inc.,information_technology,2021-01-21,,2021-01-25
 TROW,0001113169,T. Rowe Price,financials,2019-07-29,,2007-03-05
 TRV,0000086312,Travelers Companies (The),financials,2002-08-21,,2007-03-05
 TSCO,0000916365,Tractor Supply,consumer_discretionary,2014-01-24,,2014-01-31
-TSG,0001020265,Sabre Holding Corp.,industrials,2007-03-05*,2008-01-22*,2007-03-05
+TSG,0001020265,Sabre Holding Corp.,industrials,2007-03-05*,2007-03-30,2007-03-05
 TSLA,0001318605,"Tesla, Inc.",consumer_discretionary,2020-12-21,,2020-12-21
 TSN,0000100493,Tyson Foods,consumer_staples,2005-08-10,,2007-03-05
-TSO,0000050104,Tesoro Petroleum Co.,energy,2007-09-27,2017-08-02*,2008-01-22
+TSO,0000050104,Tesoro Petroleum Co.,energy,2007-09-27,2017-08-01,2008-01-22
 TSS,0000721683,Total System Services,information_technology,2008-01-02,2019-09-23,2008-01-22
 TT,0001466258,Trane Inc.,industrials,2007-11-28*,2008-08-21*,2007-11-28
 TT,0001466258,Trane Technologies,industrials,2010-11-17,,2020-03-03
 TTWO,0000946581,Take-Two Interactive,communication_services,2018-03-19,,2018-03-18
 TWC,0001377013,Time Warner Cable Inc.,consumer_discretionary,2009-03-30,2016-05-18,2009-04-06
-TWTR,0001418091,Twitter Inc.,communication_services,2018-06-07,2022-10-28*,2018-06-07
+TWTR,0001418091,Twitter Inc.,communication_services,2018-06-07,2022-11-01,2018-06-07
 TWX,0001105705,Time Warner Inc.,consumer_discretionary,2007-03-05*,2018-06-20,2007-03-05
 TXN,0000097476,Texas Instruments,information_technology,2001-03-12,,2007-03-05
 TXT,0000217346,Textron,industrials,1978-12-31,,2007-03-05
 TXU,0001023291,TXU Corp.,utilities,2007-03-05*,2008-01-22*,2007-03-05
 TYC,0000833444,Tyco International,industrials,2007-03-05*,2009-07-04*,2007-03-05
-TYC,0000833444,Tyco International,industrials,2010-08-27,2016-09-10*,2010-08-31
+TYC,0000833444,Tyco International,industrials,2010-08-27,2016-09-06,2010-08-31
 TYL,0000860731,Tyler Technologies,information_technology,2020-06-22,,2020-07-15
-UA,0001336917,Under Armour (Class C),consumer_discretionary,2016-04-08,2022-06-20*,2014-04-30
+UA,0001336917,Under Armour (Class C),consumer_discretionary,2016-04-08,2022-06-21,2014-04-30
 UA.C,0001336917,Under Armour,consumer_discretionary,2016-03-25,2016-12-07*,2016-08-16
-UAA,0001336917,Under Armour (Class A),consumer_discretionary,2014-05-01,2022-06-20*,2016-12-07
+UAA,0001336917,Under Armour (Class A),consumer_discretionary,2014-05-01,2022-06-21,2016-12-07
 UAL,0000100517,United Airlines Holdings,industrials,2015-09-03,,2015-09-03
 UBER,0001543151,Uber,industrials,2023-12-18,,2023-12-16
 UDR,0000074208,"UDR, Inc.",real_estate,2016-03-07,,2016-03-04
@@ -885,23 +885,23 @@ UNH,0000731766,UnitedHealth Group,health_care,1994-07-01,,2007-03-05
 UNM,0000005513,Unum Group,financials,1994-03-01,2021-09-20,2007-03-05
 UNP,0000100885,Union Pacific Corporation,industrials,1957-03-04,,2007-03-05
 UPS,0001090727,United Parcel Service,industrials,2002-07-22,,2007-03-05
-URBN,0000912615,Urban Outfitters,consumer_discretionary,2010-02-08,2017-03-18*,2010-04-03
+URBN,0000912615,Urban Outfitters,consumer_discretionary,2010-02-08,2017-03-20,2010-04-03
 URI,0001067701,United Rentals,industrials,2014-09-20,,2014-09-27
 USB,0000036104,U.S. Bancorp,financials,1999-11-01,,2007-03-05
 UST,0000811669,UST Inc.,consumer_staples,2007-03-05*,2008-12-29*,2007-03-05
-UTX,0000101829,United Technologies,industrials,2007-03-05*,2020-04-04*,2007-03-05
+UTX,0000101829,United Technologies,industrials,2007-03-05*,2020-04-03,2007-03-05
 UVN,0001017008,Univision Communications,communication_services,2007-03-05*,2008-01-22*,2007-03-05
 V,0001403161,Visa Inc.,financials,2009-12-21,,2010-01-22
-VAR,0000203527,Varian Medical Systems,health_care,2007-02-12,2021-04-22*,2007-03-05
+VAR,0000203527,Varian Medical Systems,health_care,2007-02-12,2021-04-20,2007-03-05
 VFC,0000103379,VF Corporation,consumer_discretionary,1979-06-30,2024-04-03,2007-03-05
-VIAB,0001339947,Viacom Inc.,communication_services,2007-03-05*,2019-12-05*,2007-03-05
+VIAB,0001339947,Viacom Inc.,communication_services,2007-03-05*,2019-12-05,2007-03-05
 VIAC,0000813828,ViacomCBS,communication_services,2019-12-05*,2022-02-19*,2019-12-05
 VICI,0001705696,Vici Properties,real_estate,2022-06-08,,2022-06-07
 VLO,0001035002,Valero Energy,energy,2002-12-20,,2007-03-05
 VLTO,0001967680,Veralto,industrials,2023-10-02,,2023-10-05
 VMC,0001396009,Vulcan Materials Company,materials,1999-06-30,,2007-03-05
 VNO,0000899689,Vornado Realty Trust,real_estate,2007-03-05*,2023-01-05,2007-03-05
-VNT,0001786842,Vontier,information_technology,2020-10-09,2021-03-22*,2020-10-09
+VNT,0001786842,Vontier,information_technology,2020-10-09,2021-03-22,2020-10-09
 VRSK,0001442145,Verisk Analytics,industrials,2015-10-08,,2015-10-08
 VRSN,0001014473,Verisign,information_technology,2006-02-01,,2007-03-05
 VRTX,0000875320,Vertex Pharmaceuticals,health_care,2013-09-23,,2013-11-03
@@ -912,7 +912,7 @@ VZ,0000732712,Verizon,communication_services,1983-11-30,,2007-03-05
 WAB,0000943452,Wabtec,industrials,2019-02-27,,2019-02-27
 WAG,0000104207,Walgreen Co.,consumer_staples,1979-12-31,2015-01-02*,2007-03-05
 WAT,0001000697,Waters Corporation,health_care,2002-01-02,,2007-03-05
-WB,0000036995,Wachovia Corp. (New),financials,2007-03-05*,2009-03-07*,2007-03-05
+WB,0000036995,Wachovia Corp. (New),financials,2007-03-05*,2008-12-31,2007-03-05
 WBA,0001618921,Walgreens Boots Alliance,consumer_staples,1979-12-31,,2015-01-02
 WBD,0001437107,Warner Bros. Discovery,communication_services,2022-04-11,,2022-04-11
 WCG,0001279363,WellCare,health_care,2018-09-12*,2020-01-28,2018-09-12
@@ -923,7 +923,7 @@ WELL,0000766704,Welltower,real_estate,2009-01-30,,2018-02-28
 WEN,0000030697,"Wendy's/Arby's Group, Inc.",consumer_discretionary,2007-03-05*,2008-12-07*,2007-03-05
 WFC,0000072971,Wells Fargo,financials,1976-06-30,,2007-03-05
 WFM,0000865436,Whole Foods Market,consumer_staples,2011-05-25*,2017-08-29,2011-05-25
-WFMI,0000865436,Whole Foods Market,consumer_staples,2007-03-05*,2011-05-25*,2007-03-05
+WFMI,0000865436,Whole Foods Market,consumer_staples,2007-03-05*,2011-05-20,2007-03-05
 WFR,0000945436,MEMC Electronic Materials,information_technology,2008-01-22*,2011-12-16,2008-01-22
 WFT,0001453090,Weatherford International Ltd.,energy,2007-03-05*,2009-03-07*,2007-03-05
 WHR,0000106640,Whirlpool Corporation,consumer_discretionary,1958-03-31,2024-03-18,2007-03-05
@@ -943,21 +943,21 @@ WRK,0001732845,WestRock,materials,2015-06-25,2024-07-08*,2015-07-21
 WSM,0000719955,"Williams-Sonoma, Inc.",consumer_discretionary,2025-03-24,,2025-03-25
 WST,0000105770,West Pharmaceutical Services,health_care,2020-05-22,,2020-05-23
 WTW,0001140536,Willis Towers Watson,financials,2016-01-05,,2022-01-11
-WU,0001365135,Western Union,information_technology,2006-09-29,2021-12-26*,2007-03-05
+WU,0001365135,Western Union,information_technology,2006-09-29,2021-12-20,2007-03-05
 WWY,0000108601,Wrigley (Wm) Jr.,consumer_staples,2007-03-05*,2008-11-03*,2007-03-05
 WY,0000106535,Weyerhaeuser,real_estate,1979-10-01,,2007-03-05
 WYE,0000005187,Wyeth,health_care,2007-03-05*,2009-10-18*,2007-03-05
 WYN,0001361658,Wyndham Worldwide,consumer_discretionary,2007-03-05*,2018-05-31,2007-03-05
 WYNN,0001174922,Wynn Resorts,consumer_discretionary,2008-11-14,,2009-06-01
-X,0001163302,United States Steel Corp.,materials,1991-05-01,2014-07-01*,2007-03-05
-XEC,0001168054,Cimarex Energy,energy,2014-06-21,2020-03-03,2014-06-22
+X,0001163302,United States Steel Corp.,materials,1991-05-01,2014-07-02,2007-03-05
+XEC,0001168054,Cimarex Energy,energy,2014-06-21,2020-03-02,2014-06-22
 XEL,0000072903,Xcel Energy,utilities,1957-03-04,,2007-03-05
-XL,0000875159,XL Group,financials,2007-03-05*,2018-09-12,2007-03-05
+XL,0000875159,XL Group,financials,2007-03-05*,2018-09-14,2007-03-05
 XLNX,0000743988,Xilinx,information_technology,1999-11-08,2022-02-15,2007-03-05
 XOM,0000034088,ExxonMobil,energy,1957-03-04,,2007-03-05
 XRAY,0000818479,Dentsply Sirona,health_care,2008-11-14,2024-04-03,2009-06-01
-XRX,0001770450,Xerox,information_technology,2007-03-05*,2021-03-22*,2007-03-05
-XTO,0000868809,XTO Energy Inc.,energy,2007-03-05*,2010-07-12*,2007-03-05
+XRX,0001770450,Xerox,information_technology,2007-03-05*,2021-03-22,2007-03-05
+XTO,0000868809,XTO Energy Inc.,energy,2007-03-05*,2010-06-28,2007-03-05
 XYL,0001524472,Xylem Inc.,industrials,2011-11-01,,2011-11-05
 YHOO,0001011006,Yahoo Inc.,information_technology,1999-12-08,2017-06-19,2007-03-05
 YUM,0001041061,Yum! Brands,consumer_discretionary,1997-10-06,,2007-03-05
