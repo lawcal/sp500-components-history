@@ -62,7 +62,7 @@ ANDV,0000050104,Andeavor,energy,2007-09-27,2018-10-01,2017-08-02
 ANET,0001596532,Arista Networks,information_technology,2018-08-28,,2018-08-29
 ANF,0001018840,Abercrombie & Fitch Company A,consumer_discretionary,2008-01-22*,2013-12-23,2008-01-22
 ANR,0001301063,Alpha Natural Resources,energy,2011-06-09*,2012-10-02,2011-06-09
-ANSS,0001013462,Ansys,information_technology,2017-06-19,,2017-06-17
+ANSS,0001013462,Ansys,information_technology,2017-06-19,2025-07-18,2017-06-17
 ANTM,0001156039,Anthem,health_care,2002-07-25,2022-06-28*,2014-12-06
 AOC,0000315293,Aon Corporation,financials,2007-03-05*,2009-12-31*,2007-03-05
 AON,0000315293,Aon plc,financials,1996-04-23,,2009-12-31
@@ -863,6 +863,7 @@ TSO,0000050104,Tesoro Petroleum Co.,energy,2007-09-27,2017-08-01,2008-01-22
 TSS,0000721683,Total System Services,information_technology,2008-01-02,2019-09-23,2008-01-22
 TT,0001466258,Trane Inc.,industrials,2007-11-28*,2008-08-21*,2007-11-28
 TT,0001466258,Trane Technologies,industrials,2010-11-17,,2020-03-03
+TTD,0001671933,Trade Desk (The),communication_services,2025-07-18,,2025-07-17
 TTWO,0000946581,Take-Two Interactive,communication_services,2018-03-19,,2018-03-18
 TWC,0001377013,Time Warner Cable Inc.,consumer_discretionary,2009-03-30,2016-05-18,2009-04-06
 TWTR,0001418091,Twitter Inc.,communication_services,2018-06-07,2022-11-01,2018-06-07

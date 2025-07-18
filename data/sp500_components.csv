@@ -32,7 +32,6 @@ AMP,0000820027,Ameriprise Financial,financials
 AMT,0001053507,American Tower,real_estate
 AMZN,0001018724,Amazon,consumer_discretionary
 ANET,0001596532,Arista Networks,information_technology
-ANSS,0001013462,Ansys,information_technology
 AON,0000315293,Aon plc,financials
 AOS,0000091142,A. O. Smith,industrials
 APA,0001841666,APA Corporation,energy
@@ -451,6 +450,7 @@ TSCO,0000916365,Tractor Supply,consumer_discretionary
 TSLA,0001318605,"Tesla, Inc.",consumer_discretionary
 TSN,0000100493,Tyson Foods,consumer_staples
 TT,0001466258,Trane Technologies,industrials
+TTD,0001671933,Trade Desk (The),communication_services
 TTWO,0000946581,Take-Two Interactive,communication_services
 TXN,0000097476,Texas Instruments,information_technology
 TXT,0000217346,Textron,industrials
