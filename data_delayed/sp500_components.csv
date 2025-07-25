@@ -219,7 +219,6 @@ HAS,0000046080,Hasbro,consumer_discretionary
 HBAN,0000049196,Huntington Bancshares,financials
 HCA,0000860730,HCA Healthcare,health_care
 HD,0000354950,Home Depot (The),consumer_discretionary
-HES,0000004447,Hess Corporation,energy
 HIG,0000874766,Hartford (The),financials
 HII,0001501585,Huntington Ingalls Industries,industrials
 HLT,0001585689,Hilton Worldwide,consumer_discretionary
@@ -498,6 +497,7 @@ WYNN,0001174922,Wynn Resorts,consumer_discretionary
 XEL,0000072903,Xcel Energy,utilities
 XOM,0000034088,ExxonMobil,energy
 XYL,0001524472,Xylem Inc.,industrials
+XYZ,0001512673,"Block, Inc.",financials
 YUM,0001041061,Yum! Brands,consumer_discretionary
 ZBH,0001136869,Zimmer Biomet,health_care
 ZBRA,0000877212,Zebra Technologies,information_technology
