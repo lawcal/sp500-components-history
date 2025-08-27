@@ -21,7 +21,7 @@ T = TypeVar('T')
 
 
 _VERSION = '1.1.1'
-_USER_AGENT = f"Sp500ComponentsHistoryBot/{_VERSION}"
+_USER_AGENT = f"Sp500ComponentsHistoryBot/{_VERSION} (https://github.com/lawcal/sp500-components-history)"
 
 
 COMPONENTS_HISTORY_FILE_NAME = 'components_history.csv'
