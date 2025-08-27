@@ -1,1 +1,1 @@
-html-table-takeout==1.1.1
+html-table-takeout==1.1.2
