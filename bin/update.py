@@ -1,5 +1,3 @@
-# v1.1.0
-
 # pylint: disable=too-many-lines
 import csv
 from dataclasses import dataclass, field, fields, replace
@@ -20,6 +18,10 @@ from html_table_takeout import Table, parse_html
 
 
 T = TypeVar('T')
+
+
+_VERSION = '1.1.1'
+_USER_AGENT = f"Sp500ComponentsHistoryBot/{_VERSION}"
 
 
 COMPONENTS_HISTORY_FILE_NAME = 'components_history.csv'
@@ -506,10 +508,12 @@ def write_replace_json(file_path: Path, stocks: list[Stock], include_dates: bool
 
 def request_http(url: str, encoding: str = 'utf-8', request_headers: dict[str, str] | None = None) -> str:
     try:
-        with urlopen(Request(url=url, headers=request_headers or {})) as resp:
+        headers = dict(request_headers or {})
+        headers.update({'User-Agent': _USER_AGENT})
+        with urlopen(Request(url=url, headers=headers)) as resp:
             return resp.read().decode(encoding)
     except Exception as e:
-        raise IOError(f"Failed to make HTTP request. Error:{repr(e)}") from None
+        raise IOError(f"Failed to make HTTP request. Error:{repr(e)} Url: {url} Headers: {str(headers)}") from None
 
 
 def _fetch_tables(data_source: str = '') -> tuple[Table, Table, Revision]:
