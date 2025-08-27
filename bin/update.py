@@ -507,9 +507,9 @@ def write_replace_json(file_path: Path, stocks: list[Stock], include_dates: bool
 
 
 def request_http(url: str, encoding: str = 'utf-8', request_headers: dict[str, str] | None = None) -> str:
+    headers = dict(request_headers or {})
+    headers.update({'User-Agent': _USER_AGENT})
     try:
-        headers = dict(request_headers or {})
-        headers.update({'User-Agent': _USER_AGENT})
         with urlopen(Request(url=url, headers=headers)) as resp:
             return resp.read().decode(encoding)
     except Exception as e:
