@@ -38,6 +38,7 @@ APA,0001841666,APA Corporation,energy
 APD,0000002969,Air Products,materials
 APH,0000820313,Amphenol,information_technology
 APO,0001858681,Apollo Global Management,financials
+APP,0001801205,AppLovin,information_technology
 APTV,0001521332,Aptiv,consumer_discretionary
 ARE,0001035443,Alexandria Real Estate Equities,real_estate
 ATO,0000731802,Atmos Energy,utilities
@@ -121,7 +122,6 @@ CTSH,0001058290,Cognizant,information_technology
 CTVA,0001755672,Corteva,materials
 CVS,0000064803,CVS Health,health_care
 CVX,0000093410,Chevron Corporation,energy
-CZR,0001590895,Caesars Entertainment,consumer_discretionary
 D,0000715957,Dominion Energy,utilities
 DAL,0000027904,Delta Air Lines,industrials
 DASH,0001792789,DoorDash,consumer_discretionary
@@ -157,9 +157,9 @@ EG,0001095073,Everest Group,financials
 EIX,0000827052,Edison International,utilities
 EL,0001001250,Estée Lauder Companies (The),consumer_staples
 ELV,0001156039,Elevance Health,health_care
+EME,0000105634,Emcor,industrials
 EMN,0000915389,Eastman Chemical Company,materials
 EMR,0000032604,Emerson Electric,industrials
-ENPH,0001463101,Enphase Energy,information_technology
 EOG,0000821189,EOG Resources,energy
 EPAM,0001352010,EPAM Systems,information_technology
 EQIX,0001101239,Equinix,real_estate
@@ -224,6 +224,7 @@ HII,0001501585,Huntington Ingalls Industries,industrials
 HLT,0001585689,Hilton Worldwide,consumer_discretionary
 HOLX,0000859737,Hologic,health_care
 HON,0000773840,Honeywell,industrials
+HOOD,0001783879,Robinhood Markets,financials
 HPE,0001645590,Hewlett Packard Enterprise,information_technology
 HPQ,0000047217,HP Inc.,information_technology
 HRL,0000048465,Hormel Foods,consumer_staples
@@ -307,7 +308,6 @@ META,0001326801,Meta Platforms,communication_services
 MGM,0000789570,MGM Resorts,consumer_discretionary
 MHK,0000851968,Mohawk Industries,consumer_discretionary
 MKC,0000063754,McCormick & Company,consumer_staples
-MKTX,0001278021,MarketAxess,financials
 MLM,0000916076,Martin Marietta Materials,materials
 MMC,0000062709,Marsh McLennan,financials
 MMM,0000066740,3M,industrials
