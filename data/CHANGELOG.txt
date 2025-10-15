@@ -1293,3 +1293,7 @@
 2025-10-07 (1315641390) ERROR: Symbol or removal date headings missing. Found: symbol
 2025-10-07 (1315668498) ERROR: Symbol or removal date headings missing. Found: symbol
 2025-10-13 (1316633905) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-14 (1316828790) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-14 (1316828846) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-14 (1316829150) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-14 (1316829281) ERROR: Symbol or removal date headings missing. Found: symbol
