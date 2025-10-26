@@ -1300,3 +1300,7 @@
 2025-10-19 (1317754697) ERROR: Symbol or removal date headings missing. Found: symbol
 2025-10-22 (1318188071) ERROR: Symbol or removal date headings missing. Found: symbol
 2025-10-22 (1318188284) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-25 (1318697584) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-25 (1318736607) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-25 (1318783178) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-10-25 (1318790169) ERROR: Symbol or removal date headings missing. Found: symbol
