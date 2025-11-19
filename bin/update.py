@@ -20,7 +20,7 @@ from html_table_takeout import Table, parse_html
 T = TypeVar('T')
 
 
-_VERSION = '1.1.1'
+_VERSION = '1.1.2'
 _USER_AGENT = f"Sp500ComponentsHistoryBot/{_VERSION} (https://github.com/lawcal/sp500-components-history)"
 
 
@@ -273,7 +273,7 @@ _MATCH_STOCK_FIELD = _reverse_dict({
 
 _MATCH_REMOVAL_HISTORY_FIELD = _reverse_dict({
     _RemovalHistoryField.SYMBOL: ['removed_ticker', 'removed_symbol'],
-    _RemovalHistoryField.DATE_REMOVED: ['date'],
+    _RemovalHistoryField.DATE_REMOVED: ['date', 'effective_date'],
 })
 
 
