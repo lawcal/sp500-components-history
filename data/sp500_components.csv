@@ -38,6 +38,7 @@ APA,0001841666,APA Corporation,energy
 APD,0000002969,Air Products,materials
 APH,0000820313,Amphenol,information_technology
 APO,0001858681,Apollo Global Management,financials
+APP,0001751008,AppLovin,information_technology
 APTV,0001521332,Aptiv,consumer_discretionary
 ARE,0001035443,Alexandria Real Estate Equities,real_estate
 ATO,0000731802,Atmos Energy,utilities
@@ -121,7 +122,6 @@ CTSH,0001058290,Cognizant,information_technology
 CTVA,0001755672,Corteva,materials
 CVS,0000064803,CVS Health,health_care
 CVX,0000093410,Chevron Corporation,energy
-CZR,0001590895,Caesars Entertainment,consumer_discretionary
 D,0000715957,Dominion Energy,utilities
 DAL,0000027904,Delta Air Lines,industrials
 DASH,0001792789,DoorDash,consumer_discretionary
@@ -157,9 +157,8 @@ EG,0001095073,Everest Group,financials
 EIX,0000827052,Edison International,utilities
 EL,0001001250,Estée Lauder Companies (The),consumer_staples
 ELV,0001156039,Elevance Health,health_care
-EMN,0000915389,Eastman Chemical Company,materials
+EME,0000105634,Emcor,industrials
 EMR,0000032604,Emerson Electric,industrials
-ENPH,0001463101,Enphase Energy,information_technology
 EOG,0000821189,EOG Resources,energy
 EPAM,0001352010,EPAM Systems,information_technology
 EQIX,0001101239,Equinix,real_estate
@@ -185,9 +184,9 @@ FDS,0001013237,FactSet,financials
 FDX,0001048911,FedEx,industrials
 FE,0001031296,FirstEnergy,utilities
 FFIV,0001048695,"F5, Inc.",information_technology
-FI,0000798354,Fiserv,financials
 FICO,0000814547,Fair Isaac,information_technology
 FIS,0001136893,Fidelity National Information Services,financials
+FISV,0000798354,Fiserv,financials
 FITB,0000035527,Fifth Third Bancorp,financials
 FOX,0001754301,Fox Corporation (Class B),communication_services
 FOXA,0001754301,Fox Corporation (Class A),communication_services
@@ -224,6 +223,7 @@ HII,0001501585,Huntington Ingalls Industries,industrials
 HLT,0001585689,Hilton Worldwide,consumer_discretionary
 HOLX,0000859737,Hologic,health_care
 HON,0000773840,Honeywell,industrials
+HOOD,0001783879,Robinhood Markets,financials
 HPE,0001645590,Hewlett Packard Enterprise,information_technology
 HPQ,0000047217,HP Inc.,information_technology
 HRL,0000048465,Hormel Foods,consumer_staples
@@ -269,7 +269,6 @@ KKR,0001404912,KKR & Co.,financials
 KLAC,0000319201,KLA Corporation,information_technology
 KMB,0000055785,Kimberly-Clark,consumer_staples
 KMI,0001506307,Kinder Morgan,energy
-KMX,0001170010,CarMax,consumer_discretionary
 KO,0000021344,Coca-Cola Company (The),consumer_staples
 KR,0000056873,Kroger,consumer_staples
 KVUE,0001944048,Kenvue,consumer_staples
@@ -307,7 +306,6 @@ META,0001326801,Meta Platforms,communication_services
 MGM,0000789570,MGM Resorts,consumer_discretionary
 MHK,0000851968,Mohawk Industries,consumer_discretionary
 MKC,0000063754,McCormick & Company,consumer_staples
-MKTX,0001278021,MarketAxess,financials
 MLM,0000916076,Martin Marietta Materials,materials
 MMC,0000062709,Marsh McLennan,financials
 MMM,0000066740,3M,industrials
@@ -387,6 +385,7 @@ PSX,0001534701,Phillips 66,energy
 PTC,0000857005,PTC Inc.,information_technology
 PWR,0001050915,Quanta Services,industrials
 PYPL,0001633917,PayPal,financials
+Q,0002058873,Qnity Electronics,information_technology
 QCOM,0000804328,Qualcomm,information_technology
 RCL,0000884887,Royal Caribbean Group,consumer_discretionary
 REG,0000910606,Regency Centers,real_estate
@@ -412,6 +411,7 @@ SMCI,0001375365,Supermicro,information_technology
 SNA,0000091440,Snap-on,industrials
 SNPS,0000883241,Synopsys,information_technology
 SO,0000092122,Southern Company,utilities
+SOLS,0002064953,Solstice Advanced Materials,materials
 SOLV,0001964738,Solventum,health_care
 SPG,0001063761,Simon Property Group,real_estate
 SPGI,0000064040,S&P Global,financials

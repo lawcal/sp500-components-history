@@ -751,8 +751,6 @@
 2018-11-16 (869109292) +JKHY -EQT
 2018-11-27 (870882286) *ACAS,JNY
 2018-11-30 (871436585) +FANG,LW,MXIM -AET,COL,SRCL
-2018-12-01 (871568419) ERROR: Parse HTML error - invalid literal for int() with base 10: '1-2'
-2018-12-01 (871568586) ERROR: Parse HTML error - invalid literal for int() with base 10: '1 and 2'
 2018-12-12 (873386764) *ACAS,JNY
 2018-12-12 (873410103) *AN
 2018-12-24 (875203610) +CE -ESRX
@@ -1282,39 +1280,12 @@
 2025-09-08 (1310240700) *CZR,ENPH,MKTX
 2025-09-08 (1310303213) +ENPH -APP
 2025-09-08 (1310304032) +CZR,MKTX -EME,HOOD
-2025-09-09 (1310506233) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-19 (1312204276) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-22 (1312854588) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-23 (1312971710) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-23 (1312973247) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-23 (1312973701) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-09-30 (1314254751) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-01 (1314552196) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-07 (1315641390) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-07 (1315668498) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-13 (1316633905) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-14 (1316828790) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-14 (1316828846) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-14 (1316829150) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-14 (1316829281) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-19 (1317754697) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-22 (1318188071) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-22 (1318188284) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-25 (1318697584) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-25 (1318736607) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-25 (1318783178) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-25 (1318790169) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-27 (1319149625) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-31 (1319704019) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-31 (1319705439) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-31 (1319705759) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-31 (1319706015) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-10-31 (1319706093) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-01 (1319859273) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-01 (1319995707) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-05 (1320656535) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-11 (1321597819) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-11 (1321697143) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-12 (1321850566) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-15 (1322396703) ERROR: Symbol or removal date headings missing. Found: symbol
-2025-11-17 (1322665983) ERROR: Symbol or removal date headings missing. Found: symbol
+2025-09-22 (1312854588) +APP,EME,HOOD -CZR,ENPH,MKTX
+2025-09-23 (1312971710) ERROR: Duplicate symbol(s) in latest stocks list: HOOD
+2025-09-23 (1312973247) ERROR: Duplicate symbol(s) in latest stocks list: HOOD
+2025-09-30 (1314254751) *GOOG,GOOGL
+2025-10-07 (1315641390) *CDAY
+2025-10-31 (1319705439) +SOLS -KMX
+2025-11-01 (1319995707) *SOLS
+2025-11-05 (1320656535) +Q -EMN
+2025-11-11 (1321697143) +FISV -FI
