@@ -1290,3 +1290,4 @@
 2025-11-05 (1320656535) +Q -EMN
 2025-11-11 (1321697143) +FISV -FI
 2025-11-25 (1324067948) ERROR: Symbol, name or sector headings missing. Found: date_added,date_removed
+2025-11-28 (1324692884) -IPG
