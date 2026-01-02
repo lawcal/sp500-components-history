@@ -111,6 +111,7 @@ CPAY,0001175454,Corpay,financials
 CPB,0000016732,Campbell's Company (The),consumer_staples
 CPRT,0000900075,Copart,industrials
 CPT,0000906345,Camden Property Trust,real_estate
+CRH,0000849395,CRH plc,materials
 CRL,0001100682,Charles River Laboratories,health_care
 CRM,0001108524,Salesforce,information_technology
 CRWD,0001535527,CrowdStrike,information_technology
@@ -121,6 +122,7 @@ CTAS,0000723254,Cintas,industrials
 CTRA,0000858470,Coterra,energy
 CTSH,0001058290,Cognizant,information_technology
 CTVA,0001755672,Corteva,materials
+CVNA,0001690820,Carvana,consumer_discretionary
 CVS,0000064803,CVS Health,health_care
 CVX,0000093410,Chevron Corporation,energy
 D,0000715957,Dominion Energy,utilities
@@ -410,7 +412,6 @@ SNA,0000091440,Snap-on,industrials
 SNDK,0002023554,Sandisk,information_technology
 SNPS,0000883241,Synopsys,information_technology
 SO,0000092122,Southern Company,utilities
-SOLS,0002064953,Solstice Advanced Materials,materials
 SOLV,0001964738,Solventum,health_care
 SPG,0001063761,Simon Property Group,real_estate
 SPGI,0000064040,S&P Global,financials

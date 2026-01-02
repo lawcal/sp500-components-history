@@ -189,6 +189,7 @@ FICO,0000814547,Fair Isaac,information_technology
 FIS,0001136893,Fidelity National Information Services,financials
 FISV,0000798354,Fiserv,financials
 FITB,0000035527,Fifth Third Bancorp,financials
+FIX,0001035983,Comfort Systems USA,industrials
 FOX,0001754301,Fox Corporation (Class B),communication_services
 FOXA,0001754301,Fox Corporation (Class A),communication_services
 FRT,0000034903,Federal Realty Investment Trust,real_estate
@@ -409,7 +410,6 @@ SNA,0000091440,Snap-on,industrials
 SNDK,0002023554,Sandisk,information_technology
 SNPS,0000883241,Synopsys,information_technology
 SO,0000092122,Southern Company,utilities
-SOLS,0002064953,Solstice Advanced Materials,materials
 SOLV,0001964738,Solventum,health_care
 SPG,0001063761,Simon Property Group,real_estate
 SPGI,0000064040,S&P Global,financials

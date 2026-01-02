@@ -221,6 +221,7 @@ CPRI,0001530721,Capri Holdings,consumer_discretionary,2013-11-13,2020-05-12,2019
 CPRT,0000900075,Copart,industrials,2018-07-02,,2018-07-03
 CPT,0000906345,Camden Property Trust,real_estate,2022-04-04,,2022-04-05
 CPWR,0000859014,Compuware Corp.,information_technology,2007-03-05*,2011-12-31,2007-03-05
+CRH,0000849395,CRH plc,materials,2025-12-22,,2026-01-01
 CRL,0001100682,Charles River Laboratories,health_care,2021-05-14,,2021-05-19
 CRM,0001108524,Salesforce,information_technology,2008-09-15,,2008-09-11
 CRWD,0001535527,CrowdStrike,information_technology,2024-06-24,,2024-06-22
@@ -240,6 +241,7 @@ CTXS,0000877890,Citrix,information_technology,1999-12-01,2022-10-03,2007-03-05
 CVC,0001053112,Cablevision Systems Corp.,consumer_discretionary,2010-12-20,2016-06-22,2011-03-08
 CVG,0001062047,Convergys Corp.,information_technology,2007-03-05*,2009-12-18,2007-03-05
 CVH,0001054833,Coventry Health Care Inc.,health_care,2007-03-05*,2013-05-08,2007-03-05
+CVNA,0001690820,Carvana,consumer_discretionary,2025-12-22,,2026-01-01
 CVS,0000064803,CVS Health,health_care,1957-03-04,,2007-03-05
 CVX,0000093410,Chevron Corporation,energy,1957-03-04,,2007-03-05
 CXO,0001358071,Concho Resources,energy,2016-02-22,2021-01-21,2016-02-19
@@ -358,7 +360,7 @@ FII,0001056288,Federated Investors Inc.,financials,2007-03-05*,2013-01-02,2007-0
 FIS,0001136893,Fidelity National Information Services,financials,2006-11-10,,2007-03-05
 FISV,0000798354,Fiserv,financials,2001-04-02,,2007-03-05
 FITB,0000035527,Fifth Third Bancorp,financials,1996-03-29,,2007-03-05
-FIX,0001035983,Comfort Systems USA,industrials,2025-12-31*,,2025-12-31
+FIX,0001035983,Comfort Systems USA,industrials,2025-12-22,,2025-12-31
 FL,0000850209,Foot Locker Inc,consumer_discretionary,2016-04-04,2019-08-09,2016-04-01
 FLIR,0000354908,FLIR Systems,information_technology,2009-01-02,2021-05-14,2009-03-07
 FLR,0001124198,Fluor Corp.,industrials,1980-03-31,2019-06-03,2007-03-05
@@ -800,7 +802,7 @@ SNI,0001430602,Scripps Networks Interactive Inc.,consumer_discretionary,2008-07-
 SNPS,0000883241,Synopsys,information_technology,2017-03-16,,2017-03-15
 SNV,0000018349,Synovus Financial,financials,2007-03-05*,2008-01-22*,2007-03-05
 SO,0000092122,Southern Company,utilities,1957-03-04,,2007-03-05
-SOLS,0002064953,Solstice Advanced Materials,materials,2025-10-30,,2025-10-31
+SOLS,0002064953,Solstice Advanced Materials,materials,2025-10-30,2025-12-22,2025-10-31
 SOLV,0001964738,Solventum,health_care,2024-04-01,,2024-04-01
 SOV,0000811830,Sovereign Bancorp,financials,2007-03-05*,2009-03-07*,2007-03-05
 SPG,0001063761,Simon Property Group,real_estate,2002-06-26,,2007-03-05
