@@ -591,7 +591,7 @@ MJN,0001452575,Mead Johnson,consumer_staples,2009-12-21,2017-06-19,2010-01-22
 MKC,0000063754,McCormick & Company,consumer_staples,2003-03-20,,2007-03-05
 MKTX,0001278021,MarketAxess,financials,2019-07-01,2025-09-22,2019-07-01
 MLM,0000916076,Martin Marietta Materials,materials,2014-07-02,,2014-07-01
-MMC,0000062709,Marsh McLennan,financials,1987-08-31,,2007-03-05
+MMC,0000062709,Marsh McLennan,financials,1987-08-31,2026-01-14*,2007-03-05
 MMI,0001495569,Motorola Mobility Holdings Inc.,information_technology,2011-03-09*,2012-05-21,2011-03-09
 MMM,0000066740,3M,industrials,1957-03-04,,2007-03-05
 MNK,0001567892,Mallinckrodt Plc,health_care,2014-08-19,2017-07-26,2014-09-27
@@ -608,6 +608,7 @@ MPWR,0001280452,Monolithic Power Systems,information_technology,2021-02-12,,2021
 MRK,0000310158,Merck & Co.,health_care,1957-03-04,,2007-03-05
 MRNA,0001682852,Moderna,health_care,2021-07-21,,2021-07-21
 MRO,0000101778,Marathon Oil,energy,1957-03-04,2024-11-26,2007-03-05
+MRSH,0000062709,Marsh McLennan,financials,1987-08-31,,2026-01-14
 MS,0000895421,Morgan Stanley,financials,1993-07-29,,2007-03-05
 MSCI,0001408198,MSCI Inc.,financials,2018-04-04,,2018-04-03
 MSFT,0000789019,Microsoft,information_technology,1994-06-01,,2007-03-05
