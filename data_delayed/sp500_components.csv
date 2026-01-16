@@ -307,7 +307,6 @@ META,0001326801,Meta Platforms,communication_services
 MGM,0000789570,MGM Resorts,consumer_discretionary
 MKC,0000063754,McCormick & Company,consumer_staples
 MLM,0000916076,Martin Marietta Materials,materials
-MMC,0000062709,Marsh McLennan,financials
 MMM,0000066740,3M,industrials
 MNST,0000865752,Monster Beverage,consumer_staples
 MO,0000764180,Altria,consumer_staples
@@ -317,6 +316,7 @@ MPC,0001510295,Marathon Petroleum,energy
 MPWR,0001280452,Monolithic Power Systems,information_technology
 MRK,0000310158,Merck & Co.,health_care
 MRNA,0001682852,Moderna,health_care
+MRSH,0000062709,Marsh McLennan,financials
 MS,0000895421,Morgan Stanley,financials
 MSCI,0001408198,MSCI Inc.,financials
 MSFT,0000789019,Microsoft,information_technology
