@@ -91,6 +91,7 @@ CHD,0000313927,Church & Dwight,consumer_staples
 CHRW,0001043277,C.H. Robinson,industrials
 CHTR,0001091667,Charter Communications,communication_services
 CI,0001739940,Cigna,health_care
+CIEN,0000936395,Ciena,information_technology
 CINF,0000020286,Cincinnati Financial,financials
 CL,0000021665,Colgate-Palmolive,consumer_staples
 CLX,0000021076,Clorox,consumer_staples
@@ -128,7 +129,6 @@ CVX,0000093410,Chevron Corporation,energy
 D,0000715957,Dominion Energy,utilities
 DAL,0000027904,Delta Air Lines,industrials
 DASH,0001792789,DoorDash,consumer_discretionary
-DAY,0001725057,Dayforce,industrials
 DD,0001666700,DuPont,materials
 DDOG,0001561550,Datadog,information_technology
 DE,0000315189,Deere & Company,industrials
