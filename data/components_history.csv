@@ -206,6 +206,7 @@ CNX,0001070412,CONSOL Energy Inc.,energy,2007-03-05*,2016-03-04,2007-03-05
 COF,0000927628,Capital One,financials,1998-07-01,,2007-03-05
 COG,0000858470,Cabot Oil & Gas,energy,2008-06-23,2021-10-03*,2008-08-21
 COH,0001116132,Coach Inc.,consumer_discretionary,2007-03-05*,2017-10-31,2007-03-05
+COHR,0000820318,Coherent Corp.,information_technology,2026-03-23,,2026-03-24
 COIN,0001679788,Coinbase,financials,2025-05-19,,2025-05-16
 COL,0001137411,Rockwell Collins,industrials,2001-07-02,2018-12-03,2007-03-05
 COO,0000711404,Cooper Companies (The),health_care,2016-09-23,,2016-09-26
@@ -534,6 +535,7 @@ LHX,0000202058,L3Harris,industrials,2008-09-22,,2019-07-01
 LIFE,0001073431,Life Technologies,health_care,2009-03-07*,2014-01-24,2009-03-07
 LII,0001069202,Lennox International,industrials,2024-12-23,,2024-12-23
 LIN,0001707925,Linde plc,materials,1992-07-01,,2018-11-01
+LITE,0001633978,Lumentum,information_technology,2026-03-23,,2026-03-24
 LIZ,0000352363,Liz Claiborne Inc.,consumer_discretionary,2007-03-05*,2008-12-24*,2007-03-05
 LKQ,0001065696,LKQ Corporation,consumer_discretionary,2016-05-23,2025-12-22,2016-05-20
 LLL,0001039101,L-3 Communications Holdings,industrials,2007-03-05*,2019-07-01,2007-03-05
@@ -555,7 +557,7 @@ LUMN,0000018926,Lumen Technologies,communication_services,1999-03-25,2023-03-20,
 LUV,0000092380,Southwest Airlines,industrials,1994-07-01,,2007-03-05
 LVLT,0000794323,Level 3 Communications,communication_services,2014-11-05,2017-10-13,2014-11-05
 LVS,0001300514,Las Vegas Sands,consumer_discretionary,2019-10-03,,2019-10-11
-LW,0001679273,Lamb Weston,consumer_staples,2018-12-03,,2018-11-30
+LW,0001679273,Lamb Weston,consumer_staples,2018-12-03,2026-03-23,2018-11-30
 LXK,0001001288,Lexmark Int'l Inc,information_technology,2007-03-05*,2012-10-01,2007-03-05
 LYB,0001489393,LyondellBasell,materials,2012-09-05,,2012-09-05
 LYV,0001335258,Live Nation Entertainment,communication_services,2019-12-23,,2019-12-31
@@ -599,7 +601,7 @@ MNK,0001567892,Mallinckrodt Plc,health_care,2014-08-19,2017-07-26,2014-09-27
 MNST,0000865752,Monster Beverage,consumer_staples,2012-06-28,,2012-06-30
 MNST,0001020416,Monster Worldwide,industrials,2007-03-05*,2009-01-02*,2007-03-05
 MO,0000764180,Altria,consumer_staples,1957-03-04,,2007-03-05
-MOH,0001179929,Molina Healthcare,health_care,2022-03-02,,2022-03-01
+MOH,0001179929,Molina Healthcare,health_care,2022-03-02,2026-03-23,2022-03-01
 MOLX,0000067472,Molex Inc.,information_technology,2007-03-05*,2013-12-10,2007-03-05
 MON,0001110783,Monsanto Co.,materials,2002-08-07,2018-06-07,2007-03-05
 MOS,0001285785,Mosaic Company (The),materials,2011-09-26,,2011-10-18
@@ -615,7 +617,7 @@ MSCI,0001408198,MSCI Inc.,financials,2018-04-04,,2018-04-03
 MSFT,0000789019,Microsoft,information_technology,1994-06-01,,2007-03-05
 MSI,0000068505,Motorola Solutions,information_technology,1957-03-04,,2011-03-09
 MTB,0000036270,M&T Bank,financials,2004-02-23,,2007-03-05
-MTCH,0000891103,Match Group,communication_services,2021-09-20,,2021-09-21
+MTCH,0000891103,Match Group,communication_services,2021-09-20,2026-03-23,2021-09-21
 MTD,0001037646,Mettler Toledo,health_care,2016-09-06,,2016-09-10
 MTG,0000876437,MGIC Investment,financials,2007-03-05*,2008-11-03*,2007-03-05
 MTW,0000061986,Manitowoc Co.,industrials,2008-01-22*,2009-10-01*,2008-01-22
@@ -681,7 +683,7 @@ OTIS,0001781335,Otis Worldwide,industrials,2020-04-03,,2020-04-12
 OXY,0000797468,Occidental Petroleum,energy,1957-03-04,,2007-03-05
 PANW,0001327567,Palo Alto Networks,information_technology,2023-06-20,,2023-06-19
 PARA,0000813828,Paramount Global,communication_services,1994-09-30,2025-08-08*,2022-02-17
-PAYC,0001590955,Paycom,industrials,2020-01-28,,2020-01-29
+PAYC,0001590955,Paycom,industrials,2020-01-28,2026-03-23,2020-01-29
 PAYX,0000723531,Paychex,industrials,1998-10-01,,2007-03-05
 PBCT,0001378946,People's United Financial,financials,2008-11-13,2022-04-04,2009-06-10
 PBG,0001076405,Pepsi Bottling Group,consumer_staples,2007-03-05*,2010-04-03*,2007-03-05
@@ -774,6 +776,7 @@ SAF,0000086104,SAFECO Corp.,financials,2007-03-05*,2008-09-30*,2007-03-05
 SAI,0001336920,SAIC,industrials,2010-01-22*,2013-09-20,2010-01-22
 SAIC,0001336920,SAIC,industrials,2013-10-08*,2013-11-03*,2013-10-08
 SANM,0000897723,Sanmina-SCI Corp.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
+SATS,0001415404,EchoStar,communication_services,2026-03-23,,2026-03-24
 SBAC,0001034054,SBA Communications,real_estate,2017-09-01,,2017-09-01
 SBNY,0001288784,Signature Bank,financials,2021-12-20,2023-03-15,2021-12-26
 SBUX,0000829224,Starbucks,consumer_discretionary,2000-06-07,,2007-03-05
@@ -920,6 +923,7 @@ VNO,0000899689,Vornado Realty Trust,real_estate,2007-03-05*,2023-01-05,2007-03-0
 VNT,0001786842,Vontier,information_technology,2020-10-09,2021-03-22,2020-10-09
 VRSK,0001442145,Verisk Analytics,industrials,2015-10-08,,2015-10-08
 VRSN,0001014473,Verisign,information_technology,2006-02-01,,2007-03-05
+VRT,0001674101,Vertiv,industrials,2026-03-23,,2026-03-24
 VRTX,0000875320,Vertex Pharmaceuticals,health_care,2013-09-23,,2013-11-03
 VST,0001692819,Vistra Corp.,utilities,2024-05-08,,2024-05-07
 VTR,0000740260,Ventas,real_estate,2009-03-04,,2009-04-06

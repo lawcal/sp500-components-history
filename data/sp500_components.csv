@@ -103,6 +103,7 @@ CMS,0000811156,CMS Energy,utilities
 CNC,0001071739,Centene Corporation,health_care
 CNP,0001130310,CenterPoint Energy,utilities
 COF,0000927628,Capital One,financials
+COHR,0000820318,Coherent Corp.,information_technology
 COIN,0001679788,Coinbase,financials
 COO,0000711404,Cooper Companies (The),health_care
 COP,0001163165,ConocoPhillips,energy
@@ -281,6 +282,7 @@ LH,0000920148,Labcorp,health_care
 LHX,0000202058,L3Harris,industrials
 LII,0001069202,Lennox International,industrials
 LIN,0001707925,Linde plc,materials
+LITE,0001633978,Lumentum,information_technology
 LLY,0000059478,Lilly (Eli),health_care
 LMT,0000936468,Lockheed Martin,industrials
 LNT,0000352541,Alliant Energy,utilities
@@ -289,7 +291,6 @@ LRCX,0000707549,Lam Research,information_technology
 LULU,0001397187,Lululemon Athletica,consumer_discretionary
 LUV,0000092380,Southwest Airlines,industrials
 LVS,0001300514,Las Vegas Sands,consumer_discretionary
-LW,0001679273,Lamb Weston,consumer_staples
 LYB,0001489393,LyondellBasell,materials
 LYV,0001335258,Live Nation Entertainment,communication_services
 MA,0001141391,Mastercard,financials
@@ -310,7 +311,6 @@ MLM,0000916076,Martin Marietta Materials,materials
 MMM,0000066740,3M,industrials
 MNST,0000865752,Monster Beverage,consumer_staples
 MO,0000764180,Altria,consumer_staples
-MOH,0001179929,Molina Healthcare,health_care
 MOS,0001285785,Mosaic Company (The),materials
 MPC,0001510295,Marathon Petroleum,energy
 MPWR,0001280452,Monolithic Power Systems,information_technology
@@ -322,7 +322,6 @@ MSCI,0001408198,MSCI Inc.,financials
 MSFT,0000789019,Microsoft,information_technology
 MSI,0000068505,Motorola Solutions,information_technology
 MTB,0000036270,M&T Bank,financials
-MTCH,0000891103,Match Group,communication_services
 MTD,0001037646,Mettler Toledo,health_care
 MU,0000723125,Micron Technology,information_technology
 NCLH,0001513761,Norwegian Cruise Line Holdings,consumer_discretionary
@@ -355,7 +354,6 @@ ORLY,0000898173,O’Reilly Automotive,consumer_discretionary
 OTIS,0001781335,Otis Worldwide,industrials
 OXY,0000797468,Occidental Petroleum,energy
 PANW,0001327567,Palo Alto Networks,information_technology
-PAYC,0001590955,Paycom,industrials
 PAYX,0000723531,Paychex,industrials
 PCAR,0000075362,Paccar,industrials
 PCG,0001004980,PG&E Corporation,utilities
@@ -401,6 +399,7 @@ ROST,0000745732,Ross Stores,consumer_discretionary
 RSG,0001060391,Republic Services,industrials
 RTX,0000101829,RTX Corporation,industrials
 RVTY,0000031791,Revvity,health_care
+SATS,0001415404,EchoStar,communication_services
 SBAC,0001034054,SBA Communications,real_estate
 SBUX,0000829224,Starbucks,consumer_discretionary
 SCHW,0000316709,Charles Schwab Corporation,financials
@@ -472,6 +471,7 @@ VLTO,0001967680,Veralto,industrials
 VMC,0001396009,Vulcan Materials Company,materials
 VRSK,0001442145,Verisk Analytics,industrials
 VRSN,0001014473,Verisign,information_technology
+VRT,0001674101,Vertiv,industrials
 VRTX,0000875320,Vertex Pharmaceuticals,health_care
 VST,0001692819,Vistra Corp.,utilities
 VTR,0000740260,Ventas,real_estate

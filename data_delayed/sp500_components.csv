@@ -289,7 +289,6 @@ LRCX,0000707549,Lam Research,information_technology
 LULU,0001397187,Lululemon Athletica,consumer_discretionary
 LUV,0000092380,Southwest Airlines,industrials
 LVS,0001300514,Las Vegas Sands,consumer_discretionary
-LW,0001679273,Lamb Weston,consumer_staples
 LYB,0001489393,LyondellBasell,materials
 LYV,0001335258,Live Nation Entertainment,communication_services
 MA,0001141391,Mastercard,financials
@@ -310,7 +309,6 @@ MLM,0000916076,Martin Marietta Materials,materials
 MMM,0000066740,3M,industrials
 MNST,0000865752,Monster Beverage,consumer_staples
 MO,0000764180,Altria,consumer_staples
-MOH,0001179929,Molina Healthcare,health_care
 MOS,0001285785,Mosaic Company (The),materials
 MPC,0001510295,Marathon Petroleum,energy
 MPWR,0001280452,Monolithic Power Systems,information_technology
@@ -322,7 +320,6 @@ MSCI,0001408198,MSCI Inc.,financials
 MSFT,0000789019,Microsoft,information_technology
 MSI,0000068505,Motorola Solutions,information_technology
 MTB,0000036270,M&T Bank,financials
-MTCH,0000891103,Match Group,communication_services
 MTD,0001037646,Mettler Toledo,health_care
 MU,0000723125,Micron Technology,information_technology
 NCLH,0001513761,Norwegian Cruise Line Holdings,consumer_discretionary
@@ -355,7 +352,6 @@ ORLY,0000898173,O’Reilly Automotive,consumer_discretionary
 OTIS,0001781335,Otis Worldwide,industrials
 OXY,0000797468,Occidental Petroleum,energy
 PANW,0001327567,Palo Alto Networks,information_technology
-PAYC,0001590955,Paycom,industrials
 PAYX,0000723531,Paychex,industrials
 PCAR,0000075362,Paccar,industrials
 PCG,0001004980,PG&E Corporation,utilities
