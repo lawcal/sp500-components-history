@@ -152,6 +152,7 @@ CAG,0000023217,Conagra Brands,consumer_staples,1983-08-31,,2007-03-05
 CAH,0000721371,Cardinal Health,health_care,1997-05-27,,2007-03-05
 CAM,0000941548,Cameron International Corp.,energy,2008-01-29,2016-04-04,2008-08-21
 CARR,0001783180,Carrier Global,industrials,2020-04-03,,2020-04-12
+CASY,0000726958,Casey's,consumer_staples,2026-04-09,,2026-04-08
 CAT,0000018230,Caterpillar Inc.,industrials,1957-03-04,,2007-03-05
 CB,0000896159,Chubb Limited,financials,2010-07-15,,2007-03-05
 CBE,0001141982,Cooper Industries Ltd.,industrials,2007-03-05*,2009-09-28,2007-03-05
@@ -438,7 +439,7 @@ HLT,0000047580,Hilton Hotels,consumer_discretionary,2007-03-05*,2008-01-22*,2007
 HLT,0001585689,Hilton Worldwide,consumer_discretionary,2017-06-19,,2017-06-17
 HNZ,0000046640,Heinz (H.J.),consumer_staples,2007-03-05*,2013-06-06,2007-03-05
 HOG,0000793952,Harley-Davidson,consumer_discretionary,2007-03-05*,2020-06-22,2007-03-05
-HOLX,0000859737,Hologic,health_care,2016-03-30,,2016-03-30
+HOLX,0000859737,Hologic,health_care,2016-03-30,2026-04-09,2016-03-30
 HON,0000773840,Honeywell,industrials,1957-03-04,,2007-03-05
 HOOD,0001783879,Robinhood Markets,financials,2025-09-22,,2025-09-22
 HOT,0000316206,Starwood Hotels & Resorts,consumer_discretionary,2007-03-05*,2016-09-22,2007-03-05
