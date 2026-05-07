@@ -236,7 +236,7 @@ CSX,0000277948,CSX Corporation,industrials,1957-03-04,,2007-03-05
 CTAS,0000723254,Cintas,industrials,2001-03-01,,2007-03-05
 CTL,0000018926,CenturyLink Inc,communication_services,1999-03-25,2020-09-22*,2007-03-05
 CTLT,0001596783,Catalent,health_care,2020-09-21,2024-12-23,2020-10-01
-CTRA,0000858470,Coterra,energy,2008-06-23,,2021-10-03
+CTRA,0000858470,Coterra,energy,2008-06-23,2026-05-07,2021-10-03
 CTSH,0001058290,Cognizant,information_technology,2006-11-17,,2007-03-05
 CTVA,0001755672,Corteva,materials,2019-06-03,,2019-06-04
 CTX,0000018532,Centex Corp.,consumer_discretionary,2007-03-05*,2009-08-19,2007-03-05
@@ -913,6 +913,7 @@ UTX,0000101829,United Technologies,industrials,2007-03-05*,2020-04-03,2007-03-05
 UVN,0001017008,Univision Communications,communication_services,2007-03-05*,2008-01-22*,2007-03-05
 V,0001403161,Visa Inc.,financials,2009-12-21,,2010-01-22
 VAR,0000203527,Varian Medical Systems,health_care,2007-02-12,2021-04-20,2007-03-05
+VEEV,0001393052,Veeva Systems,health_care,2026-05-07,,2026-05-06
 VFC,0000103379,VF Corporation,consumer_discretionary,1979-06-30,2024-04-03,2007-03-05
 VIAB,0001339947,Viacom Inc.,communication_services,2007-03-05*,2019-12-05,2007-03-05
 VIAC,0000813828,ViacomCBS,communication_services,2019-12-05*,2022-02-19*,2019-12-05
