@@ -122,7 +122,6 @@ CSCO,0000858877,Cisco,information_technology
 CSGP,0001057352,CoStar Group,real_estate
 CSX,0000277948,CSX Corporation,industrials
 CTAS,0000723254,Cintas,industrials
-CTRA,0000858470,Coterra,energy
 CTSH,0001058290,Cognizant,information_technology
 CTVA,0001755672,Corteva,materials
 CVNA,0001690820,Carvana,consumer_discretionary
@@ -465,6 +464,7 @@ UPS,0001090727,United Parcel Service,industrials
 URI,0001067701,United Rentals,industrials
 USB,0000036104,U.S. Bancorp,financials
 V,0001403161,Visa Inc.,financials
+VEEV,0001393052,Veeva Systems,health_care
 VICI,0001705696,Vici Properties,real_estate
 VLO,0001035002,Valero Energy,energy
 VLTO,0001967680,Veralto,industrials
