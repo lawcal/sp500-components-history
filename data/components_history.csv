@@ -319,7 +319,7 @@ ENDP,0001100962,Endo International,health_care,2015-01-27,2017-03-02,2015-01-27
 ENPH,0001463101,Enphase Energy,information_technology,2021-01-07,2025-09-22,2021-01-09
 EOG,0000821189,EOG Resources,energy,2000-11-02,,2007-03-05
 EP,0001066107,El Paso Corp.,energy,2007-03-05*,2012-05-17,2007-03-05
-EPAM,0001352010,EPAM Systems,information_technology,2021-12-14,,2021-12-14
+EPAM,0001352010,EPAM Systems,information_technology,2021-12-14,2026-06-02,2021-12-14
 EQ,0001350031,Embarq Corporation,communication_services,2007-03-05*,2009-07-04*,2007-03-05
 EQIX,0001101239,Equinix,real_estate,2015-03-20,,2015-03-20
 EQR,0000906107,Equity Residential,real_estate,2001-12-03,,2007-03-05
@@ -355,6 +355,7 @@ FDC,0000883980,First Data,industrials,2007-03-05*,2007-09-26,2007-03-05
 FDO,0000034408,Family Dollar Stores,consumer_discretionary,2007-03-05*,2015-07-08,2007-03-05
 FDS,0001013237,FactSet,financials,2021-12-20,,2021-12-26
 FDX,0001048911,FedEx,industrials,1980-12-31,,2007-03-05
+FDXF,0002082247,FedEx Freight,industrials,2026-06-01,,2026-06-03
 FE,0001031296,FirstEnergy,utilities,1997-11-28,,2007-03-05
 FFIV,0001048695,"F5, Inc.",information_technology,2010-12-20,,2011-03-09
 FHN,0000036966,First Horizon National,financials,2007-03-05*,2013-06-21,2007-03-05
