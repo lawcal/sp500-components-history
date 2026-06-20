@@ -219,7 +219,7 @@ COTY,0001024305,"Coty, Inc",consumer_staples,2016-10-03,2020-09-21,2016-09-30
 COV,0001385187,Covidien Ltd.,health_care,2008-01-22*,2009-06-10*,2008-01-22
 COV,0001385187,Covidien plc,health_care,2011-03-07*,2015-01-27,2011-03-07
 CPAY,0001175454,Corpay,financials,2018-06-20,,2024-03-26
-CPB,0000016732,Campbell's Company (The),consumer_staples,1957-03-04,,2007-03-05
+CPB,0000016732,Campbell's Company (The),consumer_staples,1957-03-04,2026-06-22,2007-03-05
 CPGX,0001629995,Columbia Pipeline Group Inc,energy,2015-07-02,2016-07-05,2015-07-02
 CPRI,0001530721,Capri Holdings,consumer_discretionary,2013-11-13,2020-05-12,2019-01-03
 CPRT,0000900075,Copart,industrials,2018-07-02,,2018-07-03
@@ -367,6 +367,7 @@ FISV,0000798354,Fiserv,financials,2001-04-02,,2007-03-05
 FITB,0000035527,Fifth Third Bancorp,financials,1996-03-29,,2007-03-05
 FIX,0001035983,Comfort Systems USA,industrials,2025-12-22,,2025-12-31
 FL,0000850209,Foot Locker Inc,consumer_discretionary,2016-04-04,2019-08-09,2016-04-01
+FLEX,0000866374,Flex Ltd.,information_technology,2026-06-22,,2026-06-19
 FLIR,0000354908,FLIR Systems,information_technology,2009-01-02,2021-05-14,2009-03-07
 FLR,0001124198,Fluor Corp.,industrials,1980-03-31,2019-06-03,2007-03-05
 FLS,0000030625,Flowserve Corporation,industrials,2008-10-02,2021-03-22,2008-09-30
@@ -615,6 +616,7 @@ MRK,0000310158,Merck & Co.,health_care,1957-03-04,,2007-03-05
 MRNA,0001682852,Moderna,health_care,2021-07-21,,2021-07-21
 MRO,0000101778,Marathon Oil,energy,1957-03-04,2024-11-26,2007-03-05
 MRSH,0000062709,Marsh McLennan,financials,1987-08-31,,2026-01-14
+MRVL,0001835632,Marvell Technology,information_technology,2026-06-22,,2026-06-19
 MS,0000895421,Morgan Stanley,financials,1993-07-29,,2007-03-05
 MSCI,0001408198,MSCI Inc.,financials,2018-04-04,,2018-04-03
 MSFT,0000789019,Microsoft,information_technology,1994-06-01,,2007-03-05
@@ -724,7 +726,7 @@ PNR,0000077360,Pentair,industrials,2012-10-01,,2012-10-03
 PNW,0000764622,Pinnacle West Capital,utilities,1999-10-04,,2007-03-05
 PODD,0001145197,Insulet Corporation,health_care,2023-03-15,,2023-03-14
 POM,0001135971,Pepco Holdings Inc.,utilities,2007-11-09,2016-03-30,2008-01-22
-POOL,0000945841,Pool Corporation,consumer_discretionary,2020-10-07,,2020-10-09
+POOL,0000945841,Pool Corporation,consumer_discretionary,2020-10-07,2026-06-22,2020-10-09
 PPG,0000079879,PPG Industries,materials,1957-03-04,,2007-03-05
 PPL,0000922224,PPL Corporation,utilities,2001-10-01,,2007-03-05
 PRGO,0001585364,Perrigo,health_care,2011-12-19,2021-09-20,2011-12-29
