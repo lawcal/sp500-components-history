@@ -111,7 +111,6 @@ COP,0001163165,ConocoPhillips,energy
 COR,0001140859,Cencora,health_care
 COST,0000909832,Costco,consumer_staples
 CPAY,0001175454,Corpay,financials
-CPB,0000016732,Campbell's Company (The),consumer_staples
 CPRT,0000900075,Copart,industrials
 CPT,0000906345,Camden Property Trust,real_estate
 CRH,0000849395,CRH plc,materials
@@ -193,6 +192,7 @@ FIS,0001136893,Fidelity National Information Services,financials
 FISV,0000798354,Fiserv,financials
 FITB,0000035527,Fifth Third Bancorp,financials
 FIX,0001035983,Comfort Systems USA,industrials
+FLEX,0000866374,Flex Ltd.,information_technology
 FOX,0001754301,Fox Corporation (Class B),communication_services
 FOXA,0001754301,Fox Corporation (Class A),communication_services
 FRT,0000034903,Federal Realty Investment Trust,real_estate
@@ -316,6 +316,7 @@ MPWR,0001280452,Monolithic Power Systems,information_technology
 MRK,0000310158,Merck & Co.,health_care
 MRNA,0001682852,Moderna,health_care
 MRSH,0000062709,Marsh McLennan,financials
+MRVL,0001835632,Marvell Technology,information_technology
 MS,0000895421,Morgan Stanley,financials
 MSCI,0001408198,MSCI Inc.,financials
 MSFT,0000789019,Microsoft,information_technology
@@ -372,7 +373,6 @@ PNC,0000713676,PNC Financial Services,financials
 PNR,0000077360,Pentair,industrials
 PNW,0000764622,Pinnacle West Capital,utilities
 PODD,0001145197,Insulet Corporation,health_care
-POOL,0000945841,Pool Corporation,consumer_discretionary
 PPG,0000079879,PPG Industries,materials
 PPL,0000922224,PPL Corporation,utilities
 PRU,0001137774,Prudential Financial,financials
