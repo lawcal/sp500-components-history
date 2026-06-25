@@ -302,6 +302,7 @@ DXCM,0001093557,Dexcom,health_care,2020-05-12,,2020-05-13
 DYN,0001379895,Dynegy Inc.,utilities,2007-03-05*,2009-12-18,2007-03-05
 EA,0000712515,Electronic Arts,communication_services,2002-07-22,,2011-12-20
 EBAY,0001065088,eBay Inc.,consumer_discretionary,2002-07-22,,2007-03-05
+ECHO,0001415404,EchoStar,communication_services,2026-03-23,,2026-06-24
 ECL,0000031462,Ecolab,materials,1989-01-31,,2007-03-05
 ED,0001047862,Consolidated Edison,utilities,1957-03-04,,2007-03-05
 EDS,0001007456,Electronic Data Systems,information_technology,2007-03-05*,2008-09-03*,2007-03-05
@@ -781,7 +782,7 @@ SAF,0000086104,SAFECO Corp.,financials,2007-03-05*,2008-09-30*,2007-03-05
 SAI,0001336920,SAIC,industrials,2010-01-22*,2013-09-20,2010-01-22
 SAIC,0001336920,SAIC,industrials,2013-10-08*,2013-11-03*,2013-10-08
 SANM,0000897723,Sanmina-SCI Corp.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
-SATS,0001415404,EchoStar,communication_services,2026-03-23,,2026-03-24
+SATS,0001415404,EchoStar,communication_services,2026-03-23,2026-06-24*,2026-03-24
 SBAC,0001034054,SBA Communications,real_estate,2017-09-01,,2017-09-01
 SBNY,0001288784,Signature Bank,financials,2021-12-20,2023-03-15,2021-12-26
 SBUX,0000829224,Starbucks,consumer_discretionary,2000-06-07,,2007-03-05

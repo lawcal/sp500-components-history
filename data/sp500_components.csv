@@ -153,6 +153,7 @@ DVN,0001090012,Devon Energy,energy
 DXCM,0001093557,Dexcom,health_care
 EA,0000712515,Electronic Arts,communication_services
 EBAY,0001065088,eBay Inc.,consumer_discretionary
+ECHO,0001415404,EchoStar,communication_services
 ECL,0000031462,Ecolab,materials
 ED,0001047862,Consolidated Edison,utilities
 EFX,0000033185,Equifax,industrials
@@ -398,7 +399,6 @@ ROST,0000745732,Ross Stores,consumer_discretionary
 RSG,0001060391,Republic Services,industrials
 RTX,0000101829,RTX Corporation,industrials
 RVTY,0000031791,Revvity,health_care
-SATS,0001415404,EchoStar,communication_services
 SBAC,0001034054,SBA Communications,real_estate
 SBUX,0000829224,Starbucks,consumer_discretionary
 SCHW,0000316709,Charles Schwab Corporation,financials
