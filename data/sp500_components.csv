@@ -73,7 +73,6 @@ BSX,0000885725,Boston Scientific,health_care
 BX,0001393818,Blackstone Inc.,financials
 BXP,0001037540,"BXP, Inc.",real_estate
 C,0000831001,Citigroup,financials
-CAG,0000023217,Conagra Brands,consumer_staples
 CAH,0000721371,Cardinal Health,health_care
 CARR,0001783180,Carrier Global,industrials
 CASY,0000726958,Casey's,consumer_staples
@@ -227,7 +226,8 @@ HD,0000354950,Home Depot (The),consumer_discretionary
 HIG,0000874766,Hartford (The),financials
 HII,0001501585,Huntington Ingalls Industries,industrials
 HLT,0001585689,Hilton Worldwide,consumer_discretionary
-HON,0000773840,Honeywell,industrials
+HON,0000773840,Honeywell Technologies,industrials
+HONA,0002089271,Honeywell Aerospace,industrials
 HOOD,0001783879,Robinhood Markets,financials
 HPE,0001645590,Hewlett Packard Enterprise,information_technology
 HPQ,0000047217,HP Inc.,information_technology

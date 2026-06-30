@@ -149,7 +149,7 @@ BXLT,0001620546,Baxalta,health_care,2015-07-01,2016-06-03,2015-07-01
 BXP,0001037540,"BXP, Inc.",real_estate,2006-04-03,,2007-03-05
 C,0000831001,Citigroup,financials,1988-05-31,,2007-03-05
 CA,0000356028,"CA, Inc.",information_technology,1987-07-31,2018-11-06,2007-03-05
-CAG,0000023217,Conagra Brands,consumer_staples,1983-08-31,,2007-03-05
+CAG,0000023217,Conagra Brands,consumer_staples,1983-08-31,2026-06-30,2007-03-05
 CAH,0000721371,Cardinal Health,health_care,1997-05-27,,2007-03-05
 CAM,0000941548,Cameron International Corp.,energy,2008-01-29,2016-04-04,2008-08-21
 CARR,0001783180,Carrier Global,industrials,2020-04-03,,2020-04-12
@@ -444,7 +444,8 @@ HLT,0001585689,Hilton Worldwide,consumer_discretionary,2017-06-19,,2017-06-17
 HNZ,0000046640,Heinz (H.J.),consumer_staples,2007-03-05*,2013-06-06,2007-03-05
 HOG,0000793952,Harley-Davidson,consumer_discretionary,2007-03-05*,2020-06-22,2007-03-05
 HOLX,0000859737,Hologic,health_care,2016-03-30,2026-04-09,2016-03-30
-HON,0000773840,Honeywell,industrials,1957-03-04,,2007-03-05
+HON,0000773840,Honeywell Technologies,industrials,1957-03-04,,2007-03-05
+HONA,0002089271,Honeywell Aerospace,industrials,2026-06-29,,2026-06-29
 HOOD,0001783879,Robinhood Markets,financials,2025-09-22,,2025-09-22
 HOT,0000316206,Starwood Hotels & Resorts,consumer_discretionary,2007-03-05*,2016-09-22,2007-03-05
 HP,0000046765,Helmerich & Payne,energy,2010-03-01,2020-05-22,2010-04-03
