@@ -372,7 +372,7 @@ FLEX,0000866374,Flex Ltd.,information_technology,2026-06-22,,2026-06-19
 FLIR,0000354908,FLIR Systems,information_technology,2009-01-02,2021-05-14,2009-03-07
 FLR,0001124198,Fluor Corp.,industrials,1980-03-31,2019-06-03,2007-03-05
 FLS,0000030625,Flowserve Corporation,industrials,2008-10-02,2021-03-22,2008-09-30
-FLT,0001175454,Fleetcor,financials,2018-06-20,2024-03-26*,2018-06-19
+FLT,0001175454,Fleetcor,financials,2018-06-20,2024-03-25,2018-06-19
 FMC,0000037785,FMC Corporation,materials,2009-08-19,2025-03-24,2009-10-01
 FNM,0000310522,Fannie Mae,financials,2007-03-05*,2008-09-12,2007-03-05
 FO,0000789073,Fortune Brands Inc.,consumer_discretionary,2007-03-05*,2011-10-04,2007-03-05
@@ -783,7 +783,7 @@ SAF,0000086104,SAFECO Corp.,financials,2007-03-05*,2008-09-30*,2007-03-05
 SAI,0001336920,SAIC,industrials,2010-01-22*,2013-09-20,2010-01-22
 SAIC,0001336920,SAIC,industrials,2013-10-08*,2013-11-03*,2013-10-08
 SANM,0000897723,Sanmina-SCI Corp.,information_technology,2007-03-05*,2008-01-22*,2007-03-05
-SATS,0001415404,EchoStar,communication_services,2026-03-23,2026-06-24*,2026-03-24
+SATS,0001415404,EchoStar,communication_services,2026-03-23,2026-06-24,2026-03-24
 SBAC,0001034054,SBA Communications,real_estate,2017-09-01,,2017-09-01
 SBNY,0001288784,Signature Bank,financials,2021-12-20,2023-03-15,2021-12-26
 SBUX,0000829224,Starbucks,consumer_discretionary,2000-06-07,,2007-03-05
@@ -957,7 +957,7 @@ WFT,0001453090,Weatherford International Ltd.,energy,2007-03-05*,2009-03-07*,200
 WHR,0000106640,Whirlpool Corporation,consumer_discretionary,1958-03-31,2024-03-18,2007-03-05
 WIN,0001282266,Windstream Communications,communication_services,2007-03-05*,2015-04-07,2007-03-05
 WLP,0001156039,WellPoint Inc.,health_care,2007-03-05*,2014-12-06*,2007-03-05
-WLTW,0001140536,Willis Towers Watson,financials,2016-01-05,2022-01-11*,2016-01-04
+WLTW,0001140536,Willis Towers Watson,financials,2016-01-05,2022-01-10,2016-01-04
 WM,0000823768,Waste Management,industrials,1998-08-31,,2009-08-11
 WM,0000933136,Washington Mutual,financials,2007-03-05*,2008-09-30*,2007-03-05
 WMB,0000107263,Williams Companies,energy,1975-03-31,,2007-03-05
