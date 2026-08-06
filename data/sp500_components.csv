@@ -150,7 +150,6 @@ DUK,0001326160,Duke Energy,utilities
 DVA,0000927066,DaVita,health_care
 DVN,0001090012,Devon Energy,energy
 DXCM,0001093557,Dexcom,health_care
-EA,0000712515,Electronic Arts,communication_services
 EBAY,0001065088,eBay Inc.,consumer_discretionary
 ECHO,0001415404,EchoStar,communication_services
 ECL,0000031462,Ecolab,materials
@@ -186,6 +185,7 @@ FDS,0001013237,FactSet,financials
 FDX,0001048911,FedEx,industrials
 FDXF,0002082247,FedEx Freight,industrials
 FE,0001031296,FirstEnergy,utilities
+FERG,0002011641,Ferguson Enterprises,industrials
 FFIV,0001048695,"F5, Inc.",information_technology
 FICO,0000814547,Fair Isaac,information_technology
 FIS,0001136893,Fidelity National Information Services,financials

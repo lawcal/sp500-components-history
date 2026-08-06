@@ -300,7 +300,7 @@ DWDP,0001666700,DowDuPont,materials,2017-09-01*,2019-06-03,2017-09-01
 DXC,0001688568,DXC Technology,information_technology,2017-04-04,2023-10-03,2017-04-03
 DXCM,0001093557,Dexcom,health_care,2020-05-12,,2020-05-13
 DYN,0001379895,Dynegy Inc.,utilities,2007-03-05*,2009-12-18,2007-03-05
-EA,0000712515,Electronic Arts,communication_services,2002-07-22,,2011-12-20
+EA,0000712515,Electronic Arts,communication_services,2002-07-22,2026-08-05,2011-12-20
 EBAY,0001065088,eBay Inc.,consumer_discretionary,2002-07-22,,2007-03-05
 ECHO,0001415404,EchoStar,communication_services,2026-03-23,,2026-06-24
 ECL,0000031462,Ecolab,materials,1989-01-31,,2007-03-05
@@ -358,6 +358,7 @@ FDS,0001013237,FactSet,financials,2021-12-20,,2021-12-26
 FDX,0001048911,FedEx,industrials,1980-12-31,,2007-03-05
 FDXF,0002082247,FedEx Freight,industrials,2026-06-01,,2026-06-03
 FE,0001031296,FirstEnergy,utilities,1997-11-28,,2007-03-05
+FERG,0002011641,Ferguson Enterprises,industrials,2026-08-05,,2026-08-05
 FFIV,0001048695,"F5, Inc.",information_technology,2010-12-20,,2011-03-09
 FHN,0000036966,First Horizon National,financials,2007-03-05*,2013-06-21,2007-03-05
 FI,0000798354,Fiserv,financials,2001-04-02,2025-11-11*,2023-06-08
