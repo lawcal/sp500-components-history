@@ -38,7 +38,7 @@ APA,0001841666,APA Corporation,energy
 APD,0000002969,Air Products,materials
 APH,0000820313,Amphenol,information_technology
 APO,0001858681,Apollo Global Management,financials
-APP,0001751008,AppLovin,information_technology
+APP,0001751008,AppLovin,communication_services
 APTV,0001521332,Aptiv,consumer_discretionary
 ARE,0001035443,Alexandria Real Estate Equities,real_estate
 ARES,0001176948,Ares Management,financials
@@ -495,7 +495,7 @@ WTW,0001140536,Willis Towers Watson,financials
 WY,0000106535,Weyerhaeuser,real_estate
 WYNN,0001174922,Wynn Resorts,consumer_discretionary
 XEL,0000072903,Xcel Energy,utilities
-XOM,0000034088,ExxonMobil,energy
+XOM,0002115436,ExxonMobil,energy
 XYL,0001524472,Xylem Inc.,industrials
 XYZ,0001512673,"Block, Inc.",financials
 YUM,0001041061,Yum! Brands,consumer_discretionary
