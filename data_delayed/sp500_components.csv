@@ -208,7 +208,7 @@ GEV,0001996810,GE Vernova,industrials
 GILD,0000882095,Gilead Sciences,health_care
 GIS,0000040704,General Mills,consumer_staples
 GL,0000320335,Globe Life,financials
-GLW,0000024741,Corning Inc.,information_technology
+GLW,0000002474,Corning Inc.,information_technology
 GM,0001467858,General Motors,consumer_discretionary
 GNRC,0001474735,Generac,industrials
 GOOG,0001652044,Alphabet Inc. (Class C),communication_services
@@ -319,7 +319,7 @@ MRNA,0001682852,Moderna,health_care
 MRSH,0000062709,Marsh McLennan,financials
 MRVL,0001835632,Marvell Technology,information_technology
 MS,0000895421,Morgan Stanley,financials
-MSCI,0001408198,MSCI Inc.,financials
+MSCI,0001408198,MSCI,financials
 MSFT,0000789019,Microsoft,information_technology
 MSI,0000068505,Motorola Solutions,information_technology
 MTB,0000036270,M&T Bank,financials
@@ -351,7 +351,7 @@ OKE,0001039684,Oneok,energy
 OMC,0000029989,Omnicom Group,communication_services
 ON,0001097864,ON Semiconductor,information_technology
 ORCL,0001341439,Oracle Corporation,information_technology
-ORLY,0000898173,O’Reilly Automotive,consumer_discretionary
+ORLY,0000898173,O'Reilly Automotive,consumer_discretionary
 OTIS,0001781335,Otis Worldwide,industrials
 OXY,0000797468,Occidental Petroleum,energy
 PANW,0001327567,Palo Alto Networks,information_technology
@@ -391,7 +391,7 @@ REGN,0000872589,Regeneron Pharmaceuticals,health_care
 RF,0001281761,Regions Financial Corporation,financials
 RJF,0000720005,Raymond James Financial,financials
 RL,0001037038,Ralph Lauren Corporation,consumer_discretionary
-RMD,0000943819,ResMed,health_care
+RMD,0000943819,ResMed|,health_care
 ROK,0001024478,Rockwell Automation,industrials
 ROL,0000084839,"Rollins, Inc.",industrials
 ROP,0000882835,Roper Technologies,information_technology
