@@ -87,7 +87,7 @@ ATI,0001018963,Allegheny Technologies Inc,materials,1978-12-31,2015-07-02,2007-0
 ATO,0000731802,Atmos Energy,utilities,2019-02-15,,2019-02-15
 ATVI,0000718877,Activision Blizzard,communication_services,2015-08-31,2023-10-18,2015-09-03
 AV,0001116521,Avaya Inc.,information_technology,2007-03-05*,2007-10-26,2007-03-05
-AVB,0000915912,AvalonBay Communities,real_estate,2007-01-10,,2007-03-05
+AVB,0000915912,AvalonBay Communities,real_estate,2007-01-10,2026-08-17*,2007-03-05
 AVGO,0001730168,Broadcom,information_technology,2014-05-08,,2014-05-09
 AVP,0000008868,Avon Products,consumer_staples,1967-06-30,2015-03-23,2007-03-05
 AVY,0000008818,Avery Dennison,materials,1987-12-31,,2007-03-05
@@ -323,7 +323,7 @@ EP,0001066107,El Paso Corp.,energy,2007-03-05*,2012-05-17,2007-03-05
 EPAM,0001352010,EPAM Systems,information_technology,2021-12-14,2026-06-02,2021-12-14
 EQ,0001350031,Embarq Corporation,communication_services,2007-03-05*,2009-07-04*,2007-03-05
 EQIX,0001101239,Equinix,real_estate,2015-03-20,,2015-03-20
-EQR,0000906107,Equity Residential,real_estate,2001-12-03,,2007-03-05
+EQR,0000906107,Equity Residential,real_estate,2001-12-03,2026-08-18*,2007-03-05
 EQT,0000033213,EQT Corporation,energy,2008-12-19,2018-11-13,2009-03-07
 EQT,0000033213,EQT Corporation,energy,2022-10-03,,2022-10-03
 ERIE,0000922621,Erie Indemnity,financials,2024-09-23,,2024-09-21
@@ -755,6 +755,7 @@ R,0000085961,Ryder System,industrials,1982-12-31,2017-06-19,2007-03-05
 RAI,0001275283,Reynolds American Inc.,consumer_staples,2007-03-05*,2017-07-26,2007-03-05
 RCL,0000884887,Royal Caribbean Group,consumer_discretionary,2014-12-05,,2014-12-04
 RDC,0000085408,Rowan Cos.,energy,1985-01-31,2014-08-18,2007-03-05
+RDDT,,Reddit,communication_services,2026-08-18,,2026-08-18
 RE,0001095073,Everest Re,financials,2017-06-19,2023-07-10,2017-06-17
 REG,0000910606,Regency Centers,real_estate,2017-03-02,,2017-03-02
 REGN,0000872589,Regeneron Pharmaceuticals,health_care,2013-05-01,,2013-05-01
@@ -928,6 +929,7 @@ VICI,0001705696,Vici Properties,real_estate,2022-06-08,,2022-06-07
 VLO,0001035002,Valero Energy,energy,2002-12-20,,2007-03-05
 VLTO,0001967680,Veralto,industrials,2023-10-02,,2023-10-05
 VMC,0001396009,Vulcan Materials Company,materials,1999-06-30,,2007-03-05
+VMRK,0000906107,Vivmark Residential,real_estate,2001-12-03,,2026-08-18
 VNO,0000899689,Vornado Realty Trust,real_estate,2007-03-05*,2023-01-05,2007-03-05
 VNT,0001786842,Vontier,information_technology,2020-10-09,2021-03-22,2020-10-09
 VRSK,0001442145,Verisk Analytics,industrials,2015-10-08,,2015-10-08

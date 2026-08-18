@@ -43,7 +43,6 @@ APTV,0001521332,Aptiv,consumer_discretionary
 ARE,0001035443,Alexandria Real Estate Equities,real_estate
 ARES,0001176948,Ares Management,financials
 ATO,0000731802,Atmos Energy,utilities
-AVB,0000915912,AvalonBay Communities,real_estate
 AVGO,0001730168,Broadcom,information_technology
 AVY,0000008818,Avery Dennison,materials
 AWK,0001410636,American Water Works,utilities
@@ -163,7 +162,6 @@ EME,0000105634,Emcor,industrials
 EMR,0000032604,Emerson Electric,industrials
 EOG,0000821189,EOG Resources,energy
 EQIX,0001101239,Equinix,real_estate
-EQR,0000906107,Equity Residential,real_estate
 EQT,0000033213,EQT Corporation,energy
 ERIE,0000922621,Erie Indemnity,financials
 ES,0000072741,Eversource Energy,utilities
@@ -386,6 +384,7 @@ PYPL,0001633917,PayPal,financials
 Q,0002058873,Qnity Electronics,information_technology
 QCOM,0000804328,Qualcomm,information_technology
 RCL,0000884887,Royal Caribbean Group,consumer_discretionary
+RDDT,,Reddit,communication_services
 REG,0000910606,Regency Centers,real_estate
 REGN,0000872589,Regeneron Pharmaceuticals,health_care
 RF,0001281761,Regions Financial Corporation,financials
@@ -469,6 +468,7 @@ VICI,0001705696,Vici Properties,real_estate
 VLO,0001035002,Valero Energy,energy
 VLTO,0001967680,Veralto,industrials
 VMC,0001396009,Vulcan Materials Company,materials
+VMRK,0000906107,Vivmark Residential,real_estate
 VRSK,0001442145,Verisk Analytics,industrials
 VRSN,0001014473,Verisign,information_technology
 VRT,0001674101,Vertiv,industrials
