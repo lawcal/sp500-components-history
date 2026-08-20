@@ -162,7 +162,6 @@ EME,0000105634,Emcor,industrials
 EMR,0000032604,Emerson Electric,industrials
 EOG,0000821189,EOG Resources,energy
 EQIX,0001101239,Equinix,real_estate
-EQR,0000906107,Equity Residential,real_estate
 EQT,0000033213,EQT Corporation,energy
 ERIE,0000922621,Erie Indemnity,financials
 ES,0000072741,Eversource Energy,utilities
@@ -385,6 +384,7 @@ PYPL,0001633917,PayPal,financials
 Q,0002058873,Qnity Electronics,information_technology
 QCOM,0000804328,Qualcomm,information_technology
 RCL,0000884887,Royal Caribbean Group,consumer_discretionary
+RDDT,0001713445,Reddit,communication_services
 REG,0000910606,Regency Centers,real_estate
 REGN,0000872589,Regeneron Pharmaceuticals,health_care
 RF,0001281761,Regions Financial Corporation,financials
@@ -468,6 +468,7 @@ VICI,0001705696,Vici Properties,real_estate
 VLO,0001035002,Valero Energy,energy
 VLTO,0001967680,Veralto,industrials
 VMC,0001396009,Vulcan Materials Company,materials
+VMRK,0000906107,Vivmark Residential,real_estate
 VRSK,0001442145,Verisk Analytics,industrials
 VRSN,0001014473,Verisign,information_technology
 VRT,0001674101,Vertiv,industrials
