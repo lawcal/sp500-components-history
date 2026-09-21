@@ -110,6 +110,7 @@ BC,0000014930,Brunswick Corp.,consumer_discretionary,2007-03-05*,2008-06-23,2007
 BCR,0000009892,Bard (C.R.) Inc.,health_care,1975-06-30,2018-01-03,2007-03-05
 BDK,0000093556,Black & Decker Corp.,consumer_discretionary,2007-03-05*,2010-04-03*,2007-03-05
 BDX,0000010795,Becton Dickinson,health_care,1972-09-30,,2007-03-05
+BE,0001664703,Bloom Energy,industrials,2026-09-21,,2026-09-20
 BEAM,0000789073,Beam Inc.,consumer_staples,2011-11-21*,2014-05-01,2011-11-21
 BEN,0000038777,Franklin Resources,financials,1998-04-30,,2007-03-05
 BF.B,0000014693,Brown–Forman,consumer_staples,1982-10-31,,2007-03-05
@@ -124,7 +125,7 @@ BJS,0000864328,BJ Services Company,energy,2007-03-05*,2010-04-29,2007-03-05
 BK,0001390777,BNY Mellon,financials,1995-03-31,2026-05-21*,2007-03-05
 BKNG,0001075531,Booking Holdings,consumer_discretionary,2009-11-06,,2018-02-28
 BKR,0001701605,Baker Hughes,energy,2017-07-07,,2019-10-24
-BLDR,0001316835,Builders FirstSource,industrials,2023-12-18,,2023-12-16
+BLDR,0001316835,Builders FirstSource,industrials,2023-12-18,2026-09-20*,2023-12-16
 BLK,0002012383,BlackRock,financials,2011-04-04,,2011-04-07
 BLL,0000009389,Ball,materials,1984-10-31,2022-05-10*,2007-03-05
 BMC,0000835729,BMC Software,information_technology,2007-03-05*,2013-09-10,2007-03-05
@@ -472,6 +473,7 @@ IEX,0000832101,IDEX Corporation,industrials,2019-08-09,,2019-08-12
 IFF,0000051253,International Flavors & Fragrances,materials,1976-03-31,,2007-03-05
 IGT,0000353944,International Game Technology,consumer_discretionary,2007-03-05*,2014-06-20,2007-03-05
 ILMN,0001110803,Illumina,health_care,2015-11-19,2024-06-24,2015-11-18
+ILMN,0001110803,"Illumina, Inc.",health_care,2026-09-21,,2026-09-20
 INCY,0000879169,Incyte,health_care,2017-02-28,,2017-02-28
 INFO,0001598014,IHS Markit,industrials,2017-06-02,2022-03-02,2017-06-01
 INTC,0000050863,Intel,information_technology,1976-12-31,,2007-03-05
@@ -689,6 +691,7 @@ ORCL,0001341439,Oracle Corporation,information_technology,1989-08-31,,2007-03-05
 ORLY,0000898173,O'Reilly Automotive,consumer_discretionary,2009-03-27,,2009-04-06
 OTIS,0001781335,Otis Worldwide,industrials,2020-04-03,,2020-04-12
 OXY,0000797468,Occidental Petroleum,energy,1957-03-04,,2007-03-05
+P,0001474432,Everpure,information_technology,2026-09-21,,2026-09-20
 PANW,0001327567,Palo Alto Networks,information_technology,2023-06-20,,2023-06-19
 PARA,0000813828,Paramount Global,communication_services,1994-09-30,2025-08-08*,2022-02-17
 PAYC,0001590955,Paycom,industrials,2020-01-28,2026-03-23,2020-01-29
@@ -846,7 +849,7 @@ SYK,0000310764,Stryker Corporation,health_care,2000-12-12,,2007-03-05
 SYMC,0000849399,Symantec Corp.,information_technology,2003-03-25,2019-11-06*,2007-03-05
 SYY,0000096021,Sysco,consumer_staples,1986-12-31,,2007-03-05
 T,0000732717,AT&T,communication_services,1983-11-30,,2007-03-05
-TAP,0000024545,Molson Coors Beverage Company,consumer_staples,1976-06-30,,2007-03-05
+TAP,0000024545,Molson Coors Beverage Company,consumer_staples,1976-06-30,2026-09-20*,2007-03-05
 TDC,0000816761,Teradata Corp.,information_technology,2007-10-01,2017-06-19,2008-01-22
 TDG,0001260221,TransDigm Group,industrials,2016-06-03,,2016-06-03
 TDY,0001094285,Teledyne Technologies,information_technology,2020-06-22,,2020-07-15
@@ -889,7 +892,7 @@ TSO,0000050104,Tesoro Petroleum Co.,energy,2007-09-27,2017-08-01,2008-01-22
 TSS,0000721683,Total System Services,information_technology,2008-01-02,2019-09-23,2008-01-22
 TT,0001466258,Trane Inc.,industrials,2007-11-28*,2008-08-21*,2007-11-28
 TT,0001466258,Trane Technologies,industrials,2010-11-17,,2020-03-03
-TTD,0001671933,Trade Desk (The),communication_services,2025-07-18,,2025-07-17
+TTD,0001671933,Trade Desk (The),communication_services,2025-07-18,2026-09-20*,2025-07-17
 TTWO,0000946581,Take-Two Interactive,communication_services,2018-03-19,,2018-03-18
 TWC,0001377013,Time Warner Cable Inc.,consumer_discretionary,2009-03-30,2016-05-18,2009-04-06
 TWTR,0001418091,Twitter Inc.,communication_services,2018-06-07,2022-11-01,2018-06-07

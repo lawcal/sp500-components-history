@@ -55,13 +55,13 @@ BALL,0000009389,Ball Corporation,materials
 BAX,0000010456,Baxter International,health_care
 BBY,0000764478,Best Buy,consumer_discretionary
 BDX,0000010795,Becton Dickinson,health_care
+BE,0001664703,Bloom Energy,industrials
 BEN,0000038777,Franklin Resources,financials
 BF.B,0000014693,Brown–Forman,consumer_staples
 BG,0001996862,Bunge Global,consumer_staples
 BIIB,0000875045,Biogen,health_care
 BKNG,0001075531,Booking Holdings,consumer_discretionary
 BKR,0001701605,Baker Hughes,energy
-BLDR,0001316835,Builders FirstSource,industrials
 BLK,0002012383,BlackRock,financials
 BMY,0000014272,Bristol Myers Squibb,health_care
 BNY,0001390777,BNY Mellon,financials
@@ -242,6 +242,7 @@ ICE,0001571949,Intercontinental Exchange,financials
 IDXX,0000874716,Idexx Laboratories,health_care
 IEX,0000832101,IDEX Corporation,industrials
 IFF,0000051253,International Flavors & Fragrances,materials
+ILMN,0001110803,"Illumina, Inc.",health_care
 INCY,0000879169,Incyte,health_care
 INTC,0000050863,Intel,information_technology
 INTU,0000896878,Intuit,information_technology
@@ -352,6 +353,7 @@ ORCL,0001341439,Oracle Corporation,information_technology
 ORLY,0000898173,O'Reilly Automotive,consumer_discretionary
 OTIS,0001781335,Otis Worldwide,industrials
 OXY,0000797468,Occidental Petroleum,energy
+P,0001474432,Everpure,information_technology
 PANW,0001327567,Palo Alto Networks,information_technology
 PAYX,0000723531,Paychex,industrials
 PCAR,0000075362,Paccar,industrials
@@ -425,7 +427,6 @@ SYF,0001601712,Synchrony Financial,financials
 SYK,0000310764,Stryker Corporation,health_care
 SYY,0000096021,Sysco,consumer_staples
 T,0000732717,AT&T,communication_services
-TAP,0000024545,Molson Coors Beverage Company,consumer_staples
 TDG,0001260221,TransDigm Group,industrials
 TDY,0001094285,Teledyne Technologies,information_technology
 TECH,0000842023,Bio-Techne,health_care
@@ -447,7 +448,6 @@ TSCO,0000916365,Tractor Supply,consumer_discretionary
 TSLA,0001318605,"Tesla, Inc.",consumer_discretionary
 TSN,0000100493,Tyson Foods,consumer_staples
 TT,0001466258,Trane Technologies,industrials
-TTD,0001671933,Trade Desk (The),communication_services
 TTWO,0000946581,Take-Two Interactive,communication_services
 TXN,0000097476,Texas Instruments,information_technology
 TXT,0000217346,Textron,industrials
