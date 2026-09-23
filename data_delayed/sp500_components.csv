@@ -55,6 +55,7 @@ BALL,0000009389,Ball Corporation,materials
 BAX,0000010456,Baxter International,health_care
 BBY,0000764478,Best Buy,consumer_discretionary
 BDX,0000010795,Becton Dickinson,health_care
+BE,0001664703,Bloom Energy,industrials
 BEN,0000038777,Franklin Resources,financials
 BF.B,0000014693,Brown–Forman,consumer_staples
 BG,0001996862,Bunge Global,consumer_staples
@@ -241,6 +242,7 @@ ICE,0001571949,Intercontinental Exchange,financials
 IDXX,0000874716,Idexx Laboratories,health_care
 IEX,0000832101,IDEX Corporation,industrials
 IFF,0000051253,International Flavors & Fragrances,materials
+ILMN,0001110803,"Illumina, Inc.",health_care
 INCY,0000879169,Incyte,health_care
 INTC,0000050863,Intel,information_technology
 INTU,0000896878,Intuit,information_technology
@@ -351,6 +353,7 @@ ORCL,0001341439,Oracle Corporation,information_technology
 ORLY,0000898173,O'Reilly Automotive,consumer_discretionary
 OTIS,0001781335,Otis Worldwide,industrials
 OXY,0000797468,Occidental Petroleum,energy
+P,0001474432,Everpure,information_technology
 PANW,0001327567,Palo Alto Networks,information_technology
 PAYX,0000723531,Paychex,industrials
 PCAR,0000075362,Paccar,industrials
