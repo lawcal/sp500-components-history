@@ -120,7 +120,6 @@ CSGP,0001057352,CoStar Group,real_estate
 CSX,0000277948,CSX Corporation,industrials
 CTAS,0000723254,Cintas,industrials
 CTSH,0001058290,Cognizant,information_technology
-CTVA,0001755672,Corteva,materials
 CVNA,0001690820,Carvana,consumer_discretionary
 CVS,0000064803,CVS Health,health_care
 CVX,0000093410,Chevron Corporation,energy
@@ -449,6 +448,7 @@ TSLA,0001318605,"Tesla, Inc.",consumer_discretionary
 TSN,0000100493,Tyson Foods,consumer_staples
 TT,0001466258,Trane Technologies,industrials
 TTWO,0000946581,Take-Two Interactive,communication_services
+TWLO,0001447669,Twilio,information_technology
 TXN,0000097476,Texas Instruments,information_technology
 TXT,0000217346,Textron,industrials
 TYL,0000860731,Tyler Technologies,information_technology
@@ -476,10 +476,10 @@ VRTX,0000875320,Vertex Pharmaceuticals,health_care
 VST,0001692819,Vistra Corp.,utilities
 VTR,0000740260,Ventas,real_estate
 VTRS,0001792044,Viatris,health_care
+VYLR,0002128626,Vylor,consumer_staples
 VZ,0000732712,Verizon,communication_services
 WAB,0000943452,Wabtec,industrials
 WAT,0001000697,Waters Corporation,health_care
-WBD,0001437107,Warner Bros. Discovery,communication_services
 WDAY,0001327811,"Workday, Inc.",information_technology
 WDC,0000106040,Western Digital,information_technology
 WEC,0000783325,WEC Energy Group,utilities
