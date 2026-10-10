@@ -377,7 +377,6 @@ PPG,0000079879,PPG Industries,materials
 PPL,0000922224,PPL Corporation,utilities
 PRU,0001137774,Prudential Financial,financials
 PSA,0001393311,Public Storage,real_estate
-PSKY,0002041610,Paramount Skydance Corporation,communication_services
 PSX,0001534701,Phillips 66,energy
 PTC,0000857005,PTC Inc.,information_technology
 PWR,0001050915,Quanta Services,industrials
@@ -404,6 +403,7 @@ SBUX,0000829224,Starbucks,consumer_discretionary
 SCHW,0000316709,Charles Schwab Corporation,financials
 SHW,0000089800,Sherwin-Williams,materials
 SJM,0000091419,J.M. Smucker Company (The),consumer_staples
+SKYD,0002041610,Skydance Corporation,communication_services
 SLB,0000087347,Schlumberger,energy
 SMCI,0001375365,Supermicro,information_technology
 SNA,0000091440,Snap-on,industrials
