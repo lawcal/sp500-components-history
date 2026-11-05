@@ -532,7 +532,7 @@ KRFT,0001545158,Kraft Foods Group,consumer_staples,2012-10-02,2015-07-06,2012-10
 KSE,0001062379,Keyspan Energy,utilities,2007-03-05*,2007-08-24,2007-03-05
 KSS,0000885639,Kohl's Corp.,consumer_discretionary,2007-03-05*,2020-09-21,2007-03-05
 KSU,0000054480,Kansas City Southern,industrials,2013-05-24,2021-12-14,2013-05-24
-KVUE,0001944048,Kenvue,consumer_staples,2023-08-25,,2023-08-28
+KVUE,0001944048,Kenvue,consumer_staples,2023-08-25,2026-11-04*,2023-08-28
 L,0000060086,Loews Corporation,financials,1995-05-31,,2008-08-21
 LB,0000701985,L Brands,consumer_discretionary,1983-09-30,2021-08-03*,2013-12-09
 LDOS,0001336920,Leidos,industrials,2019-08-09,,2019-08-12
@@ -684,6 +684,7 @@ ODP,0000800240,Office Depot,consumer_discretionary,2007-03-05*,2010-12-17,2007-0
 OGN,0001821825,Organon & Co.,health_care,2021-06-03,2023-10-18,2021-06-04
 OI,0000812074,Owens-Illinois Inc,materials,2009-01-02,2016-12-02,2009-03-07
 OKE,0001039684,Oneok,energy,2010-03-15,,2010-04-03
+OKTA,0001660134,"Okta, Inc.",information_technology,2026-11-04,,2026-11-04
 OMC,0000029989,Omnicom Group,communication_services,1997-12-31,,2007-03-05
 OMX,0000012978,OfficeMax Inc.,consumer_discretionary,2007-03-05*,2008-06-23,2007-03-05
 ON,0001097864,ON Semiconductor,information_technology,2022-06-21,,2022-06-20
